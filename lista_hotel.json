@@ -1,0 +1,3548 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "AUy1YQ11n-reJoruN992i2TFPimMmCVtOhETuKJlv5COr5AtrO1MLrScyqN2paz7hXtw_wXwaNVdLKZDiGTfoBt9nQRmAgqyUc3ciRS_5DV1uvV9cno4nomcYKTlHV35Iqb4ZJ8omyFcts_8zZ5a6h-taAduHY-9IxHzJCJZ8SsP_r41OLYyRlH4Yca3khuFiZ9H4QKvTvz7U9jksTFy-Qh0jdZtSddSzebzCPFWrjoE00nr0a37doFqvDlknrLKq7uLyXsKGTV1X_zN_o48qsWdpM-F4jaS6jLP4B9bsRnfsnEfV5ZquV20KAwvdnEozohnEuLk2-KPJuW2ESDcWi5HEpYEtIkgo3UgKgiti6FVJo-lrUlXYsInKb47o0qqnrebIPp-cyWzxhndNLEIFw",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale A. Vespucci, 3, 54100 Marina di Massa MS, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0090841,
+               "lng" : 10.097491
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.01039117989272,
+                  "lng" : 10.09880197989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.00769152010727,
+                  "lng" : 10.09610232010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "photos" : 
+         [
+            {
+               "height" : 1304,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112672574695303969700\"\u003eHotel Italia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ22q6Tryr9VfLtNhhj3Ex8YYNOZ2wATDJhEPfDC_r9H6NeHlHlVxJXXYSifYojbEc6NwP3b5W3Vj4-KRf9CVjQIQOS4kMB6LuhOcWJ04AIfOPGtVqRMjw9yQweTrMDl2KMDj4oJJH3HicJFXorsFEi7PEcdkSYIpAVl6J20_9xMiUKIlfd0Tpb3aqd82Mw8CAmdFBMUcHlTn2gxONxFcNPtMbci0Pc6ydOMLDGxqaeQiRo2a8i0nt2zYlCKtxy0ZyFPPnlWSGgb244UIOWBYv2kvQgCJ7YaXxSE3tDStNsjd3n4U6E",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJfczL-5UI1RIRIJB_jio0vZM",
+         "plus_code" : 
+         {
+            "compound_code" : "235X+M2 Marina di Massa, Province of Massa and Carrara",
+            "global_code" : "8FPG235X+M2"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJfczL-5UI1RIRIJB_jio0vZM",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 442
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via G. Mazzini, 4, 27049 Stradella PV, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.0762083,
+               "lng" : 9.3020125
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.07762327989272,
+                  "lng" : 9.303434129892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.07492362010728,
+                  "lng" : 9.30073447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 467,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112032650449061384017\"\u003eHOTEL ITALIA\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2NtPZ2qe5fJp10CWAzA6dt3zoJ0jVi8j-MtIQfRH-7TAE3-A4CetANtIteAYBvN1ijYQ7wpJp7R1jhuk0shfPdXCGAmV4K8Jyw-fIivYwQT2ylHhaQa4s0scZhEVvM0UKJA5AWXyOZVJN9ng6GGRTV8dE0bXK8cwy2bfL5gXinVRDkNmv4l27oSzBzn-DuiPilVv1cIPZb27NOqaZ0q9its5zHPr93P52jgCULmVDVWLo-fa4WLmuq4sX5VA7f_WtOQH2h9mI8E0I_XYoFL9c6QU1gNviilxoCTwWs8ZTLF1aqr4E",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJuyIilmQth0cRFXPlfbeHfv0",
+         "plus_code" : 
+         {
+            "compound_code" : "38G2+FR Stradella, Province of Pavia",
+            "global_code" : "8FQF38G2+FR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJuyIilmQth0cRFXPlfbeHfv0",
+         "types" : 
+         [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 248
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Alessandro Bicchierai, 20, 51016 Montecatini Terme PT, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.8816222,
+               "lng" : 10.7755778
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.88297882989273,
+                  "lng" : 10.77688937989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.88027917010728,
+                  "lng" : 10.77418972010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Boston",
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103016794952060716946\"\u003eHotel Boston\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2OeoRIIKqqFQUJEGWgWCu6_15pxAUOr4JTMQm0ijD5W6HCDIGe74zVfnDp8Y6y6D3Xyg7zlUKuFhqSmy2oCT2BcTtbCJ0Jva1wPVpr4YVUeVqzjnq_AxqdPzDIp8LTlMNicWKAySisTMOpb9eNU9DxdYB3mgQiSTxttgGhXHEL8Y8gdS9eMWlUZ_YLuiIT-MShnjd8yLtCeUp5PRumLH2v_UHZuJv_7V1CfppWPOdJIfcFesOCnNyT3sU92l75ruaSl0Gd1KguQdmhhua5RgDR4QNx0vmhvadruQE3vtKJ3UP0",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJWYWGuGd9KhMR9T3AmLN18gc",
+         "plus_code" : 
+         {
+            "compound_code" : "VQJG+J6 Montecatini Terme, Province of Pistoia",
+            "global_code" : "8FMGVQJG+J6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJWYWGuGd9KhMR9T3AmLN18gc",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1782
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Goffredo Mameli, 58/66, 37126 Verona VR, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.451155,
+               "lng" : 10.9899209
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.45247632989272,
+                  "lng" : 10.99122872989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.44977667010728,
+                  "lng" : 10.98852907010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112764186591245169296\"\u003eHarry Taschler\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ366ynmbIe5UDQ46Atn_HeS2JjdSOzzIElMS_7or0iQYNYNg11zex4r8kbaX0zyyXHULPtTuzVOaHUwM9V8ExmLett63oywEmfulQBf9d5IaSwpmITQGuwOr7F5mqyFRrF_fBghUCiZ598QakW1DHGim6f4ZEgxnybxFzeeLXXosEZSVT7DZbXPqSRbJ9IWEpgvLXYfKy23Hc_TOeC1_l0-fo3enn5Fqa_5lC9Zp4ho97sAzYUiPkudv6TfzksmEfGZWHMMRRGGXiyt09PepgkZX5hdM7C6_CumyDUe34DFxbp6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJr3FbOa1Yf0cR5oVeiQqpjPE",
+         "plus_code" : 
+         {
+            "compound_code" : "FX2Q+FX Verona, Province of Verona",
+            "global_code" : "8FQGFX2Q+FX"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJr3FbOa1Yf0cR5oVeiQqpjPE",
+         "types" : 
+         [
+            "cafe",
+            "lodging",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 711
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Iommella Grande, 99, 80065 Sant'Agnello NA, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.6348172,
+               "lng" : 14.4002375
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.63621042989272,
+                  "lng" : 14.40144402989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.63351077010728,
+                  "lng" : 14.39874437010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Seven Hostel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1350,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106345278584648716365\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1OiY8OQoN6AFj2lXN3eooccyqVK7lpj3vqBxK7eLHZWvYRSJ8doDsu0VzyEcc_wbYA-Fi03BvaGau53UebYyjDqXHhiB9cEKSRBbNNRkqTcSnphRv9JzTKyjP5tru2b7iU-58CqNIDUTX5TbKz03cNTeWMy7B2ljuy1lNiPUP11dueV_E2Dw-srvSBUPqxbEZ2ugvdrUWb1wgfU86qjtHF_NSw48MCJOeDEW7ciMEsvfJkQipTOxlJ_kL06PDaxVwKQsnsx7AzB11n3BIZpFHWTjuRISPDjTNYLBvUf04Uql22Pps",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJkRn1ekCZOxMRGQWgj4OWG0I",
+         "plus_code" : 
+         {
+            "compound_code" : "JCM2+W3 Sant'Agnello, Metropolitan City of Naples",
+            "global_code" : "8FGPJCM2+W3"
+         },
+         "rating" : 4,
+         "reference" : "ChIJkRn1ekCZOxMRGQWgj4OWG0I",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 831
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Torino, 23, 10022 Carmagnola TO, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.8529619,
+               "lng" : 7.7242002
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.85430642989272,
+                  "lng" : 7.725665879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.85160677010727,
+                  "lng" : 7.722966220107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Ristorante Italia",
+         "photos" : 
+         [
+            {
+               "height" : 439,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112927975844839501039\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0eCbL6TuSnPRYv7ASr7EvZxkHGkVy3qIPfl8MzEcYxrGM9TdCvMP12G1CaAbIXNo17lfPLuNceklw6aGPoFpcbuuLGxCayHYtW2G2rNRt8KSulLP63Y8ucaJkRcar48CnIrRoHU0ZTo4H7TkypHmgA4gwDxqDNWLQPD86tBNsnlWxWQBegYEZo1eA6KR9ab5cSBoBY9qEOtP3Rj-UkO2IVWW1sRlj6Ji_mnwYXrdeEqrABfcNKriI41WR1ot7UnuD4WhcuF_6BvoU6g3-gLOdp8V4_Bzu3vz2rgDAs6ToRsEgMmh0",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ21jR69QFiEcRTHDC-Vo-HUI",
+         "plus_code" : 
+         {
+            "compound_code" : "VP3F+5M Carmagnola, Metropolitan City of Turin",
+            "global_code" : "8FP9VP3F+5M"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ21jR69QFiEcRTHDC-Vo-HUI",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 235
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via di Monte del Gallo, 113, 00165 Roma RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.8941585,
+               "lng" : 12.4524876
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.89554172989272,
+                  "lng" : 12.45392282989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.89284207010727,
+                  "lng" : 12.45122317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Casa Tra Noi Rome",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1440,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109180712690024351985\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3YDoB_7-_dPBM_X1SRn9ZY3-nIypCvEZMLeGnX6G6jihLjTPnxb8kRowtTtY71qWXvgriC92tzMwfCgqaMKbgm0o5xQFmObzN4keyVVkYjKUBTlas1JPwNLvyWtIzP0xp47rZMec3W0XkG2L-OO57hf1_4kWiy3o_-ywee-Q6bvOQnthsHBOItOGQ89_y_OyL3w4D6732y0_mMDqLPH_EYXS2XkMQua9UxmglW6RBjiEox-oe-n4oCVUuw8RS3kS3oDtRq3zdmBY4f0Btc5FZBCcmuwadmi34q3gXhy7jwU0armXQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJQ2PpAG1gLxMRTE0OZ1x4gik",
+         "plus_code" : 
+         {
+            "compound_code" : "VFV2+MX Rome, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJVFV2+MX"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJQ2PpAG1gLxMRTE0OZ1x4gik",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1727
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Ghibellina, 5, 52044 Cortona AR, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.274947,
+               "lng" : 11.984946
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.27628092989273,
+                  "lng" : 11.98628862989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.27358127010728,
+                  "lng" : 11.98358897010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1183,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115083645509723267838\"\u003eHotel Italia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ00543XTGhlQ3g-EkzOlrVk8EwtRyjLbtDn2oiMjGY_-ji9JrFA-4kniFhjZ0o1nb0CiX9RCcVU8kJAjASGlPgZJRkbSaT17gr40BJkU7dcGa2lME0_X48t13IcY3Lrw-FO5d7UMUW2-Z8i4Drnw4gdzeQ4xF_4WuAqsQNw3_pHuD4zw8NR8Q2DRlBp2nklN0CBsjgy-QvvBS5vvATn0UF6S4HK9gLZlV-RQeTDoCgxFaufFagV033aCYxQ2LmPt5cjRqPH2xzZcsqialZR4XKTgCf9ujtH3IBNpJIw_PcOwowo",
+               "width" : 2659
+            }
+         ],
+         "place_id" : "ChIJ9c-KX3_5KxMRtJAkTLQ94XQ",
+         "plus_code" : 
+         {
+            "compound_code" : "7XFM+XX Cortona, Province of Arezzo",
+            "global_code" : "8FMH7XFM+XX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ9c-KX3_5KxMRtJAkTLQ94XQ",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 175
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corso Stati Uniti, 9/bis, 10128 Torino TO, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.06166520000001,
+               "lng" : 7.6736557
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.06303657989272,
+                  "lng" : 7.675052179892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.06033692010728,
+                  "lng" : 7.672352520107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 683,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102410761731545806634\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1AIEwEtG2HjN52yajEQ4V0U-MMNV0fKo7piL_aEXQCdf0i1IZiAVmEAEOmiV4b7VXBg8g1C9asYedYjNVhq0_-0-Wy1h1Bku4oH3gbjnj5bQ6q2Jx46kd5X45oGcRzrY6ddkNmwjibOo6JJR0sSaqfe9EHyz_V8rn24aRXrC2t12xRXl5jSCIMIL9EOzm-0xjPhL-wKBr0ar7y4maBaK0_OhqtROnrZ2JNNofsECcL5FTSeCR74_ufH6Hk9td1ZRnwmzcXF_arsi5yMIEKYGzekVX0VcurITNTDhN45yE84CGV2Hk",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJN9KCNhVtiEcRK5x_BA-l4oY",
+         "plus_code" : 
+         {
+            "compound_code" : "3M6F+MF Turin, Metropolitan City of Turin",
+            "global_code" : "8FQ93M6F+MF"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJN9KCNhVtiEcRK5x_BA-l4oY",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 762
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Caravaggio, 20, 47042 Valverde FC, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.182852,
+               "lng" : 12.4215227
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.18426877989272,
+                  "lng" : 12.42290302989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.18156912010728,
+                  "lng" : 12.42020337010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Majestic",
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115188992582893899781\"\u003eMichele Pedrotti\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2ALzT9LHZ7zmDJ50P1XeD6UlBXdTjnhS6KJ75PzVNrcqGkHPMaJ9oLzq-uSe4gvHVaJizuLEjYKLBQhgp3sDralNE7jasn6M_r0U2oEA4-y86q8Xt9WFgA3r1n1JjJ9RudAIXw3F0PJ7naMtx1Gby1cyJx2kpMCJyjLPVXoLph95obdYQXlbXAbIVGykAAhP8Mf3EcOHvSMWKwE_RGqFcif69beiLvBphGbAoGdNqDjmqrozXu2u4mPFd2rVNcqc2oniTSQSCKS5b0siqHC3n_BOlwi-tVOlooD32AMvxOuMla6P0",
+               "width" : 2992
+            }
+         ],
+         "place_id" : "ChIJC0etde63LBMRVbzIRqGih_I",
+         "plus_code" : 
+         {
+            "compound_code" : "5CMC+4J Valverde, Province of Forlì-Cesena",
+            "global_code" : "8FPJ5CMC+4J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJC0etde63LBMRVbzIRqGih_I",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 315
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corso Partigiani, 48, 27012 Certosa di Pavia PV, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.2524021,
+               "lng" : 9.130853699999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.25367817989272,
+                  "lng" : 9.13212942989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.25097852010728,
+                  "lng" : 9.129429770107276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1610,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112895247500176256000\"\u003eHotel Italia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ18n0lpMUMmMEzAb05kxgfokMfWd87Vb6Qlph5OB2ebot2MUnudYRE96Nra5c7MO6mC_gZJ6Fuva_2X70beH4ISN2Tm5u8O_gQHjYODyCkYgio3-4pkdlB3vERrFX7Ln0EjU1RzzaIjRAHLwfWK5tDNacz7gL_BsP0ap0083AUoH-fcQ8cJvDZkpWgy1wVtvnk6uqGaI6Q8bmAi6n-flVadxKnkZNbDzsTbPOUETTHrDAEASU3nbb333vJa9QmyQ548Kdi9qW4MKLLaCCzOZ1phwBFZbSOKWHzlrvkJbeSH-vu7RMQ",
+               "width" : 2860
+            }
+         ],
+         "place_id" : "ChIJLx-U47jYhkcRBZ-NHUL1IVE",
+         "plus_code" : 
+         {
+            "compound_code" : "742J+X8 Certosa di Pavia, Province of Pavia",
+            "global_code" : "8FQF742J+X8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJLx-U47jYhkcRBZ-NHUL1IVE",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 723
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Dante Alighieri, 38, 30016 Lido di Jesolo VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.5070574,
+               "lng" : 12.647953
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.50844482989272,
+                  "lng" : 12.64931132989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.50574517010728,
+                  "lng" : 12.64661167010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111723509755955771384\"\u003eMarkus Kal\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ30ZcKCbt7f02ZTVu8z47HXg_rJ4PpQr19mtx9sK7pTkYI8XP4fu1SYaHV3CFMGOF3x8cJcixsFLbj3Y5ru0LVPmdIs8gzi5j8egzpddajw4czRSec2fO541E_eL2Hier8YHB4BoZlSnmUqBiGvVn_l_i7vIXljzbkDHgiWXkl_EuR5HR6H-Ku5Y9BQgv-epB4kH_3ks0IJg-bxdqGH7cDU7o2BBqMyW8jxOh5Rq0i95AQK4s39X1QGBYdPaj-XCFPYjx2WiwqrGy5bTbJx6lLswAEKQGobORQKDDsb1BTik-j8Vzs",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJsTSvzl__e0cRMFNx0kMBh0g",
+         "plus_code" : 
+         {
+            "compound_code" : "GJ4X+R5 Lido di Jesolo, Metropolitan City of Venice",
+            "global_code" : "8FQJGJ4X+R5"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJsTSvzl__e0cRMFNx0kMBh0g",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 396
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Campiello S. Simeone Grande, 932, 30135 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4413535,
+               "lng" : 12.3240895
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44267467989272,
+                  "lng" : 12.32538607989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43997502010728,
+                  "lng" : 12.32268642010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Canal Grande Hotel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2047,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105317059479462756110\"\u003eHotel Canal Grande\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0oh2aw386RX_8VHQ2Z6Xxwl7VBN9jfluseZOeKFuEoTkvEN7yNTe4ozwmgUIlFbsYalDytn9xEPPtun4jYw_RKj4Ys41pPx0slcyQ9zUeEurQZOBW9gSWgegiSZ_bQvu4az4M8zqdV8JTQgqfC50XJpLMwpz3tnSkuu0jfQlLmNaWbif26fMoInnFC4sUtLV9zSilKL4LMWi6Zc2vXnw9f-sid5aDyFlQDnhyHsK122w7cZxnc9xXUtndH16T-GsGusMk6jU9FxKRrjRg70vVEDjxdXLJ90sBVm0Ahg6vl4pQB",
+               "width" : 3076
+            }
+         ],
+         "place_id" : "ChIJoe6rvsaxfkcR9FAuoMdi2Jg",
+         "plus_code" : 
+         {
+            "compound_code" : "C8RF+GJ Venice, Metropolitan City of Venice",
+            "global_code" : "8FQJC8RF+GJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJoe6rvsaxfkcR9FAuoMdi2Jg",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 554
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11010 Saint-Rhémy-en-Bosses, Aosta Valley, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.8681793,
+               "lng" : 7.164936299999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.86951357989273,
+                  "lng" : 7.166440729892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.86681392010728,
+                  "lng" : 7.163741070107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113686341170752526563\"\u003eHotel Italia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3VglmKEiAvAKa7Z0UYIpURadmY7Ap0hYCB8Okdlp2dZ0sczI3NthKysAWKfKPiVsj8OM-Axnsc5pNEBogYBC1h5KbIU91a2XznajcM6y8VDjRNa_nmEf93UH22KltxoDpGL5H9_W1KRLKYqIOJrEULZ60AuAc81W0IeGtL6A1mdjtX-InQ4YSwp_ETt85os_wxYkpZMOsxy900L2nc7hVJuKDxL_uMcTyU2d6v02WaG5tcr1pJi4naehwT1QO1g9kYKDSSKxyNIt2_qlwgAfcQqjuqItH4PVm8AVH-nO4Vj00zlPM",
+               "width" : 6720
+            }
+         ],
+         "place_id" : "ChIJ7UfBdrMxiUcRRep1m0cFbdc",
+         "plus_code" : 
+         {
+            "compound_code" : "V597+7X Saint-Rhémy-en-Bosses, Aosta Valley",
+            "global_code" : "8FQ9V597+7X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ7UfBdrMxiUcRRep1m0cFbdc",
+         "types" : 
+         [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 486
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazzale Guglielmo Marconi, 1, 42121 Reggio nell'Emilia RE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.6971729,
+               "lng" : 10.6421428
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.69849212989273,
+                  "lng" : 10.64354422989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.69579247010728,
+                  "lng" : 10.64084457010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel San Marco",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 400,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106068843867488138830\"\u003eHotel San Marco\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3PB7RygaIzzGMzkyP3Bc2LhmyucKRh3PdhRbkg3meUlumRAX_Mcz21G61FXF8jg2gmqxMEl394K_8Ed7OYOYqAoX8FSKxKmM1R_W8yS36Sc_MoDqmZynvPaA_nQ8XKA6WysOrFWwfWVFF082xZaRmbzTtlQC1NTAlWMO4kd-coKGXDBBCvpo6DHfkG4E6MBmvwnndS6omh7Sc169Qvx0G-svNHKx83-sNUGG1oOiIrOAdz6qK3-6oBqaIsRwot1n8nu6AgQB8GntnNTnjV3Y_kpZZqURI6SfPMouUzgkxOsGFA3P0",
+               "width" : 970
+            }
+         ],
+         "place_id" : "ChIJZy7jPU99KhMRFT8Fwbmy6HI",
+         "plus_code" : 
+         {
+            "compound_code" : "MJWR+VV Reggio Emilia, Province of Reggio Emilia",
+            "global_code" : "8FPGMJWR+VV"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJZy7jPU99KhMRFT8Fwbmy6HI",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 478
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle Fiubera, 951, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4352556,
+               "lng" : 12.3379277
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43662602989272,
+                  "lng" : 12.33924257989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43392637010727,
+                  "lng" : 12.33654292010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Rosa Salva Hotel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 810,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102864414643409370106\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1RFyjyOgJpDtSfH7z5_zfD7jyGykyh4pCf__PZyy9dAiDmdg8XVX43JNJR1-KkFvDCoAadmm5pGeUoKcmsjgAJfKN_WBvnJSr8ufXcuHiw8pPfcJtJH6-By9SlCNH8PmYNBpEXBfspIeUT7RpPLEb3VANuMgoVjbXpCCH5WkjfpejYm62QsYfR3JZU3zhZUZwLBuCd6xWwsTVIt0bYciO8oDcuPxA68xzXxV280vbsmKW_smBjSQ2-wzeNlRRN6bJcGEFHgfOCMwRqMpeS3cDF7V4MKMOFOjQV0fanRgQR5rFcqGk",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJhxoY4uuxfkcRyjNy6wB_x9k",
+         "plus_code" : 
+         {
+            "compound_code" : "C8PQ+45 Venice, Metropolitan City of Venice",
+            "global_code" : "8FQJC8PQ+45"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJhxoY4uuxfkcRyjNy6wB_x9k",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 574
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Sardegna, 31, 09124 Cagliari CA, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 39.21489020000001,
+               "lng" : 9.111964600000002
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 39.21623822989272,
+                  "lng" : 9.113477929892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 39.21353857010728,
+                  "lng" : 9.110778270107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "photos" : 
+         [
+            {
+               "height" : 3060,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108716524821006948314\"\u003eJozsef Liechtenstein Zabrak\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1Di7xvsleulk05fQbtPqaNb5zj0B_R9eaEe9FaHc540JWxyAU8O-uupX7V6lrLlsMhx3f8aTMIRIXZhYldev7Um6Zn2iB1tx9esQej00XzPvhPeP3Li8R5Iu10wzDaWsxE8E1nCKLFsdEV4sgnHTNzO5ExvgeoXP5DuxyEE221I7RKkm8sV3yBaGqZ7k3Il0qvPEYarfPg9M-HaIC9J-HvPpgwEj1H4N_lHZYmXFoFPHa9XocMFfEEPb7ssoorV49vJuuZ1rTc5IojzJIoGmdhXZbqHrZyEaccbDy2WvyPgnKl7vc",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJ3yBVKwY05xIRkqgyoPhF5w0",
+         "plus_code" : 
+         {
+            "compound_code" : "6476+XQ Cagliari, Metropolitan City of Cagliari",
+            "global_code" : "8FFF6476+XQ"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ3yBVKwY05xIRkqgyoPhF5w0",
+         "types" : 
+         [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1721
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Catalani, 1, 47838 Riccione RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0081091,
+               "lng" : 12.6533609
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.00948882989272,
+                  "lng" : 12.65453717989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.00678917010728,
+                  "lng" : 12.65183752010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Montecarlo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3713,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111386366485592915772\"\u003eHotel Montecarlo Riccione\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1mLvMhP1o3wLbmWhLewvOOqdOcILfAAJYnFWVAlt8LaGx0zA2djV8AAp_iFRRZ7Bv_qANxUVAPfqjRzxeg9Q4M7BXplsfU8H37RY94XQ3rnBNMr-j-K1SC-WX-YT_NsZZ5_8dCAXofzsxkIVi5m9trRrNSExz3GGcBqbxNEFHXknjjCJlf1dHULnzaeVwxqGeNyO4RFbPI3vJYceIB6nV8_iwjQwIazKNdZ-gwMd6goni_zVNjApqdbQWfgOW1_959aUGo4UbaotZA80dma2dKsYsS702U2WcpSRwx6myGDU-L7Ps",
+               "width" : 3022
+            }
+         ],
+         "place_id" : "ChIJf1MeVW7dLBMR9ZimLgFVzr8",
+         "plus_code" : 
+         {
+            "compound_code" : "2M53+68 Riccione, Province of Rimini",
+            "global_code" : "8FPJ2M53+68"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJf1MeVW7dLBMR9ZimLgFVzr8",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 572
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Anelli, 24, 25015 Desenzano del Garda BS, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4687405,
+               "lng" : 10.5427659
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.47013802989272,
+                  "lng" : 10.54415812989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.46743837010727,
+                  "lng" : 10.54145847010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Plaza",
+         "photos" : 
+         [
+            {
+               "height" : 2176,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108883523902588047233\"\u003eAsheesh Prasad\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0XlybTdWJU-5-WkpGe8F8mTAeUj54J-vApPD1AaTSEZOqZ4jBZDwfUtJctzOEUjazgLqbmSKHnYfc8xLtX3Ib7hJzarX7lbOvWdUmwLZ90KGET3Vclf0KLMqF3WtFWOF6hVY6CTuzpts--1yQZlBWyEa26cgrrsd7_F0bWgbSz9RqM8gGGs5qlU_i_0M17TlU09N3Z_6JK-0ZZuVifdp-TE5SZ60XBxAd1fk_adIDZkaB5xET5IKKcrUAhKRGOwqOX_1gsVyAw9uLLrWKltqDF3vma5yejWoSGbf6WFGsM1sBbU78",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJpxbPqlyUgUcRk55V4PMIHhE",
+         "plus_code" : 
+         {
+            "compound_code" : "FG9V+F4 Desenzano del Garda, Province of Brescia",
+            "global_code" : "8FQGFG9V+F4"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJpxbPqlyUgUcRk55V4PMIHhE",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 378
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fondamenta del Passamonte, 3499, 30123 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4361113,
+               "lng" : 12.3214155
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43800802989273,
+                  "lng" : 12.32256474999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43530837010728,
+                  "lng" : 12.31796775
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Moresco",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2703,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103705140314062598366\"\u003eHotel Moresco Venice\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2KNnCtHxsphS0Bxb3dSviT2wacPAE0AT2Li7A1zpbWcfBnZVpsoah87qhKPwOYICZnWLFBEceypNsOXIm6CLgC-P3xFf28w2es-hN-OfgnKO8kF-c-1GBfMBY7jCM_4HfKjkPad3Si7z6xe2BGTof65pINOTkMmf9Tghr2mXwOkqwyHyH-jqYGXe2chw-u0i62Zw60AxPGsAJc3Qs79duNV_eZnlJTGIVbQRffVrNII_88mxNadpGAfweJ3ia48w9QKGI7Gbs3jsZ5FKw38hydOwJO6ItGHeyhHZYC-sYP_ucp0Oo",
+               "width" : 4054
+            }
+         ],
+         "place_id" : "ChIJMfXyYsixfkcRdcI-C6tFXsA",
+         "plus_code" : 
+         {
+            "compound_code" : "C8PC+CH Venice, Metropolitan City of Venice",
+            "global_code" : "8FQJC8PC+CH"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJMfXyYsixfkcRdcI-C6tFXsA",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1398
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Simonetto, 5A, 67100 L'Aquila AQ, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.3499387,
+               "lng" : 13.3999205
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.35129027989272,
+                  "lng" : 13.40152102989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.34859062010728,
+                  "lng" : 13.39882137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel L'Aquila",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114848317916471906775\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2nBJ8yYmOze7Y_Y5TRg1hlCINcdS9lRM94LWDVipvDSpIQv5eG1oja8y7Oh3DwvCAg8PJApqSV3kGBs9HhG5o3ytbNWSvcwLtTMFzB3g6nTs4AP5LUUcg-2DdzHaq5V_cMKRbfBYOwGbl5JqfEuPVfCWqwHr8soFvS3Z3hEvNj0jMSJesMGD5zAn6QD-6kW6JRombdEgUtiuzIsRW-HEHzJE_2KcOAOZNsBkbgee1Z7QyYOJl-Sde8R6clRJR90vUGOHW_cPcU2vBpxns6qI9ivohA4KqCjpGkwU__HMyzp8WR4_c",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJW9FtJv_SLxMRqeziFHVo9Ek",
+         "plus_code" : 
+         {
+            "compound_code" : "89XX+XX L'Aquila, Province of L'Aquila",
+            "global_code" : "8FJM89XX+XX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJW9FtJv_SLxMRqeziFHVo9Ek",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 212
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via di Piazza del Popolo, 13, 05018 Orvieto TR, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.7190064,
+               "lng" : 12.1095343
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.72034317989272,
+                  "lng" : 12.11083917989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.71764352010728,
+                  "lng" : 12.10813952010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Grand Hotel Italia",
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104052506363904546612\"\u003eLuca Odoguardi\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1XWd8kLwDadK8uWfezg_sL6GatPbGIe19tsDA5b-nlbe91EPNmbm6YXz3PDq4YOzejfn8YR_jk7LFZVMZt6BZj1Ai6MFf2pZbwzqWM-ryz2u2C0sKdgdYyEY3EI9RjBd80BEAwL3InTq4Uzp0i1xi_QdTncVlx8qaS9AySy22KD0NhS1pBuw-bSK_c5pVRgIszkc0uro0QxpvYiOLDxHmHjByrN1GKr_BlH0ERXYwQ5J9Vc4Pq4osCcs38dFUwjxnSNnuXTdre8Rgn8PPMqcaikU6Lj1-BUoOuSsV_7A8vfME8q8k",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ99gVZwTNLhMRcym-UfkPBU8",
+         "plus_code" : 
+         {
+            "compound_code" : "P495+JQ Orvieto, Province of Terni",
+            "global_code" : "8FJJP495+JQ"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ99gVZwTNLhMRcym-UfkPBU8",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 281
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza Tito Marucci, 4, 64025 Pineto TE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6073414,
+               "lng" : 14.0686127
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.60868952989272,
+                  "lng" : 14.06996537989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.60598987010728,
+                  "lng" : 14.06726572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 666,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103583928420402658484\"\u003eHotel Italia a Pineto. Hotel Pineto\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1qv5OUMUXz_ozBE5GttJ-8CKrhbnDYpjV7nsaTX0iyl0V1hKaPw7m8tek79EH2L8vpw2WAF8_x-d5lHrkGkmjYu2RmnpLCrSUUevoKRdT6ozNLVgRBTh1bV-dqlGdeAgm8WKd48rKcbb3Jwhk-rGo-QZEm-tvsH6khMBrb-jvNbM5yHk3a95_LYPWs5DOlzWmM1FhDwFznL6h6sLBsbs3J1V6-yJgBtL2R4hUPHTQ7NINNXk_KJa5tj6oGOC5qJKSprSJxRVigRmDnhK4eYe6KiLN9-mYRWOwzd-6J0VT2UERIEBg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJsdixYWS9MRMRa3FveK33hmw",
+         "plus_code" : 
+         {
+            "compound_code" : "J349+WF Pineto, Province of Teramo",
+            "global_code" : "8FJPJ349+WF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJsdixYWS9MRMRa3FveK33hmw",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 238
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Nazionale, 22, 00184 Roma RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.90081860000001,
+               "lng" : 12.4936547
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.90222027989272,
+                  "lng" : 12.49492552989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.89952062010728,
+                  "lng" : 12.49222587010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Artemide",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110392814765811182903\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2RIqhW9-ljlG__wuy27XOL2P8UYnAXYup_j5tble8l8nqWLFFoIhYn1oJlpgEkvWncJkTTgpBySn_fAmRMCe0A9UdQjBSlWG0s5AFIgeLWGR5HGFNC3hMJ1O5DU84PJR_vxGKd4Y1AP5hpkU2-SAdMtAM6To82ghfv83eQ8ATM10pElSS9DNQHCLeDC_zzXVtujyr-w8f14o9B2OlQXWzjkJY4USbSuqItQdC1Vrb786wcQREtjrJMGffioM6xFrFUtOB4xTbC0QNCQ3Cwwt4uxbSuSabNclwmTk2xbtXEG2A7GJE",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ-XEpPK9hLxMRCnJJKst12y4",
+         "plus_code" : 
+         {
+            "compound_code" : "WF2V+8F Rome, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJWF2V+8F"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ-XEpPK9hLxMRCnJJKst12y4",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1799
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale XXV Marzo 1831, 19, 47922 Rivabella RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0782157,
+               "lng" : 12.550472
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.07955417989272,
+                  "lng" : 12.55195452989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.07685452010728,
+                  "lng" : 12.54925487010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Rimini Suite Hotel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 644,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105498940679628325208\"\u003eRimini Suite Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0dScq0Bq5TMOkJn4WO1T87ajNsVSgFQS8xCiNYvJvd11s_nC5hJcvS1qo_yjEWVRUmqcEL_aXp4meXZNjaBsisABDljqJYZxwbeaAI0llWq24cBhslGHwC2-3txGdVUt4q-03iRFtoCX3C5irgdSVIONQhGvpiPfWES0A-zAu0-R0DvxGmnXllqoYGOuXm9VFfyh-0Rzln_MxmYo8UFDOHdf3pxV8fiC_T4DC86QgM8Eix-xKDwes4kJ5MgOVbYwa4noPLBbmINAqk6_O0iJ3c47WfPKzJk8wHZx1tUqSn4bshsdU",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJQbadfPPDLBMRmKvrQhex7t0",
+         "plus_code" : 
+         {
+            "compound_code" : "3HH2+76 Rivabella, Province of Rimini",
+            "global_code" : "8FPJ3HH2+76"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQbadfPPDLBMRmKvrQhex7t0",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 760
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Europa, 77, 65015 Montesilvano PE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.516884,
+               "lng" : 14.1606712
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.51817202989272,
+                  "lng" : 14.16209942989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.51547237010728,
+                  "lng" : 14.15939977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel City",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1379,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115653880853393205790\"\u003eHotel City\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3oYOIF_p0s2AdrRMVgUOltpRK24OPga8Z0FqRUGAjwWH6YSZ8mZDim1JUjNQvKxDCEUnq-Rd_gzF5uxvCQl3NNtYLquQiI0ya9E3iEXYBNIQ7h8EN8pARbgNf5UM2193hCpwKCP6M76cfXxZ6bathH0Uq-MM0zF0Lv9rOE-5tZ9f6vE9x_Oay8fE96Y4We1PHCPNsuMgNgsMcVIfMFk_7ppJnty2xCelisIlruwbY2K6xOLBZICRET0mWlCi6_ZWUSpOuqpxQOxRRxHaSWDyOWyWLdDFaQx13-7ovaI0kOG0amRjk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJU-DGsmWkMRMRN4JONIrAR2c",
+         "plus_code" : 
+         {
+            "compound_code" : "G586+Q7 Montesilvano, Province of Pescara",
+            "global_code" : "8FJPG586+Q7"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJU-DGsmWkMRMRN4JONIrAR2c",
+         "types" : 
+         [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1012
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Gioberti, 20, 00185 Roma RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.89938679999999,
+               "lng" : 12.5013815
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.90077567989272,
+                  "lng" : 12.50264307989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.89807602010727,
+                  "lng" : 12.49994342010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Gioberti",
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100911857937282306931\"\u003eGabriel Talbot-Lachance\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2bWSrTHsQzLNecBKMGB5lem__McftQeAQFtKovl9WLRHffWGgkAsrcTm4_tcYduEEb0dGhU0dw1osYV-whMoL3PVMUDApALcMMyGk2HqTxidLph4XJ2uDzD0VU1Nr1pgGe8JlKKhSANS8DHE7bm-bpSLXXCYijxGs4sFPWCAdvf2s8PfJv71lQWcUb78Wr1-D7N9YhuP6x5afRU5M9_TyLy30Kb-jZQAuHCa1qcCdze9G3HlMeQYwBhKqbw7XrJ76ME6cDE-w4pdNXdM52upYx5_EziSFbM54c3oCDm7z3NeypuqE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfU0JiaNhLxMRPOyzBSyiuvg",
+         "plus_code" : 
+         {
+            "compound_code" : "VGX2+QH Rome, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJVGX2+QH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJfU0JiaNhLxMRPOyzBSyiuvg",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 758
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Bradano, 5, 65015 Montesilvano PE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.5027431,
+               "lng" : 14.1744185
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.50418297989272,
+                  "lng" : 14.17583657989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.50148332010728,
+                  "lng" : 14.17313692010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Excelsior",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101372259649461356803\"\u003eДенис Битель\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2AqbOQvTn0GHVwC47F_Jvem_qb0H54vgNSsGkyErP698v0xd0n1mLTrPzk7A8m8f-0viCDQM_LRPE8UWZ6P16qmWn5jpaXrS8eWH6azCVcik5_B3Kik5wt1Hth-SVuYWYHaEhVXotHGh36ziB8BS1EpAzdCqqndCdu3aN0kRiJJuFaXLTPqx_T8kE6Betzm78iW7YzH1f14fWbQQeGRsYXS-0xoUlHwKPYcdAQCdMrps3fUT5qwDsnKrVEYUsdsYHsalo7leNChfIktL6mhRQJoM8aKqqvR4ILwfXNNbsrHnQRwqc",
+               "width" : 9024
+            }
+         ],
+         "place_id" : "ChIJaQHmDBWkMRMRwvnsDUnd0gk",
+         "plus_code" : 
+         {
+            "compound_code" : "G53F+4Q Montesilvano, Province of Pescara",
+            "global_code" : "8FJPG53F+4Q"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJaQHmDBWkMRMRwvnsDUnd0gk",
+         "types" : 
+         [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 761
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Olanda, 150, 30016 Lido di Jesolo VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.5173088,
+               "lng" : 12.6786875
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.51863327989272,
+                  "lng" : 12.68008012989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.51593362010728,
+                  "lng" : 12.67738047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Christian Hotel",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115696031008281898037\"\u003eDenis Carlesso\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0Fgz2fMr9cUAnEUpqPIrP4KrSHiSyZyXnJZzrLrT2JizPdrn3SkH1h5fRH_lLmvfbRTLR8OK6MnEB0hFzkCuwlqZ6j74A0AHxkWfCRubqzrQviWKCXBml_NM3ZfLwZnAc2j4ZX6hE1TSgwLIxCRFOWs6Hlz4uhyU7Sn-mLmb6EoPA69OEYOp58jCIhBRXesVqWkcpbsawFMOYv9MhqqeMdNKh-h_vOHavAIpXTZUFt-Pm73R8tMGdrXh-BdDel5_LhzF7lLzjKa63Qvj7_Nfr-MGbLa2KXGF-mnOxR8iOXQ1iMJrw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhaH6r7T4e0cRYmFAMhBwgOk",
+         "plus_code" : 
+         {
+            "compound_code" : "GM8H+WF Lido di Jesolo, Metropolitan City of Venice",
+            "global_code" : "8FQJGM8H+WF"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJhaH6r7T4e0cRYmFAMhBwgOk",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 682
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Amalfi, 27, 64014 Villa Rosa TE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8604875,
+               "lng" : 13.9252799
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86178417989272,
+                  "lng" : 13.92662992989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.85908452010728,
+                  "lng" : 13.92393027010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Holiday",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 900,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110289539889506535796\"\u003eHotel Holiday\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2yv_QyD0_gY7oGyxOVl8OOrGZRPnrzymw5FootfNEC4WzLIML1XihMzSvKzO-P4EzZeUz3JBQUD7NAvammRvNFaiAn8gxc_GJL6KGsU-h-fW-aKjMKGQMWlcoaaK1X02fdaJej4bEVHKdP_e19XnINmGXHJhrgHvmhsQ9-l6m2lwR9uj6rtd9cZH8GvGDfuNpNP9LHfkvDrVc0HC-PQaR_5YeqT6TNmSzeoA7_BP9-v4hY9qWpFRuE7BADaQ5gsDPe35gfqiGxTp5ZI948i982XaS60j2C0uhRzvZxEdEN02hUWAY",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ0WbXFaiMMRMR99Oi9jv3D14",
+         "plus_code" : 
+         {
+            "compound_code" : "VW6G+54 Villa Rosa, Province of Teramo",
+            "global_code" : "8FJMVW6G+54"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ0WbXFaiMMRMR99Oi9jv3D14",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 579
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Camillo Benso di Cavour, 67, 53100 Siena SI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.3296872,
+               "lng" : 11.3196615
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.33110927989272,
+                  "lng" : 11.32104567989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.32840962010728,
+                  "lng" : 11.31834602010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia Siena",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2359,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110332265433460941203\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ04L_Q95SQpGvTliblysBg7XZ-il33xw8UU9k8A-MJVmAosGtpZBqsT-QLTKMLGrfekQ0WBpMMij7FhFiBVea7nI_5k6VsxLuQo5Q7LeEv8Ov5DWfN2yPp4qIMhDFuu9jXcqNDxF3_drFXoYkPL1cmsOyz_HWlEjGF0Xbbd-izS93Je-BxMK1Dzb3gEzQzv27plX025Zx5L5h8HnXfQirb2_hf3e_G5O1gVZCM2M6CDVKhkvU39ymWxQd-oBpCX1wWn8Xj21zc8vi1PIGqI6k5X72v74Wyr0G0RNSn94ji_F2IGPbE",
+               "width" : 3538
+            }
+         ],
+         "place_id" : "ChIJRdpurUbgKxMR5HElT79TPFs",
+         "plus_code" : 
+         {
+            "compound_code" : "88H9+VV Siena, Province of Siena",
+            "global_code" : "8FMH88H9+VV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJRdpurUbgKxMR5HElT79TPFs",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 632
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Fonte Nuova, 15, 03014 Fiuggi FR, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.7920456,
+               "lng" : 13.2182747
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.79347362989272,
+                  "lng" : 13.21947107989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.79077397010728,
+                  "lng" : 13.21677142010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 799,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108018198535427783619\"\u003eAlbergo Italia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ24-nQ6-MUVAEa5MeTeiYnbvGuQU91yHk6YbVXo8EKZaH233o6lRIIegITI2KPGoXZafCbW5hV-UT8Zzinn2pT2I0l1sDJn8opd53c3FP1vFu_03tYVtiXD_2dMHLAOCWD8SjSqKt9LCP1MJn-2UdYH5gB6yGlctSUxY7TqVXMJrh3Top8Ze8WmvTdSb6sjQB2cSQtG_Oao7DdxYtM2AC60kvpI6gfa7IG8OsO5oltx6mgNwJhcukuAdAiWult6NpOp7Z-5v-NPGSXvj1qY71A9wOuHUW1IVs72XCa2SdfjYk-gbcM",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJN-iH5Xj1LxMRYMwwBSqHAoM",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6R9+R8 Fiuggi, Province of Frosinone",
+            "global_code" : "8FHMQ6R9+R8"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJN-iH5Xj1LxMRYMwwBSqHAoM",
+         "types" : 
+         [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 214
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Roma, 8, 87028 Praia a Mare CS, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 39.89673519999999,
+               "lng" : 15.778752
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 39.89805462989273,
+                  "lng" : 15.78006562989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 39.89535497010728,
+                  "lng" : 15.77736597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Garden",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 540,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105250233893585898566\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ23oNOrYn94QNwFlONCejnC5ryD-ifWTSV4q7Vlt888qLoL-p2_LfF8eNx4XYg6HjeycOFxs5WdS702ybK4eIN62-bvOLsRE0rn1KLWeLnBf4EnineZgjZ5Mr2mUY_OsKwm20Cv5oW4aExR3KOR4yyB-6aoNrUlPSoHGgM7GhmnCYrrb2JS5OcVSb2M0lW-S7OWseuf_4hu6mugzgze36NGraJ0rd5i-p7GcH9v9WMTUylIELgOpUAWXVQAlAJOkGKvYCpgVEHlAnHcbCRihRIMZWiDepsmjU4jybRMD1RucTjJHEg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ7ytUzYvfPhMReTuUEuHMzqE",
+         "plus_code" : 
+         {
+            "compound_code" : "VQWH+PF Praia A Mare, Province of Cosenza",
+            "global_code" : "8FFQVQWH+PF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ7ytUzYvfPhMReTuUEuHMzqE",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 438
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Alfonso Pinzon, 214, 47814 Bellaria-Igea Marina RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.1328862,
+               "lng" : 12.4838648
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.13427877989272,
+                  "lng" : 12.48520872989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.13157912010728,
+                  "lng" : 12.48250907010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3543,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108209732875756563316\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2oToQyaEWerMfJG9sEMZCQn0V3h7sfPcz_WTNKuUSJXkD7UOUnJ3HpgEyl2wzAEUWnoqTXxBCBaKmC5Aw1MZMdodDTcLI62k-9uPAx4FjFlX8O5ACOQ8EAqgPF8OL-asdSmBZnpg1knapc4BEFbgJuZAx9M_FAc1mKVMfv-wKHzLZIkC_3AWEN-U05gRs8AMpkZFPMxrkrvG2XGQaMr7UDjZ2uKpT6waIRE228rZCxCaRf_v1eNj56Bo_e5t-sxHIWq3Wd3LcdWHTcVNLOGh8SFMiSSLaN2vZYEJ_vtw8nj4LS4WM",
+               "width" : 4724
+            }
+         ],
+         "place_id" : "ChIJOxQY_7HHLBMRqNiYjy6SLQQ",
+         "plus_code" : 
+         {
+            "compound_code" : "4FMM+5G Bellaria - Igea Marina, Province of Rimini",
+            "global_code" : "8FPJ4FMM+5G"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJOxQY_7HHLBMRqNiYjy6SLQQ",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 259
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Regina Elena, 70, 47921 Rimini RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.05537169999999,
+               "lng" : 12.5947174
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.05668342989271,
+                  "lng" : 12.59600967989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.05398377010727,
+                  "lng" : 12.59331002010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Diplomat Palace",
+         "photos" : 
+         [
+            {
+               "height" : 1360,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101510253212928283409\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3yVeDR6Mj06LXrNfn8zfyZ5gkk8KGi0lr4FSTyHnKSimX-QbFe5Kf_v2kdy_3c-IRrT3IOcnU_56qxn-E58gp5ADfYo-FYZXKJKAu968wssZLV2UqbiMU7vBvrZYs6ErO2L7gtjhiqXrNQITNA9YXUKZIRZqQM0AffOBVGuTJpE-MCTSNTIMjzvnPTOnppRSk3YqeXOu31gQSw4fFtv8kiZlLtFs-EgXVxIGiY-XrUUySiMYp-O_F13OZhIVrtvQrdGije0c1e-UNxPSDZL0ygEaCylmGulIGwbX7-a8kk2Xu95jM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJOVzG-xPDLBMRGHgPzvp86Gw",
+         "plus_code" : 
+         {
+            "compound_code" : "3H4V+4W Rimini, Province of Rimini",
+            "global_code" : "8FPJ3H4V+4W"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJOVzG-xPDLBMRGHgPzvp86Gw",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1798
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via dei Lamberti, 5, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7704719,
+               "lng" : 11.2539954
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77187257989273,
+                  "lng" : 11.25535797989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76917292010729,
+                  "lng" : 11.25265832010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Calimala Florence",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100942575330809346135\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2frx4kBRF2PzsR6PZLpkz_YHf4mfbHMET17_3JoUI2RFrC6NJqAftkX--I0Ycjr-kkd4TwqF3N9n5QjjISEifmRfEMAd1tJZsy3Jf2cpjnGemkCSoLrL_5ogVvr0hrp2aj6E1gcRIba-2xQBmjw_XpVW7RD4JwdpmGtQGbuTtuSzkVyzDCvEA-D4URcMJcX11-iAJV-EBfrrXIVZzMxrQVXJG1J7asm41s8whhqMusiFXnm2WYKFw32jmkKP2AKb-QnM5ndQVfgJZO1a1CVrDBaC8wDW2Qbnd_Yfj-UAqx6JkgEIM",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBdTs5jZVKhMR3Q9Bo1ghvvc",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7C3+5H Florence, Metropolitan City of Florence",
+            "global_code" : "8FMHQ7C3+5H"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJBdTs5jZVKhMR3Q9Bo1ghvvc",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 773
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Gaeta, 61, 00185 Roma RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.9040986,
+               "lng" : 12.4997194
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.90543427989272,
+                  "lng" : 12.50111242989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.90273462010728,
+                  "lng" : 12.49841277010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "The Republic Hotel",
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113246837352995365924\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3UljBYHTT2JejncIhnwgPqU7DqPOyZiTJqOSOCMLzkCRfFIgJKd_rcsqgWPzLlD4K0ycP_TIbGujjCduL4eGbeCLCdszyn9e-XIRRgI7gk_LPByFf9Ri3Mdfyy4fXn8qQrItA1nVb801JSMysFs6s-2p5XEvoNql4IPMRoZZOqsoGYvLssM25V8lSqt-Gl3NipyfCf2nWpEBgwEQtkXINbX6FMNzsNpWBo2zvNCQGfKmcLAY203EDYaYT4WkRE8ZpH2vZwubMTe6ncJKiXYevUy1cgOnA8m0WcrW8yB8AV_YhJD1A",
+               "width" : 4500
+            }
+         ],
+         "place_id" : "ChIJcSJyIqdhLxMRqwGt9mjQRvc",
+         "plus_code" : 
+         {
+            "compound_code" : "WF3X+JV Rome, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJWF3X+JV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJcSJyIqdhLxMRqwGt9mjQRvc",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 733
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Marianna Dionigi, 16, 00193 Roma RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.90571500000001,
+               "lng" : 12.472514
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.90712397989272,
+                  "lng" : 12.47391662989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.90442432010728,
+                  "lng" : 12.47121697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Sant'Angelo",
+         "photos" : 
+         [
+            {
+               "height" : 1366,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108705105889262538977\"\u003eHotel Sant&#39;Angelo\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ24zR2ttEAAuS37swc1Jr3guVmyqOW_1QrX0Y7GLeAbl0v44LLqCRgsnSvB0Q2iqPB1rj_etXyGXw1hmI7eUlYM7m--sp2i-jRLd08ufsxagK_KljdY3Kov_0xS0tfq2E-gwJR_PVNAQrBks3tTXQgwdgr1I96ReNrYIs6PllEHQZ8SnPRTVbBadde2gwc57D3zYxmUFRyvi6ZZi3tDh36Ju1obQtHYL75dZEXdbQ162z3NYTw6MZbvimEsAqCmMNXWq9YeVHT3cpEbeb_Ub_NXyXWLHEJVti-cbZbdXwfhyf9yzME",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJR9ir2FlgLxMRfVypYWoiiy4",
+         "plus_code" : 
+         {
+            "compound_code" : "WF4F+72 Rome, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJWF4F+72"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJR9ir2FlgLxMRfVypYWoiiy4",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 708
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Fiume Ticino, 13, 87064 Corigliano CS, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 39.6796689,
+               "lng" : 16.5219398
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 39.68103082989271,
+                  "lng" : 16.52328422989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 39.67833117010727,
+                  "lng" : 16.52058457010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Salice Club Resort",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102338207361201357479\"\u003eSalice Club Resort\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ33YUaQThr3TSzMIEt3zejlq_xbm9FIhKCfXFMZcifW9TVx_eIoEhm6aV-R1dB5H7B2e4Fa3_EDmKhlbWPTcRwt4JfMXf0hbeOGGQgAVURUSuzAjqmBRwp63bQI7klb5dz6LmOS7b1ts7PlVH164Q00tUttk3kbgjLNKFNXamsKhgAM4LU_fpRdXVytWKvoblFuMCy-mxsa3TG1hXSit2pdzuuWZDHStsQKNmwiQeWBxknyRIgqesEdxau0y8W7GBVxH7JDTTXyo8c14w3XmlyYsH-Vi5gOZeVd1T8r6UvzZx8XVPw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJS7kZYBtiPxMR542WztzYVsw",
+         "plus_code" : 
+         {
+            "compound_code" : "MGHC+VQ Corigliano, Province of Cosenza",
+            "global_code" : "8FFRMGHC+VQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJS7kZYBtiPxMR542WztzYVsw",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1432
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "V. Ciusa, 33, 08029 La Caletta NU, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.6098294,
+               "lng" : 9.744389
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.61128622989271,
+                  "lng" : 9.745855679892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.60858657010727,
+                  "lng" : 9.743156020107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel L'Aragosta",
+         "photos" : 
+         [
+            {
+               "height" : 664,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115118417046168100819\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1FoJIoLTdsfUvs69q2uY7PuMoP8Cf4FOpfE9IjwwV3mODjGCAAchBApKLiVHJEG3RCglrZtSKzLwkMwOvX0ZjI9EABGWdGwW_HJYX8xC2a-qsf_jp5TRdBZjNWtBMrc-8vXjUjS5gPgiGA2UmGQLK7oM1_6r4F0Xv867cYcFaCg0lFolnSGqUQzN9O4hQffChQS07c1GORNdCXiPMUUSE5yqBmYVi7_18u4Uxnl15YyKLo1DH0xITQ9pm0YqVo7NzwPCeYvJe-mCT-QX5UnCAJSibWHW0tf5TGv8A6_SJ78gMbnEo",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJWx1HJujC3hIRL7xK7lUCVec",
+         "plus_code" : 
+         {
+            "compound_code" : "JP5V+WQ La Caletta, Province of Nuoro",
+            "global_code" : "8FGFJP5V+WQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJWx1HJujC3hIRL7xK7lUCVec",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 223
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via dell'Angiolo, 20, 51016 Montecatini Terme PT, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.8847335,
+               "lng" : 10.7761989
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.88612282989271,
+                  "lng" : 10.77756032989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.88342317010727,
+                  "lng" : 10.77486067010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Alassio",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106468851559713644826\"\u003equartullimilano\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0-4S352ozl_5cg8UbH27H10uzgjGJa0sdlEWwXteotMTq3l60SQniC-RwLyUoCsRrm-vwnG6w4m22JX_FTxy_IqBtvDzlex97gttYTDnmsZ8WGBFzcH4d9N3OLn0ck_zan9aUiS9kWS8r0WaJ5NVLfi9BbrKNK2ZFFQWti-Nzvz6Ct-gB5L6SV_RbVWwII6C3FeK1s0YAcrTMSQl52grOu2uh2icOBJmyApNOJHqnRAHhr4m1XekgjCShLVd-lXkanHKNGJxa_JbewNbXjy6YVk8dVjXA4zP3vslN4t2MFe5GGDG8",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ39X9NWd9KhMRmT3yquHzbU8",
+         "plus_code" : 
+         {
+            "compound_code" : "VQMG+VF Montecatini Terme, Province of Pistoia",
+            "global_code" : "8FMGVQMG+VF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ39X9NWd9KhMRmT3yquHzbU8",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 130
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Circumvallazione Esterna, 120 località Ponte Riccio, 80019 Qualiano NA, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.93163450000001,
+               "lng" : 14.1108214
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.93319247989272,
+                  "lng" : 14.11210622989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.93049282010728,
+                  "lng" : 14.10940657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Giulia Ocean Club",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 795,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108913167871978060709\"\u003eHotel Giulia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3D3SY31wm1qIw4ttDex0cNS9CR_H7PtcN_ALzRndGdPvIx4qixei5mdTOfwiifbeuvrwjuW2-ZqyruMSGwc7-NOo25GrEHqo2gTK8nZYu5AA2FMXxsLC3qT3drbMpRjndm9UK_TzwY5DT8MARACQ54ZI7WbEHd7uDN9gEYkXo045pr9heDPYEca-XHJz6hebfCVMHVul8xNOTolpcJeFoA88jXFKgMkZDealEnLNoajqCYWMmuyT_F2eFFcR0YGK-iNdKFmB05Vkb_aG2yYOexIdpyNK9GWUdfJJ2EX19c9BI97zg",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJte06l9cEOxMRN-bfCezHgx4",
+         "plus_code" : 
+         {
+            "compound_code" : "W4J6+M8 Qualiano, Metropolitan City of Naples",
+            "global_code" : "8FGPW4J6+M8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJte06l9cEOxMRN-bfCezHgx4",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1007
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Amerigo Vespucci, 83/F, 47921 Rimini RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0657504,
+               "lng" : 12.5827581
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.06714647989272,
+                  "lng" : 12.58417512989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.06444682010728,
+                  "lng" : 12.58147547010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Europa - Rimini",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4352,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107491946551892128006\"\u003eДмитрий Сыкало\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1-E3DP4JWBiT1kaXVXWG_b3BlyRSN45p0d0mNytUfqj9_UoJ41AqxNlb6PWsHhoX_Y8QsP2GXloO73WKtXj9RBJy65UZs4CjoYWu7bHsQpw4lzD0ptQ9MzBUlsdA4RXpR62t5cryd31opt0DvB75Sr7139dTTxd-4OxuGe0Qe8HgDxFHa9IAu0LroZ2vUZVVonKQnyW3LMNOQUMH_YvGUbyK0cAXR9amNF6Z-c9I7xsw5--bfwi2eAfHC-WMk0sYuKkddCJ5CjqgB4G0DVQz7Rq_eG4AU9V5uKpprw_UssfxrfShk",
+               "width" : 7120
+            }
+         ],
+         "place_id" : "ChIJ15ZVXXHDLBMRLQ9I7aIgVj0",
+         "plus_code" : 
+         {
+            "compound_code" : "3H8M+73 Rimini, Province of Rimini",
+            "global_code" : "8FPJ3H8M+73"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJ15ZVXXHDLBMRLQ9I7aIgVj0",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 709
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Prelatura, 12, 00072 Ariccia RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.7039002,
+               "lng" : 12.6541827
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.70528127989272,
+                  "lng" : 12.65567042989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.70258162010728,
+                  "lng" : 12.65297077010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "La Vista Agriturismo Boutique",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1064,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117608648944256529746\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0IrlLFNfmClyxscqELsbP-1Qbo2nUQMt3CaYOCUW7NximHfidBtLXV60LB8-Pd0Mc5k06iml0yZbKpdMAVCbCCr0OAV6VuvTGPrW9lRVo25hsIUsp4scAyfV87L_yFY7SGw3Egod3ubc6HnYwW1UEMxcLEBpmZRgHL_wWFRxU5SEUoKAGzW0DmYSIf0VTBSbixkUwzaGabTreYeBEZrpz8RoxHeqyCBGrJnFWaHc9_KLuHVGBi-aTasrzgiRyAHSXYII2gtZkvtBakX7rv4TE5ZaRugtcX54xCfbmUy8p3UMF8GcY",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJjQf5vTyFJRMRSJGRqc_Wqzc",
+         "plus_code" : 
+         {
+            "compound_code" : "PM33+HM Ariccia, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJPM33+HM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJjQf5vTyFJRMRSJGRqc_Wqzc",
+         "types" : 
+         [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 573
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bozzone, Braccagni GR IT, SP72, 58100 Loc, GR, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8650542,
+               "lng" : 11.0600039
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86638312989272,
+                  "lng" : 11.06136417989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86368347010728,
+                  "lng" : 11.05866452010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Guadalupe Tuscany Resort",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2003,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104431741559783504579\"\u003eAgriturismo Guadalupe Country Resort\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1ohpToJ208KwchN1OM-tcd9RBccYrTbWtq3sKv46spuVQKuHB640T_V5X_o1pY32_vUPgdURdk8W-1OoEQ4AcDySFL2cSf5rU4ggjswgx7iQZOnuCfkT_lmZ6uwCrG2wPaZoEgrFGjF7q_qGtEb1ZUyarPAZ5kLRMY3jvA9G7dNWzzuJ4Nvj91cVZE4Fw4OX9oxs25SPsrNFktjsGpqCZ6n10mU5kQVgWdw_XrXZf0dfhl_OBZCdiPCcK21iQr28-a3Z6m-h8PS_79qgBPKp9-DfKfZGSqU32-YvHit59KY6jEDro",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJVcy121G5KRMRxO3dBWK4XdA",
+         "plus_code" : 
+         {
+            "compound_code" : "V386+22 Grosseto, Province of Grosseto",
+            "global_code" : "8FJHV386+22"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJVcy121G5KRMRxO3dBWK4XdA",
+         "types" : 
+         [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 715
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Zandonai, 21, 47838 Riccione RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0057915,
+               "lng" : 12.6532499
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.00715482989271,
+                  "lng" : 12.65449057989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.00445517010727,
+                  "lng" : 12.65179092010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel La Cappuccina",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1285,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110559443600633333348\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1SYqXszvV2xdu0vQtlTLUd1SHLEtBKQYxbgaoiwx_91pjl6TxTCLc41YxGwI4zatV2Pf6ZAB140H5DHAK34pvfy-IIAUE6Ya1YmP1jjXvsxP-XZoidXScn46nDrC-GrMoMaIgTNAvA9QJHtX5sjn476CUxl8LXMzt8RczMOwQlw0P0flaEA68LYUMkKPaiLm5_nvk__5EB5WrkrreXJnxw5C6jbM06b1qfWc6_fmBR689ABknldQU7zgz13ieqGw98B1Ih7c3ovcHJHD5gyaVItp3Meu47N9O43WRwBQCrNMa5wXg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ42M0gWXdLBMRB5tnsiPkjnA",
+         "plus_code" : 
+         {
+            "compound_code" : "2M43+88 Riccione, Province of Rimini",
+            "global_code" : "8FPJ2M43+88"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ42M0gWXdLBMRB5tnsiPkjnA",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 989
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via S. Francesco D'Assisi, 34, 00043 Ciampino RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.803481,
+               "lng" : 12.5978948
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.80469037989273,
+                  "lng" : 12.59945907989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.80199072010728,
+                  "lng" : 12.59675942010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Albergo Anna",
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100744209187784908510\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0byun9lWgHS8GID8dqnVyzb0R6vODRbD37lf0abhXluE4_QNAHcw3wcurgqzWXAG5KNPnpOvmaDOdvIfpqMiWPU6n5A_ackX1pwIq3G-wv8bY9NYrf_QsEKXnDt7FaDaqCpm9EWvBOZRj2brJbMmnQ2ZO5gkj4zFovqqZ44NbogU9WrJ62awooaq3G3UtKTh81Xosq6rVd3fZYF90HFSZJ9n40ETQTaTeZOOst16LHKL9yx9DdOR9xxS3stsu6LETwIyxscer8apCSYC2t2x6z7seiT4NOb1DosSK4ed5CEkU4GpA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSVo3sOyIJRMRbaZ5zleORyM",
+         "plus_code" : 
+         {
+            "compound_code" : "RH3X+C4 Ciampino, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJRH3X+C4"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJSVo3sOyIJRMRbaZ5zleORyM",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 107
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Amerigo Vespucci, 24, 47921 Rimini RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.068589,
+               "lng" : 12.5803628
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.06990102989272,
+                  "lng" : 12.58160142989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.06720137010728,
+                  "lng" : 12.57890177010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel De Londres",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1281,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115542232274251147120\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ254UicWsRkh-rL8VNLUIpaHtrACPgr4AFIaELV26jr5QthOCPL8NdiEirUpF7SSz5yf9LJxwO3x4R2Btk204E6LrdkR3HsZaV2KEENwz1kJlvR3La56bXBEDU0XJS89SisIPXkTjKKmu8nze_rGspfv_1dj045QpKhkhu7y_2GKEl4-f_W2GqrqQeQPWAlBJP3phDq7PkBCfNMeJbaRM_0_0MsLin6QTS6UC9vk7ETl3nWapaMYMJ64sOKB3MqHhHQKgikHp1AH290EMc2lauGK6HIHHBJYaqdaxJYMaFy09s_W3A",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJLxgdI3fDLBMR02diFyiildM",
+         "plus_code" : 
+         {
+            "compound_code" : "3H9J+C5 Rimini, Province of Rimini",
+            "global_code" : "8FPJ3H9J+C5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJLxgdI3fDLBMR02diFyiildM",
+         "types" : 
+         [
+            "spa",
+            "lodging",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1253
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.LE J.F, Piazzale John Fitzgerald Kennedy, 12, 47921 Rimini RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0668171,
+               "lng" : 12.5823092
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.06822852989273,
+                  "lng" : 12.58359107989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.06552887010729,
+                  "lng" : 12.58089142010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Bellevue",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101771473460411072228\"\u003eHotel Bellevue\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0U0nAxZ0_kUKAD4rQO1-E1QtYmosLIKMH7QBES1vwlLqmln3lAilP5Yn6WBlfS7ysKGDoNSd7Ka2-WbLKSm4V0EbenutKhBVw6IbFqZGbUDG5nr9dTT85nRlf1-oWGtxjfFwitWFD9l56JjM13ablNaCJP77bCMz-ZOl4VHGuofqMR1Jzw9H95pVPTAX_5teNFWcDwD-LPR_J9GTzDhVIGBTEAkae-tefJ3MAW_LumcEVzgBSOvBvNcY1nhvzHE6bnCevupIE2ikuSBPA9SdESbLfonfIrykc3lidLVucIyckY_p4",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJSTGEckqVLBMR5T2MINr43eM",
+         "plus_code" : 
+         {
+            "compound_code" : "3H8J+PW Rimini, Province of Rimini",
+            "global_code" : "8FPJ3H8J+PW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJSTGEckqVLBMR5T2MINr43eM",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 799
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lungomare Trieste, 22, 33054 Lignano Sabbiadoro UD, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.6910187,
+               "lng" : 13.1480311
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.69232012989272,
+                  "lng" : 13.14945717989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.68962047010728,
+                  "lng" : 13.14675752010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Columbus",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103019509864688666780\"\u003eAki Taras\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0hlTkuLZg_kBHLLpwtZSQlRGrMNWjuAXQdLrPHhB8GpQa-Ct50u3XLElLQMZUWIQ1EuiKuQ32v5dLUGzixCVG-20oO13z_j042EK1vnHdxC1ZFsPpi3KxADgVX02UgRvH9zgycRcnJA8sYizLQCPg9nGYhK2vuPuxYWF_CDTi3VOiVg7cxrwIF6xsyPKT-pW1F-5xNen5F5QdPRZrIyjbclrpP0zX3Q_ADfLdQBps-dlxwbs9y-UH7Q71Wqb_z7FDVPijuJSquylHJ5vpaTBpRrAt34k7t_hrY4jYHT6LnRrN4_CE",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRRj9YxqUe0cRgtMIwcwNIpg",
+         "plus_code" : 
+         {
+            "compound_code" : "M4RX+C6 Lignano Sabbiadoro, Province of Udine",
+            "global_code" : "8FQMM4RX+C6"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJRRj9YxqUe0cRgtMIwcwNIpg",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1836
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Regina Elena, 6, 47900 Rimini RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0627212,
+               "lng" : 12.5866715
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.06405832989272,
+                  "lng" : 12.58799882989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.06135867010727,
+                  "lng" : 12.58529917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Park Hotel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 868,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103371121345170626364\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3Dy3XXgA3iCxv3RZ8qUfvJ12PwZ5VXY53Ut2Yr4HFjxVXR8FIG8HdKuk2CKH_92XCAMSFCnc644ACAVajRXzgG09Ew7aF6fcqfgWJ88AYA2UalAh_N1X2r9ZfwznJ_LblJXnKqWr91xz1juz7WrQ8J6SrXfZFNhnC2EUp1LCYJQRWEIVRFa_Qs_bBhjrWxnG5NK7sM5IFc3TQ1xIhlFnXi5QfwSEg7SpLSYoDwkAnvwoiBeugfit0ZgKv985hPIcebqWTpZOnjdyQkDTKdofVgxg0_Rax0b0ovPi5_OfJ5LhQCoj0",
+               "width" : 1300
+            }
+         ],
+         "place_id" : "ChIJr8eoawLDLBMRklDuF2OzEKg",
+         "plus_code" : 
+         {
+            "compound_code" : "3H7P+4P Rimini, Province of Rimini",
+            "global_code" : "8FPJ3H7P+4P"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJr8eoawLDLBMRklDuF2OzEKg",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 814
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Regina Elena, 183, 47924 Rimini RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.0516071,
+               "lng" : 12.59747
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.05300102989272,
+                  "lng" : 12.59890422989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.05030137010728,
+                  "lng" : 12.59620457010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Diamond",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111671839535724405046\"\u003eRonny Enders\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0b1_dFcRTFvAPS3E4HkouRB2dSxU9nMNLWT-TT3ZcGCcAiGzuDXKnfvVNxZuaTJ39mnvB4KE1rs_E8FMk18v6oLexGX82SG7h7xkQjiKY-l5W3dxRmfohZrdKYPIkdsoVli3ddJWnIRN-6UDTJ1CFPMIS8snrB3X2Rbhh6tB-lAEcg_6SLrxQx7BGjwHcgFEW-juqe5onyaEQUfxYzeTqOZZ2F605XU169TY46qsaCrTyWM2yttJ_NEypRb8vHM94DTpNQZB3Eiv124h_ii2IO5a-0_WhMeNgM0GUg8PaI8J7v7Ug",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSWSNQdTCLBMRVwZWfNTYD9E",
+         "plus_code" : 
+         {
+            "compound_code" : "3H2W+JX Rimini, Province of Rimini",
+            "global_code" : "8FPJ3H2W+JX"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJSWSNQdTCLBMRVwZWfNTYD9E",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 273
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Santa Croce, 687 Fondamenta San Simeon Piccolo, 30135 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4402225,
+               "lng" : 12.3220959
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44129359999999,
+                  "lng" : 12.3235076
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43726920000002,
+                  "lng" : 12.3178608
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Antiche Figure",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103862897449931998304\"\u003eHotel Antiche Figure\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0q3laFhANoAJ9MD_Xuz_uNGqVg64veMr5zkklgpiaQ1TJBvQDf_R_cKB61NnUOPj6yKNpZCiFGSfROYfxzDEsSKU05LVpQo8IjeYktUBZU27ZNSGazV2ZA9QJnrBVNUOWLfLW2qxPqZgDrN6E793UXw2W7-Qn7le-nMHIa2mUBf3-zL2MeB9GSeNo5NSepvIGdhvTb5cjtEOYjbmy-hDJl_UrLWnN3wXmOEqujor9OyIEcQ1zhtx1GQQVB36SLV5vuLoZ090NFIilVqAnFGoh5liWjdDSziM4JK7oZSCQx40vsIDg",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJCWVS48OxfkcRR6n0ykWzMZo",
+         "plus_code" : 
+         {
+            "compound_code" : "C8RC+3R Venice, Metropolitan City of Venice",
+            "global_code" : "8FQJC8RC+3R"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJCWVS48OxfkcRR6n0ykWzMZo",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 789
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corso Giuseppe Garibaldi, 32, 61029 Urbino PU, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7255556,
+               "lng" : 12.6361111
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.72689922989272,
+                  "lng" : 12.63749192989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.72419957010727,
+                  "lng" : 12.63479227010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Italia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118044873330846109262\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ32A-C-dVqII5mCCf6kTzMthMtNIw-fS1a92lB2qw-tp7qSnPTxxgDZgl6iMxVJ4UnMpv18TYyHVYfNQVOdWdQX8qqSJwFV2NlS9VRsRr3skL5xSf4qVd92n8ealtiM_glfKccBDkQRn-EuPGu0F8mNEzQfwGXO6WiA4gdPKUDJOgcL826QV2bb2FQ2zs4WXYSWAohE2s4m3S6D0JNnXhfkEhgDRWCB5dVuvbrW7lfDefwMAIY7V9Oljywqbqh0NK-3EroUKhLgZRLSuOebVTbHGzfEOYxNYxz4JqI8hIceDfWLFvE",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJOYimfzr4LBMRdtvrHp6lN4k",
+         "plus_code" : 
+         {
+            "compound_code" : "PJGP+6C Urbino, Province of Pesaro and Urbino",
+            "global_code" : "8FMJPJGP+6C"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJOYimfzr4LBMRdtvrHp6lN4k",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 457
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Luigi Rizzo, 98037 Letojanni ME, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.8805208,
+               "lng" : 15.3077198
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.88187457989272,
+                  "lng" : 15.30906472989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.87917492010727,
+                  "lng" : 15.30636507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel S. Pietro",
+         "photos" : 
+         [
+            {
+               "height" : 6000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113101558714774660422\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2njCMC0G9a9aCIL3gcGIGggipsPVRAizQ_cyy6sYxIHhpVW7wMr8gCAiGRQ5VBl91CZYyjK7UdmJgW5V81QoC1OuJARjP_ILbgaalbl46UH5epM0gDRkw1pVvN0XQzfgtcHs2pn9w2JmeAY76vLqOMDjPATYK_OvdClgn7l4S67PnDmOYXii3BGD3RagyL2OFd-XX0YZVzhws9gFoqzw7e053nNl3WUdXKVbWaoYZBhfUB7eJS565p-6N0wgG7wPGoUIHo_wj0m7F8U19DiixzGcLltiaotg_Q5mGc4KB3msUKqxk",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJoahhr14RFBMRLOwD0g-RaOc",
+         "plus_code" : 
+         {
+            "compound_code" : "V8J5+63 Letojanni, Metropolitan City of Messina",
+            "global_code" : "8F9QV8J5+63"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJoahhr14RFBMRLOwD0g-RaOc",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 559
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Rattazzi, 65/3° piano, 00185 Roma RM, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.8981483,
+               "lng" : 12.5039397
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.89952562989272,
+                  "lng" : 12.50525597989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.89682597010728,
+                  "lng" : 12.50255632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Rossi Hotel",
+         "photos" : 
+         [
+            {
+               "height" : 809,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101780060964799784246\"\u003eHotel Rossi Di Giorgio Di Monte\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ2NPQALypbCdhkLIErf9TNqlZXejVfIFo5eTEe6XLUw2Gou8txXtxaycHBo_R5wAhhQ19boqxXLwQMWYtbRzC7lNag5Zq6JBxThkYX7qx-7J-DxZMOOAEDriddt_-9JWnxkj2ZGHrRakF3RC4gCoEvDPAF0ZDZBPcqSn3MB1eRzh_xFZL-ZibdMqYgKsUR-_CdnIHWWj0CZISSMpA6laCRs1ltnatLRObmlbweWj5B0FGM-WntaRleTSB7GzcdgNxIx6FcXAEHRthLT8Ys3WSeROkPwXg3LbT9dbxGWdZzJaHTJ5DE",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ0cEYAKNhLxMRQ2jnXsshgg0",
+         "plus_code" : 
+         {
+            "compound_code" : "VGX3+7H Rome, Metropolitan City of Rome Capital",
+            "global_code" : "8FHJVGX3+7H"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ0cEYAKNhLxMRQ2jnXsshgg0",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 187
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Eridania, 115, 45030 Occhiobello RO, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.909463,
+               "lng" : 11.6049585
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.91086247989272,
+                  "lng" : 11.60599982989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.90816282010728,
+                  "lng" : 11.60330017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Italia",
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102284470961001380136\"\u003eaa Romeo Florin\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0F4oMdms5incX65H2edSEE0fzZaTzVOb7Hk0e5QzAmJXNw_5XUqs0urYAib1iUsBsswVUBH5ZRfg4O5WY6lYTE1ajcipiCKPSWClRB0DJwNey-tycoLteLL870IaaQp7bI1NaYSu_VN_PUcBawejAXRMMVI5gQ5Z7tNFE9QFoLzBzovPstr0TCl08sw8c5lTfa-hlY-pRlc4Z_Tg6A43w7-PoNDzYXrCVjoi2pAis8dYpNBwwFXx1Fx5a2VGCGUXhghBZ8-06OmO1cD44f3nuao82L5sOdMw9w0r1KRH6Z6beF81o",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJs4FbVpxTfkcRTAs9OtxPE3g",
+         "plus_code" : 
+         {
+            "compound_code" : "WJ53+QX Occhiobello, Province of Rovigo",
+            "global_code" : "8FPHWJ53+QX"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJs4FbVpxTfkcRTAs9OtxPE3g",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 191
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hotel ginevra stazione centrale, Via Genova, 116, 80142 Napoli NA, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.8547371,
+               "lng" : 14.2718231
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.85615822989273,
+                  "lng" : 14.27317957989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.85345857010729,
+                  "lng" : 14.27047992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Ginevra, hotels napoli stazione centrale",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1408,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113595046146338744539\"\u003eHotel Ginevra, Alberghi a Napoli centro\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ1rGUpX1v5ra5IDJzZHPHdKHePDuFl32P7IuQvD9fld0lpsJbXxdOSCHJuULLd34tm2UtifL118hVmtTdLvy2wWW_zj0Jp__hJ86dLaane1ljo2pmKPb7IbgKU1sEqp45EqZJX6CTsorfz8ZLK0eO6Rt3pJEL4TrI4AJqlyfGK8TxdFUQnN4XyuN3JYEZTvnO3ZZIXF7NJXLQ4V04N7ZuasscAqM-HSNoOVyNCNDSpoivIxJ4TEBLZBrXWFUmBN1HG8VUyAOWwXuC1nRmSB1snLmlBNB-joVLWg76I5CJLNks83MBU",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJeQ4OKRcIOxMReanEicJjmu4",
+         "plus_code" : 
+         {
+            "compound_code" : "V73C+VP Naples, Metropolitan City of Naples",
+            "global_code" : "8FGPV73C+VP"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJeQ4OKRcIOxMReanEicJjmu4",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 425
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Catullo, 11, 80122 Napoli NA, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.8262253,
+               "lng" : 14.2174857
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.82766657989271,
+                  "lng" : 14.21871292989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.82496692010727,
+                  "lng" : 14.21601327010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Paradiso, BW Signature Collection",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 692,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102821965936614195105\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ3IuwGJf9tIvAxIVQL32d6IE6a06x3kVj4ttDi4Xl-f3SxqDQ2ZKeDNog-51M-a08Es2VyChCBvMGfhKSKE4yok22b-ucneL6D2zRdKECigQBUsyWZhVynd5FlTT9e3SvmXNfamMjHfHrC7NZo7NDOSKxech1cUrI2OtsD6pebamCz8EUyo1pFUHMRNWpcOe_dtdmclFirQ6PpDGC5oXt8LYCd-QimlxHG7q2XVaxGOuhkfWMNrRoVmP60wFPjOqMv-Le7Z1FJgN4EWCSQD75QWEcUB6eGUtBbhEBKg9YxtagVCaNo",
+               "width" : 697
+            }
+         ],
+         "place_id" : "ChIJ1_uT1j0JOxMRpgb9aXIwXyo",
+         "plus_code" : 
+         {
+            "compound_code" : "R6G8+FX Naples, Metropolitan City of Naples",
+            "global_code" : "8FGPR6G8+FX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ1_uT1j0JOxMRpgb9aXIwXyo",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1467
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Antonio Gramsci, 90, 47838 Riccione RN, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9993241,
+               "lng" : 12.664434
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.00073377989272,
+                  "lng" : 12.66587317989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.99803412010728,
+                  "lng" : 12.66317352010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hotel Embassy Riccione",
+         "photos" : 
+         [
+            {
+               "height" : 943,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117504279198213100319\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AUy1YQ0ej35L_f_z7OoOjGZLAv3KuffAy7InrBEMaG4Y_1DheelYbZUwoYEAUJWlJb66n8tVuiu64i7F-JG1mlpQZlUQ3KffhPTLiIQylgdyMzuSb-x5f-WtTiY4V9g1__7lcLXe9zd3HvbpzngvjBei9OQVnHRTqg-gHR3pudrJDcKWleMGilqHGHWMcNxxuWXBP_HTvY1SY90LeqvYkG3mUqBDGc74iAFF8xgKx3rRn-RKap45RkmUQlYyRHiYO5UDZYVqUAiNZc6GgfXBymwiuutVQTf7ANPmmviSPP2fCvL57lV4krw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ64cdKH_dLBMRoW2I502B2bw",
+         "plus_code" : 
+         {
+            "compound_code" : "XMX7+PQ Riccione, Province of Rimini",
+            "global_code" : "8FMJXMX7+PQ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ64cdKH_dLBMRoW2I502B2bw",
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 227
+      }
+   ],
+   "status" : "OK"
+}

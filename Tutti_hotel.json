@@ -62147,6 +62147,2980 @@
         "establishment"
       ],
       "user_ratings_total": 315
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "P.za John Fitzgerald Kennedy, 28, 65015 Montesilvano PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.5243996,
+          "lng": 14.1537199
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.52573422989271,
+            "lng": 14.15500352989272
+          },
+          "southwest": {
+            "lat": 42.52303457010727,
+            "lng": 14.15230387010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Grand Hotel Montesilvano",
+      "photos": [
+        {
+          "height": 509,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100080339291659871918\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNSt2k0TxCFALBFVkX6MVDhHWYx41GVLX9gLrQzodO9VPedwuaYSv_dbwbtdEkR0lj1cIvHdfRxtnyg2g7TU_6V81JBNNbsYjHDD9ClGZ3utSG9lOjaHt7nasZECkkJY1eOEvDgmDI2B-83V82EnjZCz9t1tYJb7jyVaFXBA34O_rOWkdJwjHgDd6h51T_tvw__ghjNT-5pImBzukkZWYJZXFAhGo4ZxmDqVQmpR50cZ3it3_5bX8fKRup1hKJ1HOpYmh2biYBD7Di9nYP6ejpct0ls7noo2gjGghKm6XY4C35UHVdk",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJO-Aau0MzNxMRts3_N2YPdJQ",
+      "plus_code": {
+        "compound_code": "G5F3+QF Montesilvano, Province of Pescara",
+        "global_code": "8FJPG5F3+QF"
+      },
+      "rating": 3.8,
+      "reference": "ChIJO-Aau0MzNxMRts3_N2YPdJQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1437
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "V. Roma, 208, 67019 Scoppito AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3459957,
+          "lng": 13.2609134
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.34730257989272,
+            "lng": 13.26229082989272
+          },
+          "southwest": {
+            "lat": 42.34460292010727,
+            "lng": 13.25959117010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel L'Aquila",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113472225815268492547\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRqrNwWy7F4lRbP1qEr6RNnmBBQYi6fWJSkQ7Z0lR5p9wFuVj9B9IlZ2-Qhg9sOdE-Poay9It7Gg3uWh1EkyvKqHPxToQUEtBaRdGa7fJBq0Ivjf94uaY9LmZV3C0HTt_y3J9n2UyeCSFNrRnLLBf_ngBMXGgzIOlx1U3drOc4iKG8O2DZfozKmMfLz_N9-dDO59XifugDr7dU6DPMJXDQ3m0Rdvn_YfjGaSKRYUXESMIRdHUYTY2U3bKA6ZZi3iY4A4uiDqy7lXQ-9yCK8xage7ebHgvZrjcY6bDUbjIA8xU30DxDO0uhhnYNsInxzul25Hgbz6TMmFbduZgc9hxzUyAFO7MeHfXz5VSpT2aOrW-ybe7-fprbK9Tpvrsd4A0J9_gGfU8qFxSxMC4H2-3xhNaCRc86goVP_QcKZno795CNW15Nw4MT4MqwRDsP-L6nOppsYTxyi_1h9_7LCmfSIn9K7Bbb6azJqqMfnbRNGXEMwmmZ69bPJqEbOU3igPTsAaYl5E68VcXwLjUlo5_H1irzannC3AHLL6o41guypZMIVHEVJ8VbldlA5MNmT9obfjKgWQe_tFQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJbR6noIzLLxMRsaaPw6L__h4",
+      "plus_code": {
+        "compound_code": "87W6+C9 Scoppito, Province of L'Aquila",
+        "global_code": "8FJM87W6+C9"
+      },
+      "rating": 4.1,
+      "reference": "ChIJbR6noIzLLxMRsaaPw6L__h4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 72
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Ovidio, 3, 64018 Tortoreto Lido TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7961403,
+          "lng": 13.9452858
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.79752352989271,
+            "lng": 13.94661952989272
+          },
+          "southwest": {
+            "lat": 42.79482387010727,
+            "lng": 13.94391987010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Residence Abruzzo Resort",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107119275924095996913\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTUSFd1ID2Hgeccm9MErk-5WvFbS_Tx_hpNsVLGnEqjvltL4NYpsXeeKSWg_i7Ssrjo2s1i9mM9NusTIIL409H5s4UL-IR7PyjqV6zeKeHhwDL4w6FtsbfYeuj4ygmqhdSn0684A7SVjLP7awiZR-Hzx15HM2Eagcjh695CgQeXTVPfOtinipgaIZ9tcMXR8nca7xXOzS2w8sVcXhIkFm9VSkOxkY6jMNQgrt1g5Mo85sKtRfnjs9mXETa_70gaQ25VbDjkHX19VCEo3kXJDWgecL_xhYDySF24tH2AXeTb6bT7YH2c0wg6fk1kCbKvgfP0Jc3VmzfpTOPkIV7FcGqfcTifc3XFo_p42WnCojOt9llHinu-Ev0XkqC9QroiztCMiSRTo_HD9ivHzpTJzz9W5bey1b0EQ7lvaRikYxBdl-FQE7oJ4ZTZhvg5Fx4NQ0I4YXrcu9pCb6mVYKibjqt5ZMjaakuux-uT7rjDlcWiYhbk6csz7nuNrc6dL7rn3KDdzSSfWhn2xqqeeuGKH6_I-3keYK8gWPeEqQbta480hx2MA7yDAEGavXuvqCVMLj3LZMd6",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJ77rkXGyNMRMR0xPdMl_9pTY",
+      "plus_code": {
+        "compound_code": "QWWW+F4 Tortoreto Lido, Province of Teramo",
+        "global_code": "8FJMQWWW+F4"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ77rkXGyNMRMR0xPdMl_9pTY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 211
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "SS 16, 92, 64025 Scerne TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.6406328,
+          "lng": 14.0421639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.64197062989273,
+            "lng": 14.04363057989272
+          },
+          "southwest": {
+            "lat": 42.63927097010728,
+            "lng": 14.04093092010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Parco degli Ulivi",
+      "photos": [
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114901789823175373716\">Hotel Parco Degli Ulivi</a>"
+          ],
+          "photo_reference": "AXQCQNTopky4njFL7YkyzKA1QT3BP_qATIkfKDSMH_YgKEi-2dqJ5kxF28ioOraZMHUq2zS-hkOoIH6Q31QZLUVJ0MAJOsvYczs1J1rWvWq4SiZbO-o8aEiYzsNY6c_XQL0PTCc94KUElENngCstX-qQKq1DVHeUKy0LoSUp_xQnB25f1_KK382A94hhcXX1sGjIipQwm0FshCYSsDc1lVPwKqSh-5mftvbU8FwNeUxx4tXCiaUzSqJS1TSJ8_q9dBu9c2DXtVyFd3fWrscTTEQWna0gZ06T6VIbHKmWhlqg5pRxMQ_Rnw8",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJaSpUFNaXMRMRhvNbLJypYX4",
+      "plus_code": {
+        "compound_code": "J2RR+7V Scerne, Province of Teramo",
+        "global_code": "8FJPJ2RR+7V"
+      },
+      "rating": 4.3,
+      "reference": "ChIJaSpUFNaXMRMRhvNbLJypYX4",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 566
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Paolo Borsellino, 16, 65020 Alanno Scalo PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.2906032,
+          "lng": 14.0040728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.29199827989272,
+            "lng": 14.00536502989272
+          },
+          "southwest": {
+            "lat": 42.28929862010727,
+            "lng": 14.00266537010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Halanus Hotel & Resort",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106708973098798667756\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRqWQhyJPoE21iNX00NoA5JTjXM0WSmRPSsQCrmRHcrPFgiKrdAL3lkib946GOAHjcKCFXbFsQ-gCDuHgCrFrToz_SSOoWvosybc9XEIuERjWPtrhmVKHdT26wPBHecUV7ula4zielz59wqwtMg8LrgJQrQD5mGcaldFN6ofhNJRK9zV_5Mmz6VnCEK3BhMBsY08kjxEvs0T9UXLw4n3cA0O_qd7_wat-YBtoFDFGrNJ1FyDvwzVcr_h-o7IeoqumvvnjttxnDaw3db39AYDMksjqJOIY-FUg5NSw-5m0SWWJAR4m4",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ76LRB2FLMBMRSBgHhu_vjwY",
+      "plus_code": {
+        "compound_code": "72R3+6J Alanno Scalo, Province of Pescara",
+        "global_code": "8FJP72R3+6J"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ76LRB2FLMBMRSBgHhu_vjwY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 829
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via degli Acquaviva, 37, 64026 Cologna Spiaggia TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7287125,
+          "lng": 13.9845541
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.72993682989272,
+            "lng": 13.98593582989272
+          },
+          "southwest": {
+            "lat": 42.72723717010728,
+            "lng": 13.98323617010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Agriturismo Frontemare",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102432153527466510132\">František Zimmermann</a>"
+          ],
+          "photo_reference": "AXQCQNSGZwTptY6Zv5cqPQHCiI8M87ZspJh0R4Bt7QgJtd61tBqfOV5p6aV0MWAy2NXgTt15kii8YX-S629PQi6sZXLZQxdkv_mzU88y9PWybRn4eR8emLTgn42GNBwyUqcXtg3j2JSvYu3Sw306XXruvx6vkgKyx4QvPes3KvV3nnSoMubue8RGEi_DCyEBYHkJAwiO-uioicf4LR32MIBk71k2cFJXmZQ3XtnsR7ett8_z9QOWet4vqP29AIFpjRBesHpVV2YMtu3XNd5uYIBSY2ohHV95swGUOR2bHJfZ_pNieNWe9EseW87so8_JYRhBew_o2PSN53Q2nZvOl1CX156GiH4CpliQHp8fZu9nOtuc9Q0-yCaxTUUy50m5qtEPW8j55tglzyVcyX3obtHb0lF8LW2xjhCaQ3fNBlS0ZE2zw18unEp2r8iErkRXjhUCMsIoQbXpmNvpDTP6K37n7898Ur9M3yiEWHMjM9-iNQCsJD1PB0_hdJZkbR6CeE-8n9v_LP9j_V62hs3Vs7jvWQ6Di2EH5MNWTLNg9Mr_F0B6oYSjYDXowpbppFpWuj1JbPnehcbw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJB4Y38seTMRMRm1Ul4SWNDiU",
+      "plus_code": {
+        "compound_code": "PXHM+FR Cologna Spiaggia, Province of Teramo",
+        "global_code": "8FJMPXHM+FR"
+      },
+      "rating": 4.4,
+      "reference": "ChIJB4Y38seTMRMRm1Ul4SWNDiU",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 618
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via G. Garibaldi, 134, 64028 Silvi TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.5597927,
+          "lng": 14.1111062
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.56111702989272,
+            "lng": 14.11241157989272
+          },
+          "southwest": {
+            "lat": 42.55841737010727,
+            "lng": 14.10971192010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Miramare",
+      "photos": [
+        {
+          "height": 1362,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116382716495576450069\">adamo</a>"
+          ],
+          "photo_reference": "AXQCQNQr7toxhuPKq60aI1PCbalVOBATiwY0DAyFAlsJW5OvWh4JrqpkdqtDZakOZacy-VlTH6T0-9-mwAfubO2hU1qsgM_6CVjdSL_8JGXVBDtNi_esM-R4T9eapO52wG5ke12XCEHrEIFJSHKhBLce3p4bJ028rS374ILfI5kxLoR0Iw3DlycnPYFCj6ucyB8dF05hUsuqCL8jjsSAh4Up5QUqZaAVTWKXpD0R4GlVuTKrY-nzClafBbTXLXKZ6TX_HM6_58lVh2cg0C-IzOwjTteOigUgJAAIpDzL9HDsU3xXJhAGRK-UWNLSnK89Vb8AcnZg8DAJkkhBCikVvkE_BPoHllmt4M2kKYntu5jnUN2xauvhNO0ndAWIFuXTCtVSmcFUTivUSDUpHwp6d1gygfV4eH7Xf1R2dbyqafm3cW83brLVoa6FFeSzhFGVqux-FINH8nGOP6iGGSTzDkJiRQFJmfgeUGV2uV_YiEgmH7o_SOfyoxHFLq8i2Y51Xngkkx0qbzBhNH7LhRb2sjT5LTw33bvzJpx_OlCAqY0OaRn6U9OTTZs",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJP1ccHTCjMRMR__pwF_UGvrM",
+      "plus_code": {
+        "compound_code": "H456+WF Silvi, Province of Teramo",
+        "global_code": "8FJPH456+WF"
+      },
+      "rating": 4.4,
+      "reference": "ChIJP1ccHTCjMRMR__pwF_UGvrM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "travel_agency",
+        "establishment"
+      ],
+      "user_ratings_total": 429
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Aldo Moro, 63, 65015 Montesilvano PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.5225058,
+          "lng": 14.1556803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.52372102989273,
+            "lng": 14.15698462989272
+          },
+          "southwest": {
+            "lat": 42.52102137010728,
+            "lng": 14.15428497010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Promenade",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 6656,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107186456418255966485\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRpoOemBm-SCBpZZMut8okjq7DUu_f4HNS_tJ9SFtGGLbSFUS6wh5YLz_kYnVvTfgNnXZU7MtFmwnPu2XTH4M53IYpf5RHE2U3_LV2LmlK1PUsc0iyUr_sY4nRRzqFmVm5DK1XTLzWvGOyUN8XLYf0SNvEbedphxPwuz_AmQlcqb4jWM2NA8t0XrX4N_t2QQ7wF2iHEJBytxQfN7crHN8z8IYTdPr5M6c9J96CVLAQv8l69P2z1sMp_rXVsqL-NTnGiCizcfdIeAvWYzEZotOTFhSZ6Dy93FxkSqozs3DhZ4C1Tsgw",
+          "width": 13312
+        }
+      ],
+      "place_id": "ChIJE5u4pnmkMRMRGRZP-OZWz4E",
+      "plus_code": {
+        "compound_code": "G5F4+27 Montesilvano, Province of Pescara",
+        "global_code": "8FJPG5F4+27"
+      },
+      "rating": 4,
+      "reference": "ChIJE5u4pnmkMRMRGRZP-OZWz4E",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1521
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lungomare Spalato, 82, 64021 Giulianova TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7476847,
+          "lng": 13.9735742
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.74905202989272,
+            "lng": 13.97493912989272
+          },
+          "southwest": {
+            "lat": 42.74635237010727,
+            "lng": 13.97223947010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Miramare",
+      "photos": [
+        {
+          "height": 301,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108045272049653122280\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNQ7Tm3_qbIODS64Qbr4tGlRpGToLcUH3l14d4ouuVgrR_7jC2JLtZBqPLIQom8zeWvvgmY1rBuvByMyHsAcB-uUScErZ9lw3Xxfw4R09SfgEQxWjT4xJQ7eiZJIZpBESbvpfJX46FqhDEDtfR-SKSfLFdt4e9hrQLcN6BDGDOcd8d4Suszo-d5JDK-LEorY3WAJWOcu7Dy8fenXjr1rdSfPKHvaq0z2D0au9k9s071i02I2o-4cQByqAZHb9wOfjiji9qw43smV-Am2mXYUlzM52U9srTw4_UnjD_JljOvsptcGIxs",
+          "width": 400
+        }
+      ],
+      "place_id": "ChIJ3wnwy0-SMRMRMoshXEcH_7U",
+      "plus_code": {
+        "compound_code": "PXXF+39 Giulianova, Province of Teramo",
+        "global_code": "8FJMPXXF+39"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ3wnwy0-SMRMRMoshXEcH_7U",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 552
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Contrada Cerreto, 186, 66010 Miglianico CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3810684,
+          "lng": 14.276819
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.38242782989271,
+            "lng": 14.27813737989272
+          },
+          "southwest": {
+            "lat": 42.37972817010727,
+            "lng": 14.27543772010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "La Chiave Bianca",
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115579862520702432759\">La Chiave Bianca</a>"
+          ],
+          "photo_reference": "AXQCQNSeu75CFRjFCocTEPjy8IYPU_3urP3p__PZF7Bcunrju8osIoeux6az8LjILAbob8GODuIlddrD6uMuknMdYm9zdcwymn7rMXKCOdUHbsLlxe71Je-axRBA3P_yeDz4jTN1sqXJqVD_X-qWfup-XmPbUgG37tRICGdeY313PHmzuEm-nz2aiQxtLk_JYfZTN3-A6d8odGk6ILNVP4UUsU41B13eDUDuytb5ThlMKgV-xuJ47zG1IhNQ8f50myfAtQ7zsFfR292cvcjGMTpsAyb2mFN3ogdmSYnYT5U4zywjN91o",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJW6hBDdmpMRMR0sIum6ZZtoY",
+      "plus_code": {
+        "compound_code": "97JG+CP Miglianico, Province of Chieti",
+        "global_code": "8FJP97JG+CP"
+      },
+      "rating": 4.7,
+      "reference": "ChIJW6hBDdmpMRMR0sIum6ZZtoY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 735
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale del Lago, 202, 67038 Scanno AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 41.9180556,
+          "lng": 13.8713889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 41.91920962989272,
+            "lng": 13.87291187989272
+          },
+          "southwest": {
+            "lat": 41.91650997010728,
+            "lng": 13.87021222010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel del Lago",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102662323941294345041\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNSbdX4keMYXz2lcV66ZA7edWQy33L7vYa_zYF_WIRwmeNkTfYdVs2AOtCTYy6lde8Rqop7XnUR5wnYERmPQDsRRycPVl8EX7NKuO6lNQXIfTef2lNCAgAtwYcVPoXlsnG6Tw661F6LHG8yVzUYItqZlRrUYN3syfUXe8jVB1Fy1yCxE8HmqAadBxoHFNzSN_Zqmq5wv3Bs0GxLBuxgkZRiNKjnYJWFrbqGxS80EQPoJyYbVpg1skC31Ot6_PVBfApB2hc0AQSN4jvs5s-xmPGMVzb2MlhQsBkhfp8DbJAAm7XhYIjJrSBezZogcEjgm_WRv8xfp7pVi4oXew0jFrVOqDR7Zy6QYKsyESEMt9sYbzZebUka-Th_EKmoJWQY5sorkUEsC3xdj615gFgiCixWYXsAF3J4Ps5HLpo2xK-24TnoF-iPsiTFYP3ZWBCgr5gFq6hgGPSjP5OuRAWleZqs2T-FYPWGkzu8hJVAv5Up60kEMaJ0cQ1EBKyLIQDffNFPGdzJmuKAGnXulZKcH2n9WNlivTj7alaOoroon-COrUH2hWTzfNvNjsQ5zGmsU93OkkP6P7rub_A",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJKY1o2AQTMBMRm3ELb9axRTY",
+      "plus_code": {
+        "compound_code": "WV9C+6H Scanno, Province of L'Aquila",
+        "global_code": "8FHMWV9C+6H"
+      },
+      "rating": 3.7,
+      "reference": "ChIJKY1o2AQTMBMRm3ELb9axRTY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 610
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Contrada Santa Calcagna, 71/72, 66020 Lanciano CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.2644636,
+          "lng": 14.4322078
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.26574772989272,
+            "lng": 14.43361142989272
+          },
+          "southwest": {
+            "lat": 42.26304807010727,
+            "lng": 14.43091177010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Villa Medici",
+      "photos": [
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117959700585265144547\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNSCvftSC51nctGvrX8GuDtU9XIzHdkL1bX-tIets1z8diXOiUgmGid29pn8Y9XsduPi86dBqEqHkwuj3h85ZEoB7QTCqScBG3v-v23qjP81fHviqq1_lH5xW7iWbHc9L8pvOyQ5xM0eDymng67ISjpbFSSnlpsAw_K1in4lmcfXeyDXe3HfHc7ZEBEWX4ntoOeXKTZL98IGAwpuAO8n20lwIkvRziZlB9BXb7McJvgZnfBAUQ6FFmaALqjJuYmNd9j7btrw4TazPI27-eWwXgTe5it9YhrZka4Sdl5pxIIOfY2RXiI",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJ1WtQrYYCMRMRGe2ukRkFBn4",
+      "plus_code": {
+        "compound_code": "7C7J+QX Lanciano, Province of Chieti",
+        "global_code": "8FJP7C7J+QX"
+      },
+      "rating": 4,
+      "reference": "ChIJ1WtQrYYCMRMRGe2ukRkFBn4",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1777
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Pescarina, 65020 Turrivalignani PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.2668976,
+          "lng": 14.0109032
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.26825012989272,
+            "lng": 14.01227987989272
+          },
+          "southwest": {
+            "lat": 42.26555047010728,
+            "lng": 14.00958022010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Resort Regis",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2309,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102693118152054592112\">Albergo Regis</a>"
+          ],
+          "photo_reference": "AXQCQNTKRFb4gGlOZ4_8MNpX4PCPl-V7qeHwTtql-x0YaVEOfT-oEbdJQbEjS_eyNqIrfo7l65djZQBO-UumaNpVxv6-nfK1u3KrQqFM4yx6AjGu0TSbVqD15SPDrfhB84JksA3Wopy9mkE0Y3r3GxLRczHqNEMr176Hjo8wjUoNbU5gHJTYzy03l4Ow7ZFJV9UKvOd-aTiLJbLEuCcHppK3SZppOZv5ZbS6Mkom4qhKaetDYa8ra-jmpTLHT81iF79G4Hy4s9KGtpz08VEDgpuOfHSRdM56Mwdn1GIOMhYvMvl4Kogwc6g",
+          "width": 3464
+        }
+      ],
+      "place_id": "ChIJ5U87EHlMMBMRqhS6G6DgWbA",
+      "plus_code": {
+        "compound_code": "7286+QC Turrivalignani, Province of Pescara",
+        "global_code": "8FJP7286+QC"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ5U87EHlMMBMRqhS6G6DgWbA",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "spa",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 757
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Aldo Moro, 65, 65015 Montesilvano PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.522254,
+          "lng": 14.156153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.52348422989272,
+            "lng": 14.15741442989272
+          },
+          "southwest": {
+            "lat": 42.52078457010727,
+            "lng": 14.15471477010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Sea Lion",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1066,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106641105265172331398\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTvJEt9RKiibjV2IevzYQOUaRQ7JQeJ5n3D_tWx35sVRRNqcmtFgUbqpFarkDpt5_8CRldWweeYessZZcvbyRIzglrPOJi2lEG4X3wRhzVZgcpwipnA_GwUnSqayTFya4S8MWOCfOFDVvb-5_Nespwd9bXnnKui_-q_UIkkw-DSE4dlBrjCec9x_Frwk565iJLjBhQWZ1Luj0dWiDJjhcimrddAMbq-_IU8MXudw9xHwcy7DjodBDEWYbUwg9LKX_xftFIUgG1RzSKm2XGeam9NT_bbvseiZ0XClgiA6gPiVky0NOk",
+          "width": 1598
+        }
+      ],
+      "place_id": "ChIJnWh13T2kMRMRml7-RM4F8fM",
+      "plus_code": {
+        "compound_code": "G5C4+WF Montesilvano, Province of Pescara",
+        "global_code": "8FJPG5C4+WF"
+      },
+      "rating": 4.3,
+      "reference": "ChIJnWh13T2kMRMRml7-RM4F8fM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1121
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Contrada Portelle, 77, 66038 Marina di San Vito CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3021197,
+          "lng": 14.4539068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.30345152989272,
+            "lng": 14.45534022989272
+          },
+          "southwest": {
+            "lat": 42.30075187010728,
+            "lng": 14.45264057010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "La Chiave dei Trabocchi",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101730968016437893727\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNSTNYx-9vT1xk-U5y7RLmOjqUG2HtlYstBRd84adWtELo8bWDJPMshEid5cSM55tD4QbpESQoGH-PirpwHtGirAzWzdZ9mcXH7Hun3o2lea8a1ueSDyrsgrtfVHPBrhvoH7kKm7oljtlAOkQ9MM9lmYckaoj0UeLut8RWs1IB-f1KQ4CqQGnnkoVLq8aG8oNCT2mTc3_C-_6ECPXfgyWvmXZzCSOiywaTVqbkBgXnbCSaz9r2496Ki_6-tTfkqVIALWLQs-n-UtXO2gySP-koKs0679fet_CWBgy8CYQk52qGkBgvQ",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJa6GMcCMDMRMRrZPGeAiXR1g",
+      "plus_code": {
+        "compound_code": "8F23+RH Marina di San Vito, Province of Chieti",
+        "global_code": "8FJP8F23+RH"
+      },
+      "rating": 4.4,
+      "reference": "ChIJa6GMcCMDMRMRrZPGeAiXR1g",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1111
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lungomare Zara, 97, 64021 Giulianova TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7644666,
+          "lng": 13.9623515
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.76576632989272,
+            "lng": 13.96372562989272
+          },
+          "southwest": {
+            "lat": 42.76306667010728,
+            "lng": 13.96102597010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Grand Hotel Don Juan",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1296,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112279960687646524231\">Grand Hotel Don Juan</a>"
+          ],
+          "photo_reference": "AXQCQNQxxblifXnSe7z62_LTVFQXKcpPr0zdx2Ty37sacj8TK-Lscwy_FaSCvW5ZaDk0yzTdkhh94WRv-AlvwHrwAdwBWhhsFJ2Fgprf-ZUbjRHijvdMmCGC4cWXymD2QzLduaLV40PFGvY3lTgZK0QoT3NFF5Ma_k1T73ayOT6gvmb2WTL-Rd1LyzJG2-hnq-UjhBnWaf7dIEMdcNbXOPI6kSrSoULdptUEpk91MgB3wVQyfZq6GLxRiRlTYm21PNY3iY05sbg3OzwtDQgfBczVlXJRZwGXsGPPxHHQpAJQHwagfQNnXBg",
+          "width": 1944
+        }
+      ],
+      "place_id": "ChIJew49lmGSMRMR2mB1GuHmkWg",
+      "plus_code": {
+        "compound_code": "QX76+PX Giulianova, Province of Teramo",
+        "global_code": "8FJMQX76+PX"
+      },
+      "rating": 3.7,
+      "reference": "ChIJew49lmGSMRMR2mB1GuHmkWg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "spa",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1030
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Cristoforo Colombo, 37, 64018 Tortoreto Lido TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7990454,
+          "lng": 13.9430341
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.80045982989273,
+            "lng": 13.94436957989272
+          },
+          "southwest": {
+            "lat": 42.79776017010729,
+            "lng": 13.94166992010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Palace Hotel Tortoreto Lido",
+      "photos": [
+        {
+          "height": 2548,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102966168767964864302\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNT6VQgGuHRb1J9yjryg5iPtUT1ijNRIM9XVrmpVdNj2_pkIizi6X2TTYwjE7TPv9C7CsLVAbEcfcuIcLZpaAJex6Y6zYLVvzqK2-oZfuubltWskl_dOSypuIBK6PeTP_p_O2fLKQC_D0wlai6t1a3EXj5TJ6M1CUgygNQi2VP1VCjH1Oi0oez7qwVRg3m1vP1PoEyHCuquXZroJPpjwpG8pxdkSIqWUl5bqit27FuTmxUBnrJR1xK3MTNU_RWqp9mNgAp528yPU-gGvXe4nhl8oaGfvaPpCQ1nF9aGCBnbQQxveDZw",
+          "width": 2663
+        }
+      ],
+      "place_id": "ChIJDS2xg2uNMRMRpC8L20MptHg",
+      "plus_code": {
+        "compound_code": "QWXV+J6 Tortoreto Lido, Province of Teramo",
+        "global_code": "8FJMQWXV+J6"
+      },
+      "rating": 4.6,
+      "reference": "ChIJDS2xg2uNMRMRpC8L20MptHg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "spa",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 559
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Trasbordo, 3, 66038 San Vito Chietino CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.308395,
+          "lng": 14.440633
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.30971097989271,
+            "lng": 14.44198787989272
+          },
+          "southwest": {
+            "lat": 42.30701132010727,
+            "lng": 14.43928822010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Villaggio Camping Costa d'Argento",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1844,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109648669153600335212\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRKrZhSxiKNECPHZ14ZTU8_Fd5ePOj8XMoE09h0lLC7fAzPwSw2YIymy1w_YOeV5qfrAHJEfHqRi9R6Y5RV4Js7jmG6WeG-whMk-dDpDp481LifeJ7E1C4YVdczQxnbS4lm7gniCH0NbT_8_rAFVIBFDLvUDU-nRVhcIOR67E4OBf2MlRpzLlmBdSD5_pWEax_gN5XL3--l7xheRO92MZfCz0i0yGoernjl7rh02Q_nCZRjAb8-Hnb7UuAe3YWgDSXSWskWTZxVwopGfaAtsqkj7zHgEDG4Q2RCIhcbaQSj9dP4NR4",
+          "width": 1844
+        }
+      ],
+      "place_id": "ChIJi3r-3RADMRMROnnimu6wIlI",
+      "plus_code": {
+        "compound_code": "8C5R+97 San Vito Chietino, Province of Chieti",
+        "global_code": "8FJP8C5R+97"
+      },
+      "rating": 3.7,
+      "reference": "ChIJi3r-3RADMRMROnnimu6wIlI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 670
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Piazza del Mezzogiorno, 6, 67031 Castel di Sangro AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 41.7737586,
+          "lng": 14.0972797
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 41.77521637989272,
+            "lng": 14.09857627989272
+          },
+          "southwest": {
+            "lat": 41.77251672010728,
+            "lng": 14.09587662010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Sport Village Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2754,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105655085262335043861\">Sport Village Hotel &amp; Spa</a>"
+          ],
+          "photo_reference": "AXQCQNRRBhx5MUmaU0iTQWdYDcwm3te7WXiqbXzS97s-6QczHFNKdsKCCq4f4CbNdutTzGzIpn-xa1nVxoNZnLgiQLS-LNZglbh0mCq7Ay58AM-prTW9Da12QxtayFDDEDHgxwfeIwczGXZqrVjKntUGISSF7qF6XLm71Bja5GT1mZQJHf8nlYqzyhHWyn5hBo6Pg7wXtKjuOXPGzFB1XtGj0uth-QqQldFshFdH7JuCh_6NR1AbIhvfp5BhQlFYpflZlvsnZD9ruUsa2UjakkqVlywNUhJZ90Hg3ymcFmwz8opQUZ6LZWk",
+          "width": 4134
+        }
+      ],
+      "place_id": "ChIJ763V4qBwMBMRf9eso_oV8YA",
+      "plus_code": {
+        "compound_code": "Q3FW+GR Castel di Sangro, Province of L'Aquila",
+        "global_code": "8FHPQ3FW+GR"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ763V4qBwMBMRf9eso_oV8YA",
+      "types": [
+        "health",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "spa",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1594
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Abruzzo, 2, 64025 Pineto TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.6144922,
+          "lng": 14.0639055
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.61587707989272,
+            "lng": 14.06512707989272
+          },
+          "southwest": {
+            "lat": 42.61317742010728,
+            "lng": 14.06242742010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Abruzzo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117825375071559016717\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRt5sUmOq2dsmuhAXK2fYzWkxIO6ougp-UKhyZk87nug1elxWMMTY7RMWAWi3ZwCJnETd-J58p9a-zzPaGpKw7UWuK7ZnzS4t6SjmRA9nrHf42wPNmVNkXWyVQ4FRjiKgPHyapl1DaPbl5sKdRXkxrnP0etPpRMdpcun6roF7HTbC7sIZ7YgvrcNw6sL7Cfu2CxihiRNj4bjffF1r1UPduaOAW4VMlq8PdFsn5sH-FsMXPuhVbb7R7eyp_E12hmozQ-sC8p7kZXbyfRx8aqk1c_LzrsGnraHtzkfAN6osb3vi8vnbDZ9CGdMStJtpGBXkb1taqWhX6XF0AkxYMaAg_DcqI_gq0WFbDiReOSRVApJfhWOiGCDRtpmyOr8vMVP5uzy4AWtKRDBC9GsI1jBtNKqHkUSkzHroxAwuAgtRdQfltTTiGwKzA3Fnn_m4xtPEY4ZsXVpcSV-_tsKppM2mXRr3oJT9est3ZfFDQp5iT_e_w28WeI-_877ImpfBEo2IkbQEnBxE8bS2-VxUT1nCgNIlDvxv_5vswq-k6eBcS71j5xM_oYcIhu8rxY9R_U_S194w",
+          "width": 2323
+        }
+      ],
+      "place_id": "ChIJvy_u3NeXMRMR9vUBYFvOkOE",
+      "plus_code": {
+        "compound_code": "J377+QH Pineto, Province of Teramo",
+        "global_code": "8FJPJ377+QH"
+      },
+      "rating": 4.2,
+      "reference": "ChIJvy_u3NeXMRMR9vUBYFvOkOE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 194
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Simonetto, 5A, 67100 L'Aquila AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3499387,
+          "lng": 13.3999205
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.35129027989272,
+            "lng": 13.40152102989272
+          },
+          "southwest": {
+            "lat": 42.34859062010728,
+            "lng": 13.39882137010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel L'Aquila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114848317916471906775\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTtNNV_amljl6bKzRbFlle1bwEt3UoLuc4LefZdb5XfgCEFgKHeCsDdGA7NXASQftcyiaPz3ot0cnATE0NpcxJphKON_x_n30N1M8tN4NMhy34zBUyk_g6QH9WIaykPiOau6vE66aOKhT-6XSo2990GC9p3xn28X-GjifdiVad2Wax4ioA3_AdxXJia7zmnLOBCe5J8Lz_rGmotScp7YJwDA9ssw6pCr7rodQrdAsXaJwb4DwqOotHJYcSgYvZjtaz6mj8QpZROlL6kTsyp5rZ-IUZiuwwxvyNRDXppIDhYMCXmpQA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJW9FtJv_SLxMRqeziFHVo9Ek",
+      "plus_code": {
+        "compound_code": "89XX+XX L'Aquila, Province of L'Aquila",
+        "global_code": "8FJM89XX+XX"
+      },
+      "rating": 4.3,
+      "reference": "ChIJW9FtJv_SLxMRqeziFHVo9Ek",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 216
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lungomare Zara, 73, 64021 Giulianova TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7596052,
+          "lng": 13.9650681
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.76096262989272,
+            "lng": 13.96641372989272
+          },
+          "southwest": {
+            "lat": 42.75826297010727,
+            "lng": 13.96371407010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Cristallo Giulianova",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2209,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106700851917494834864\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTPUrd4qQvzlsx-iu1QoGbyfqzA1COtmRlDL2463HYi5EoQZBX5NpMlhc1z4UjbXtLQyK_ygj_gKvga81M2W1FIXw-8EzoBPbPPrETVA15QTWLPJoaRzwo7iRL91rTrIZVD3m8u06Fq8l7OE83ZNcxPDAyz0t9pjDoWh2hOBK985lJFSV6P4H5DyzgyUy5voeBAWlPw13jOxd_h4KMFphWQq0nyBkSlUJp_L9Sd3n95K1vE9vJOe4kEkuLOF8lT8X9LCPpTwWupeeJNixcS3FSy6mF0DksPw0kb0jVJei38yNYtHjA",
+          "width": 3331
+        }
+      ],
+      "place_id": "ChIJj4nW-WCSMRMRWr64rNFqLlY",
+      "plus_code": {
+        "compound_code": "QX58+V2 Giulianova, Province of Teramo",
+        "global_code": "8FJMQX58+V2"
+      },
+      "rating": 4.4,
+      "reference": "ChIJj4nW-WCSMRMRWr64rNFqLlY",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 876
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lungomare Zara, 57, 64021 Giulianova TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7578688,
+          "lng": 13.9664253
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.75924597989273,
+            "lng": 13.96785317989272
+          },
+          "southwest": {
+            "lat": 42.75654632010728,
+            "lng": 13.96515352010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Europa Giulianova - Beach Village",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114894135828897154101\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNQC6EOT-emhk_3ozpth9O543JsLYrZDC4CPskJJEbqK2R8wDXoEz0FOUh98avUt08AMmBecuGM29qnKouSya5EhRta4EtvaKi-ZtfIl4l5RuExuUVJtNgLZwcX3sSiWwIUlsCocqN3EWG1sQoxlGzhqUl8L3dogQIxG_pZC2X_aw4kQ0Uw-FE_dn-azZ7HhUs5-jSVLwS5JeozJJCxiZp4uzaD_hqTdB1-qYAr8EbuTzSJEUfGGgZT-_4FKWNmixFWH8NQ9X90sdAvOKbJbegX_uO21EsAizOYFidzSJWHXjp8hVn0",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJv93Bf16SMRMR4EXi1ivYUGM",
+      "plus_code": {
+        "compound_code": "QX58+4G Giulianova, Province of Teramo",
+        "global_code": "8FJMQX58+4G"
+      },
+      "rating": 4.3,
+      "reference": "ChIJv93Bf16SMRMR4EXi1ivYUGM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 734
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Contrada Le Monache, 9, 65019 Pianella PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.4069114,
+          "lng": 14.0600913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.40822547989272,
+            "lng": 14.06144472989272
+          },
+          "southwest": {
+            "lat": 42.40552582010728,
+            "lng": 14.05874507010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Agriturismo Via Del Campo",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100491901664002349914\">Agriturismo Via Del Campo</a>"
+          ],
+          "photo_reference": "AXQCQNQn05uLBz1w3HviyOtQjlvcn4FIxc04D3y6YPBAxSDuBMsbkXRRnQH2_WF3esfyQiS-M-kkuk6AIPkDqQ3oynCm7-uwYK_jbUc5C_-ThkkH5FHaZKDSuqeAEiZ4lHKLqF-XBk0lrW5emGIemdv3FxKFFupFlRTMrAAaclX98htcd0KmIutKGmH-j6yyvhQRFRj5pdZZJDRYgJSPR78VEvxNNcaaKIVSi_A3zNI8fq5OnAEM60lMKQYIAen7VfuCvyJTA_yIbMIcKvsF0c6PGtLK6LTeiYbTientU57V7fiF3ebV",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJGT1_8KOxMRMRUsXYl40tzLI",
+      "plus_code": {
+        "compound_code": "C346+Q2 Pianella, Province of Pescara",
+        "global_code": "8FJPC346+Q2"
+      },
+      "rating": 4.1,
+      "reference": "ChIJGT1_8KOxMRMRUsXYl40tzLI",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 88
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Verso Tollo, 232/b, 66010 Canosa Sannita CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3178241,
+          "lng": 14.3092968
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.31913747989272,
+            "lng": 14.31084207989272
+          },
+          "southwest": {
+            "lat": 42.31643782010728,
+            "lng": 14.30814242010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Magnificat Hotel&Resort",
+      "photos": [
+        {
+          "height": 2668,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103662870280057345186\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNQIVmZbzGKJrlD6TzSLsRnTO4EhFxEPpeS1yBKYwglUG_tBpQPq6hClN1gHvTl6MKEt1Ac0xObpV9PGYA9HwWnVnOkSAepi5XEcbQE43xCs2mFTNQKGdorDcvJ2g3MgQH7wCBlibSfl93plLwmfJaDWjAAA2tsjWfvkxIlAE6KW88oCsrZLlXAMuXhcnb5P-tuUzmC0Jj-PxpyyFajRDRDdv9M1T0gxUFDF0M6tQuHCKNYuHCVoarP1ORewJDmMdH31Rh39lXfK5pbltnt2vjnV0dCDjGzIzOjGA4TY8OMn7H6aPUw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJAaccBmAAMRMRsESwlbKIPto",
+      "plus_code": {
+        "compound_code": "8895+5P Canosa Sannita, Province of Chieti",
+        "global_code": "8FJP8895+5P"
+      },
+      "rating": 4.7,
+      "reference": "ChIJAaccBmAAMRMRsESwlbKIPto",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 441
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Asinio Herio, 20, 66100 Chieti CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3483419,
+          "lng": 14.1638469
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.34967042989273,
+            "lng": 14.16526022989272
+          },
+          "southwest": {
+            "lat": 42.34697077010728,
+            "lng": 14.16256057010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Grande Albergo Abruzzo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110540324975612158689\">Marco Morosini</a>"
+          ],
+          "photo_reference": "AXQCQNQyLbebxJqbCmvWm8osrsrkNFozEwy9zBGMJipIHt7CbXS58dVByFfta7mco2jXSeL8D3fzkVCyttNXnRIqsn5Svvz5ksXUyn8gDztOZFF0yD_U60uLU2BeO-Gh6XXcUP3DL9E46awQQJs6J1T7JdS0HCxlXtx_AXug2oetvFn2qfvGfXG_msXD9Jq8iI3gPQbpqVcdiStCkAGMU_vD0Hnf027A4mQQs8_xXSOzP4CNq57qk74KEr44iJYk3-CXKlSR8Dhdw387NuqRBsAQftXA3VUR5tka9VhaVvJ3fieVnk7K749jZpb5SvIaDD3tYCYj4gc129CV6QuSXGuF_QGYjXxJg66qiE0GmKG_FbSlPXMsewuzjRIpcFgmBPUDEeKcVRb_s0SycEYOwxP58xzRX_-6HB9OsPL0i_xpE-qgbMmNoIB9xnS037WapkuhHji4ZyV2bcReE8fzd2VEi0wnbEaz5Xgdj2MqdnCUMOJD3TI-yxGoFE2Jy5FsJwgkMHhfMLfloWrLIZzI0EbmGNblIT0rlZUMre9iIu-HfHzra8PrWTA59Jt1kuyUcLbKiqpr0A",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ_cSE1EasMRMR56y32qKcC6g",
+      "plus_code": {
+        "compound_code": "85X7+8G Chieti, Province of Chieti",
+        "global_code": "8FJP85X7+8G"
+      },
+      "rating": 3.4,
+      "reference": "ChIJ_cSE1EasMRMR56y32qKcC6g",
+      "types": [
+        "meal_takeaway",
+        "parking",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 474
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Bradano, 5, 65015 Montesilvano PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.5027431,
+          "lng": 14.1744185
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.50418297989272,
+            "lng": 14.17583657989272
+          },
+          "southwest": {
+            "lat": 42.50148332010728,
+            "lng": 14.17313692010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Excelsior",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 12032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101372259649461356803\">Денис Битель</a>"
+          ],
+          "photo_reference": "AXQCQNQk-SeO2iUot_UUJgmqrSrXMykqOnoETXmZBXHdc7abfqjIvQiYNgNj7NU7MC18ifBFw0576PfXDL_HVnZU1czYSzp6LhO7CEcTLpvgte25WrLy8lgN_WpGl3B2-71wNIweX7v2zG_BO4F_xegIA-1U94jxWM6tfJ3753AqxLSqlY0xAcJyDNO6O9OJpGGmfpm2cNAjTR95nK0rFSTQYJv9O7FMbWLz6JO-qFcvXm0RPJ9BsJ7aE1-K4qnmMYzbgdYsBHb_AdXQwdxNozHC_OSWF71DK10kmNTkDiRD0vgkhDOm0pMvN2IEbLWRVcgXc_s0twCMJ8as96SYoPXWFcw5x1jOXrebB4mZqJLCaxwbxQncWo9C8UhSSfhEAz_B_h4GrvRRf9zxXY44LaRGMIc-us0KbOGZzuaPq4clv4Lwp_X0Xg9EgHFk0dBZ1ulcx0CYHWuUYUZ0BtBBOC5ezavP8VoxOg9uSSE2OJbWGD1IqpreQbj2XPB74hZrVFbEP3A-DnD0EMgpgrO58it4PQ1xJCHQk7gcs9gMnvzWX2e-mJrvYRe0H5nmm3u8YprMmK0GlCbI",
+          "width": 9024
+        }
+      ],
+      "place_id": "ChIJaQHmDBWkMRMRwvnsDUnd0gk",
+      "plus_code": {
+        "compound_code": "G53F+4Q Montesilvano, Province of Pescara",
+        "global_code": "8FJPG53F+4Q"
+      },
+      "rating": 3.6,
+      "reference": "ChIJaQHmDBWkMRMRwvnsDUnd0gk",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 776
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Iconicella, 19, 66010 Ripa Teatina CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3656517,
+          "lng": 14.2438495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.36685752989272,
+            "lng": 14.24512407989272
+          },
+          "southwest": {
+            "lat": 42.36415787010728,
+            "lng": 14.24242442010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Villa Costanza",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107494793963024201302\">B&amp;B Abruzzo</a>"
+          ],
+          "photo_reference": "AXQCQNSYry4IAl9Ccm8eeHLGeHjNlcX9gA_IRCxG0dOifq6UMpM2yI93zN5ADrFMm4V74wx1szpBOu5EGQIpNIKgKQAx-4DZzJ4YRS8dlYXS3QlaP9GNFwO2ZGrPzpQrBSP3twvX54N4TYkPGyC5zZ3ms13RwRZJcM7D_Bpy5loSTGk29SinIpNq4DTrMC2eQjizLiddEs0Ysy1ng5PPr2YHTVi9kB2AbDqpCJhqLr1_0xF8zwzFWCcFVj_8gvc2qxLkOeTbOvY4B02l0_H1DD2YQGOW5wJ6vHN_a0ij1OyxU24epazWx8c",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJPSvUmUapMRMR1rVxmsBXR0E",
+      "plus_code": {
+        "compound_code": "968V+6H Ripa Teatina, Province of Chieti",
+        "global_code": "8FJP968V+6H"
+      },
+      "rating": 3.6,
+      "reference": "ChIJPSvUmUapMRMR1rVxmsBXR0E",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Guglielmo Marconi, 78/78/bis, 64011 Alba Adriatica TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.8326538,
+          "lng": 13.9325004
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.83404907989271,
+            "lng": 13.93400827989272
+          },
+          "southwest": {
+            "lat": 42.83134942010727,
+            "lng": 13.93130862010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Petite Fleur - Alba Adriatica -Abruzzo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4567,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107309890274296900703\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTy-GIsI_9TH3kBl_3_mn5iBS_S0dN9haoT2sXO4LhsA7rElKcTwiXnfDhBUKuBXrmlqEyEflKYMzmqFhC2l-TzVu5lxrYCl_VEsxRkqS6YOGeL1YTnw3XLkR1zYVYDZHwimr2xIG_HMpiZR2SNE2WsiAtUcz3N_66gkqv4hivwIN97KJ99Zp5o1o3c6bsLS53g6i23qXEmP9tcpkh9N_8tfa3_L3TvX1ArycOWh6g25cS9SJj82Sj6zs07tn6735v0GNhMpogt01oL-NghuNWwXWftrFhuzGMhcIOkBpToc7SqRrs",
+          "width": 6851
+        }
+      ],
+      "place_id": "ChIJV1YKQsOMMRMRSLVMnNBICDo",
+      "plus_code": {
+        "compound_code": "RWMM+32 Alba Adriatica, Province of Teramo",
+        "global_code": "8FJMRWMM+32"
+      },
+      "rating": 4.5,
+      "reference": "ChIJV1YKQsOMMRMRSLVMnNBICDo",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 327
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lido Riccio, 66026 Ortona CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3798555,
+          "lng": 14.3682162
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.38117112989272,
+            "lng": 14.36946047989272
+          },
+          "southwest": {
+            "lat": 42.37847147010728,
+            "lng": 14.36676082010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Mara",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108958970533816200582\">Hotel Mara</a>"
+          ],
+          "photo_reference": "AXQCQNTYesTbUMAB3TV7bRvGhO8B1aJTwgGM2zRSBHNhellRHFibJi_cMk5j1g31MwJe4PZwuW_cYuD1PdEcETzMKuTdmPnLpM8RyZO0lwG9AlW9-48UEaI4B5al2YBqAZiv6K4a4qCQuURjpqjdjmXKawDuHbw9YbbYXiQo6bwDevBef4AknqmiuO1zmEbWOSMhh32x15FBJ1ixyGEXseiv9MJHpFNYF-KrP7c51jkmTZgS-Gt_EgeXbxoTObNlEV0pDfhavRomhsDwoL6Lu1TYW2K-8dUzCfU97WXBVytkINCA3gLvXyc",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJiWNJhBsEMRMRR0mGK5YHEyA",
+      "plus_code": {
+        "compound_code": "99H9+W7 Ortona, Province of Chieti",
+        "global_code": "8FJP99H9+W7"
+      },
+      "rating": 4.4,
+      "reference": "ChIJiWNJhBsEMRMRR0mGK5YHEyA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1073
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via del Semaforo, snc, 64014 Martinsicuro TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.8709551,
+          "lng": 13.9056959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.87218117989272,
+            "lng": 13.90709367989272
+          },
+          "southwest": {
+            "lat": 42.86948152010728,
+            "lng": 13.90439402010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "The Old Mill - Country House",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102980996762673288415\">Giuseppe Vinciguerra</a>"
+          ],
+          "photo_reference": "AXQCQNS3t4-fzkU0k-wtelHZxLgNnahOlSGzsTgaKVLR41HvTSEq2vAzS3u9VikRhJqN4LsjMx2t0IjfYLgva6GafsBfzzAq_PKnUrfXafXWRifNDOusSObNXMs9dF9qaFzgB68HMvJbqOCp1DDUQEE6ZkBPBJpILTWOpzvP9NlhPzEZqIWup0mlHTYbLHXloCaabnhDbjz1Obkq0TP5frUZ-v7JR5oio-z7ayRinCwaNQWCthcuv4ssf4AzRx1AqYf88bWdA_mP-T6-7CtVIQ6aRP6KeINNu2-b2XimUq8ExXW3oz9BuAibXew4fMCfGSsbCJpL0jpgBnc5jnUMfKIBQMSBRxl6GmPz00XKOQIdae9lpzryuTlu1baWjvKEQ-c0PavuGcPFFD5LFVPH9SKbaAGcV5p3uto5QTU0S9uz6EzCe9jNWGFoqwKBKFJeB23jUPporN_EAHvKNZqU8UyRPTneLGlxIvL6bVdLPTNsE0kmpKBy_IVasP-Gu3hNj5_h48AuhIaEIrXkMfR7gwJ6JHn6efV6Mefh4RqkuRdjYypVJyzvOf4Q0q1Qwhj7spHaW-tT1g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJVwELAa_0MRMRDnskH9dHJj4",
+      "plus_code": {
+        "compound_code": "VWC4+97 Martinsicuro, Province of Teramo",
+        "global_code": "8FJMVWC4+97"
+      },
+      "rating": 4.4,
+      "reference": "ChIJVwELAa_0MRMRDnskH9dHJj4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 282
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Sulmona, 40, 67030 Campo di Giove AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.0106417,
+          "lng": 14.0319641
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.01193167989273,
+            "lng": 14.03341107989272
+          },
+          "southwest": {
+            "lat": 42.00923202010728,
+            "lng": 14.03071142010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Abruzzo",
+      "photos": [
+        {
+          "height": 1588,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107990977762006068813\">Franco Felizzi</a>"
+          ],
+          "photo_reference": "AXQCQNQLFYz3jea1MUn07v8SClMBcJefzvuNndA3q3B8ml_pxEO9VlZTuurcrWbKQN8BG1_vvhF_m3PAqWRSrMJbU11IOnHx9JA3cb-m34Eib1keUJyjBux8QKZRHgIC8-M3DzNKYSGYwOvlH8vCa9KhcRDLwTMuNh7GQQ1Z4timQ1I6w8siWje1dq6P_hlzD5hgFgE55Tlrfyz91gInTFXU29k7inPplQ1gmVWxS-TvQ9BKOtl_UXCBh_2GzFqP9JhEcCTkzYrNghmpgFGEFlYo9XEjvUewEcFiaoRUSGK4Xl3s_l0dHrPU_2IeewVkBhsv2GrJZ_In1YWBswKogBL3n1KVgiNPdsHm7B59-sVoBr5_cneIj_FYQ_fpENMB7-YmMTs2HkPUDlxBr0CZfQwnQ7xj-bEzNGPN4_L3zldHPWCJt_vJlM1SkFpPwLzq7ryU-BbeF3DhzMSp8t201SuIIKffIQ2xXg_RebFG7vVq-q4xiav3pLDxV7Z9fAQfFSCakjzsa1Jh6AQqg2p3Pl4hFfJbjL1gsDyefJEEUXjsqCE-gNlw0Y0zsE9b-zaTOXgL4ROq-GLbdX9nJA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ0SZBYG5CMBMR4sttL_Ym7Mg",
+      "plus_code": {
+        "compound_code": "226J+7Q Campo di Giove, Province of L'Aquila",
+        "global_code": "8FJP226J+7Q"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ0SZBYG5CMBMR4sttL_Ym7Mg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 185
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Strada Provinciale km 4,200, 67021 Barisciano AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3360406,
+          "lng": 13.5905383
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.33768947989272,
+            "lng": 13.59196007989272
+          },
+          "southwest": {
+            "lat": 42.33498982010727,
+            "lng": 13.58926042010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Convento di San Colombo - Dimora Storica",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105671292651620034646\">Monastero San Colombo</a>"
+          ],
+          "photo_reference": "AXQCQNTOrc2xt7yp41mfntiJFa2AV7rGCVgdyflI9iy4gf6J2PBiM3FVNNgqffL26P58mefTBlVq4NU-wnO9Qet2yxtmIjnEXImXLbAQURQspeE1zg_kcqob-LVH929wspXZ5OQcp-JRFKgHDBpLv1y2WmAkSA8AeewrAXIJVom4ejESr8I2JYuZcaZVxIVY0wIEgc45EPv9IN6ovV8RrtrQV-i-u6lyVDdFawm7NbqsZcZwUmzFC2TddDE2f5aB5xb1E-itpjimpY_pE0oZf7cVnH_IU8wIYsc3AGNdQThWFqsMuugxEfE",
+          "width": 3504
+        }
+      ],
+      "place_id": "ChIJywaCV_4qMBMRaSTQ8duFN9w",
+      "plus_code": {
+        "compound_code": "8HPR+85 Barisciano, Province of L'Aquila",
+        "global_code": "8FJM8HPR+85"
+      },
+      "rating": 4.7,
+      "reference": "ChIJywaCV_4qMBMRaSTQ8duFN9w",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 249
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Vico Fonte Umano, 12, 65013 Fonte Umano-San Martino Alta PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.5219594,
+          "lng": 14.1157244
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.52327477989272,
+            "lng": 14.11709062989272
+          },
+          "southwest": {
+            "lat": 42.52057512010727,
+            "lng": 14.11439097010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "ALMOND B&B",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111613766313619254618\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNS-6vmk5YqfqMs8mPaEvQWViRC_9NEpFJyQ42XSqQP7yaXFt-bMuUl1ZCjKkLFAn7zy0Op4oZ2gSJSpg1_l-b9xmhVGu9oQlESqWusJPYI8VxqES0ScvGmecOT_OHVVBBcMyl-MDd2C1Z5_dn60NEqS4pXR8Did6UflcG9U7Va0yOXXffoAkACMcicZsNG3wUFs5oym-rDlXwCRcWby3JBEuqiafIQwpLOk30-Qafb9akU1ZprrGrP9vXidIEl1YHG8VvUrESsa_p-1ntcLES8aYda0dt7XBbxKK3x-V9_TYxIv7Rw",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJiTJUeQ6lMRMRILm5cW3Fz7U",
+      "plus_code": {
+        "compound_code": "G4C8+Q7 Fonte Umano-San Martino Alta, Province of Pescara",
+        "global_code": "8FJPG4C8+Q7"
+      },
+      "rating": 5,
+      "reference": "ChIJiTJUeQ6lMRMRILm5cW3Fz7U",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Pietro Nenni, 280, 66020 Sambuceto CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3993377,
+          "lng": 14.1649421
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.40059582989272,
+            "lng": 14.16634482989272
+          },
+          "southwest": {
+            "lat": 42.39789617010727,
+            "lng": 14.16364517010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Dragonara",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2532,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100034411804180537610\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTC2ICnYn7WCgzTocLFNHHVzTLx7Bikt6TS3Ca02sNW1gGFoN74HnssCxvp82HrimnHBY58aD1Q5FSXoXkxk65VRX9qCkSICdrbKXdGFqoxJyq3cz706RTO2fctY-L31DOgYUXoP_lMPxvzawJ2o9twOrdPFl_16S8K7-SFqaHb-6vKXe0ePDCS4zewZUuOCdRyO6EVmiyNL8p5Zvc4Sf9u0KUP-ECwzQHvDCtn0b63wVfwxV5FhTtCi4Tgy_GSxmcqNTyNJ9NIzI2v74Mel_R6KbsaZtL3Jdac-Hz96wQWneIXF_I",
+          "width": 2532
+        }
+      ],
+      "place_id": "ChIJn5jLZxymMRMRK0tj28VcDss",
+      "plus_code": {
+        "compound_code": "95X7+QX Sambuceto, Province of Chieti",
+        "global_code": "8FJP95X7+QX"
+      },
+      "rating": 4.2,
+      "reference": "ChIJn5jLZxymMRMRK0tj28VcDss",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2279
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lungomare Zara, 57, 64021 Giulianova TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7579911,
+          "lng": 13.9663459
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.75937307989273,
+            "lng": 13.96778752989272
+          },
+          "southwest": {
+            "lat": 42.75667342010728,
+            "lng": 13.96508787010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotiday Room Collection - Giulianova",
+      "photos": [
+        {
+          "height": 1331,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114001509772357594122\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNQb1tHOkfrzpimNvCDt_gkr9Lr8DYvLxBw19wNo0xHXgNyCVgo9Asb7sUQBs3ZfaYpYuEq_92fW6xOPgR6tyH4YbpJC725mNAlTUKLrlcZYTVRFrHNeK8WdWTyYclz1saBR3q7TEoJa991u67893pI5AL_cg6YC08fq2CHjJaImLJstm7US-EA3ZTJ1MaHlJMZOlVwlC4LTi7vUHvsOb3AHlrq177LJUMPeqR0apFhpRKa5AjXjYM_Sf6dfB1FbMo4oY5__G6tJhSIbnYBpeH8e3GYkpc_JXzq-_BDLUjTeE4oZp8Q",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJnTImvd6TMRMRWNC5mrC3Oyo",
+      "plus_code": {
+        "compound_code": "QX58+5G Giulianova, Province of Teramo",
+        "global_code": "8FJMQX58+5G"
+      },
+      "rating": 4.1,
+      "reference": "ChIJnTImvd6TMRMRWNC5mrC3Oyo",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "V. XXIV Maggio, 31, 64018 Tortoreto TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.8071855,
+          "lng": 13.9062014
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.80856717989273,
+            "lng": 13.90763302989272
+          },
+          "southwest": {
+            "lat": 42.80586752010728,
+            "lng": 13.90493337010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Residence Incantea Resort",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117935453471915790776\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNQctW0yQJUMyAbgZ28SfYrSvGTUkDDtpGjArCeS0kG-SEn0UhGdBOk9XrS2MTLBLunzRCUJ3IqnT2-QLOgTMJbAORGSKxRwBtICA64NRPt06d793Ce7yzAPuQ8_uFC6Hw8nXOQocG960nOBCyikF8Ivj7EBnOGtAET8eFVgtU4v14LqBgoFgpHc8Ikntg6p-IZ3yrFmmTEmQthzUlJd_QqwOwq4-yx7jJDhex5fuzMnB3ibYPUevgVakQex69uAj29BFA5p081WmBrB85wv4ln7OBleASbESwB6GCFTmHgt8-M6O_E",
+          "width": 3872
+        }
+      ],
+      "place_id": "ChIJyeJIyMnyMRMRn8BDGacZ6iI",
+      "plus_code": {
+        "compound_code": "RW44+VF Tortoreto, Province of Teramo",
+        "global_code": "8FJMRW44+VF"
+      },
+      "rating": 4.7,
+      "reference": "ChIJyeJIyMnyMRMRn8BDGacZ6iI",
+      "types": [
+        "spa",
+        "gym",
+        "health",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 198
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Fausto Grassi, 67032 Pescasseroli AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 41.8078406,
+          "lng": 13.7781362
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 41.80900557989272,
+            "lng": 13.77937557989272
+          },
+          "southwest": {
+            "lat": 41.80630592010728,
+            "lng": 13.77667592010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Edelweiss",
+      "photos": [
+        {
+          "height": 1512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101455050638174946275\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNQGXHmOkKZKXhzZy8sDN_JBW8LQjQomSngNS7NAvmXd9PHxkRgg_g2YepFeCv7d53ZOcYwLce7YYqHpExlW3ZvTY8Da6Ew0N5SbL_eD0jb8rHJ_dmEJfAPQA7yVHnGKsp3g6TWVyVXdzfZ3BVvPJasM48jumEUDHmnXR34bsqzSbi6BQpEOCO7tkCdEFl0_Vv-k6QbtHDxYvVg-_-VVAmgbzMBeetCCyX3XTNZBTxTVBX55oSdHyoxP-vPJvrwtfcuGvNiGFnPHllgUZ3aF44BbKlCICJdMGDarUzw6ZnpT1P2vVLwUUp1CjEjLE54wDEzD3WzEvMCcH2RPYONkwmQpJQA_yyEY0r3_-6yldnFsFJHbCV-mNUHTiHEzz9Nn5kZAvOl2vd-3wIUjqgpNF4qttpikFpBiMFtSl3317Hirpy20uEOgKFpXpGMl-DE5fAvysq8Ilqur9HPGLbI_culIAg3lCdqt9kB5_Jh5K7XsJjWwxU8EYdEDphnxDsMpnRrXXkWnIO2bW6G8d1wu3c1wYP4TEH-9D5wiVfdrgqhrmA6pRymz_GUf6K9fqyoDgWCeZC_g",
+          "width": 2016
+        }
+      ],
+      "place_id": "ChIJb1086sQOMBMRyW1pKFe8Fdc",
+      "plus_code": {
+        "compound_code": "RQ5H+47 Pescasseroli, Province of L'Aquila",
+        "global_code": "8FHMRQ5H+47"
+      },
+      "rating": 4.3,
+      "reference": "ChIJb1086sQOMBMRyW1pKFe8Fdc",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 469
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Ippodromo, 12, 64021 Giulianova TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7650369,
+          "lng": 13.9585669
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.76640137989273,
+            "lng": 13.95993037989272
+          },
+          "southwest": {
+            "lat": 42.76370172010729,
+            "lng": 13.95723072010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Residence Blumarine Giulianova",
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108632569231292119676\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNSdWiuUsTpwvCtT6lMHEWN3Q2_eRtoRgqZv0BLECObDydK1Cw-Druk5wSbTcnG9b6HB9MlNT7B46JdTaC6Iuw5gxvaJ2daDqERDIHS9L7I2-PfqUChxxqFhZdpkkuOKxOtPIVRbux7Wn08jaZhCbdm5Fv3F-I2dv__Al4f_gHCFJz3a3G4W1HIpjgyFhe3LwBa8AncgM-HZwFCd_2SlYEYNoV01FTVbankWFpBL5vEV8eYf7ZtTYfmg3fuw0dWWl4JTrYSKD08yvwGa7RxxRHtYdaXaZp9eLsyA009fRyHIwv9yFAE",
+          "width": 4272
+        }
+      ],
+      "place_id": "ChIJWSb5GYqSMRMR_Umocfd2t2c",
+      "plus_code": {
+        "compound_code": "QX75+XC Giulianova, Province of Teramo",
+        "global_code": "8FJMQX75+XC"
+      },
+      "rating": 4.5,
+      "reference": "ChIJWSb5GYqSMRMR_Umocfd2t2c",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 127
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lungomare Sirena, 356, 64018 Tortoreto Lido TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.79628820000001,
+          "lng": 13.9458526
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.79763362989272,
+            "lng": 13.94720437989272
+          },
+          "southwest": {
+            "lat": 42.79493397010727,
+            "lng": 13.94450472010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Costa Verde",
+      "photos": [
+        {
+          "height": 3317,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118120727647422605111\">GooNext Srl</a>"
+          ],
+          "photo_reference": "AXQCQNS2n_i4Fouu9JWRPJ_0l0MEmRumbmtZQ7pOUe6YodvoP8eniNTYNnJcZFs2CqKx1DlHSZfHvZjmt_wn0bsWysvmP5Znl15effgO0cJe5EJ3FFjFERiFYA2t2ERi_XRPg_7RcCvCyM21Un_7UfywgRoXUvMzvapCZrxbaHKNkZdq40FES1O_gqJfWez3k-5N751Qju9X4QYz5wEZdZR2WK2cP4KmWSDKyWBXfpnADI7LohnAzVjZ5kSLNqzpaMpamEvvdotvF7bn0p1MC22guM_JHpBoci87zmEHigouAFadw3CeGUT9AoQNl57QW6FCZV-gbfLYaHJivKZeJxHopir03XJs8ld8jHq4AAYqPBU560pnH65ywK2h7rzbmgatFeHkrftOs28gDOLYkfwJmkSz0iTTRbXhiLxOaTOVYwcoPOINELVzjJTc-rsu9MICf7vDpAxM9h_XnAbh1opRXmS8HikbadIXbaBuuboIHidXrLnbAgR_moMi0x7z3NfHH7fc6mRycEkkrFSdxk0j7JLk2Xa_udEgDDyd-0bBP9bJEfoacl0FHJ9KmB8hf8qA5BP8_eHg",
+          "width": 4976
+        }
+      ],
+      "place_id": "ChIJF0pugG6NMRMRbENbTK0ALWU",
+      "plus_code": {
+        "compound_code": "QWWW+F9 Tortoreto Lido, Province of Teramo",
+        "global_code": "8FJMQWWW+F9"
+      },
+      "rating": 4.3,
+      "reference": "ChIJF0pugG6NMRMRbENbTK0ALWU",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 372
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "64025, Via Francia, 3, 64025 Pineto TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.5927747,
+          "lng": 14.0804228
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.59421277989271,
+            "lng": 14.08163892989272
+          },
+          "southwest": {
+            "lat": 42.59151312010727,
+            "lng": 14.07893927010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Mare Blu",
+      "photos": [
+        {
+          "height": 1816,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108501308736523730414\">Mare Blu Resort</a>"
+          ],
+          "photo_reference": "AXQCQNSNmWm6JQOGx30dwQ1g0SnZLWyjs4XHnX4KEJiTT1kE5KFBSEtFrdAe15go7jczuXrDLm4RvKd4MU-JtR3iBn1YA09sGdgFsgo2uKZ8u800RlUEpK8xiPoM-kDjb14Dzm3uBjJaBO0TQ1gBfNBfMm2WstBp0_YxBSq7f1TpmMpp-TEg2FNeaZwQ0wjDVugxBibEs38DIGkvWXFw1PSPDrRP1w3eWwQVl26DXY8CRPztU6cZKx5lVHxjZ9CFnfPwroC8qlXhiyrhcHlZIXPY-j2JXe0KpJ_jzGvTofGr5YIwB0m3yRQ",
+          "width": 2420
+        }
+      ],
+      "place_id": "ChIJbzqtfT-9MRMRzsOQ8658944",
+      "plus_code": {
+        "compound_code": "H3VJ+45 Pineto, Province of Teramo",
+        "global_code": "8FJPH3VJ+45"
+      },
+      "rating": 4.2,
+      "reference": "ChIJbzqtfT-9MRMRzsOQ8658944",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 356
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Don Minzoni, 4, 65121 Pescara PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.4687509,
+          "lng": 14.2186581
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.47005737989272,
+            "lng": 14.21995557989272
+          },
+          "southwest": {
+            "lat": 42.46735772010728,
+            "lng": 14.21725592010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Augusto al Mare",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102480270426834318087\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTPAW8AV2K-YTaiGXLEsfkxA_f-ID5xzkVwwZgsHRw30FskqFktjhkSysUlAc6tuQ-A33i7ibx952Oz6GyWZDpE_3TFdAO0oCD2j_IK4B_p1N3SzrSCh47BaYLuwxUhQ7Ro4i43bnZ2yGVJkDnyrBb9_pII2WA4X2SFp7feX6zs6Q1ykldTBnaz3Fa5cxOtKAwA4zytQf70UrKvXyLnY-djIDyPXhugygY_6BkxETFm2JuluCTEPTFj4vQIKaDHP1xoO9AniJ3DPO6WUBDyi5ORr3AFHI9bX_G0_2S9LEhtZS5qURA",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJy9j1WM-nMRMRovCJEcM0wGo",
+      "plus_code": {
+        "compound_code": "F699+GF Pescara, Province of Pescara",
+        "global_code": "8FJPF699+GF"
+      },
+      "rating": 4.5,
+      "reference": "ChIJy9j1WM-nMRMRovCJEcM0wGo",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 64
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Colle della Corte, 1 B, 64026 Roseto degli Abruzzi TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.6728195,
+          "lng": 13.983024
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.67424432989272,
+            "lng": 13.98425517989272
+          },
+          "southwest": {
+            "lat": 42.67154467010728,
+            "lng": 13.98155552010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Casale delle Rose",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103920581417236852392\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNSNdFfgbHz3czElXcrEshosxpWkITjBsQxCZlpCaXgq-AVO8a4FkoB9nlgqlgf5DVAtOL-2srwhVof6YfwQEhZ6im9hX3G5b42rdyLkpwls8ZVH6dLMfx79La0qBTD75RNy5_yxVcA60RHppitwA2Mw7b_3HVhVFw71OvkbpBHuMAv2LyjRy0DqujgC1CCO_iZj5-L_356_-uhA-ARO9Ik3j18LrHHy1fitXGhcp03qwS9W54XRJq65WP60q6wvGPeguzxmy_uompauLRvTub6y9IMlogd3MN3MiF7ohPWfs-hC11dbBDNUMFmvhlvYbPNDod1vZPMgk8tm4uGvftrhUyWyNRoQ4jL2SQY4geHAD2SZrZIth2IDGyJ_B2ihpH00hw4aZLIlXcPvsrTGQduBObA_f6VnFarPQiRIP4tw_Ipf62yoFaLPJ0hSGXC3tD21A_ufuL2V3VeKJmQvUJqJG-bACGCExxbag8e65VxU9qw4yxMOqGnN9ELvVMpeVx3GhveOhGhvK9UzB_pM9D7EKNFk4iWtaZRCYL0sSg424vcSXUUmgq6Uo7iuakV5uPOWaw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlXyG7keUMRMR8uwCbeMytxk",
+      "plus_code": {
+        "compound_code": "MXFM+46 Roseto degli Abruzzi, Province of Teramo",
+        "global_code": "8FJMMXFM+46"
+      },
+      "rating": 4.8,
+      "reference": "ChIJlXyG7keUMRMR8uwCbeMytxk",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 61
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via San Paolo, Contrada Pretaro, 1, 66023 Francavilla al Mare CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.438095,
+          "lng": 14.2500267
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.4400181,
+            "lng": 14.25092767989272
+          },
+          "southwest": {
+            "lat": 42.43678450000002,
+            "lng": 14.24822802010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Villa Maria Hotel & SPA",
+      "photos": [
+        {
+          "height": 4126,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117383300742396732008\">Romantik Hotel Sporting Villa Maria</a>"
+          ],
+          "photo_reference": "AXQCQNR6GWbpYya12LqdrgssHu498JLM9w7dJ3WXdCdjD0fbm-PaGUTuNnXWJGchAItW5oluu-2oPE6F7mgv6j-KTWEieHms4QGyblrCEHOTIhvIXr3LzNIlr9nNlr8s4V1tuD8zQ8UFEOL9S-EXU8v2ekyUD-YGOVWM1zjPtNBxe8c0lJJoZuYg_aecZGNpBwgSReWJT561gzOAZXHAQeoV5QZ3FwndFCleSgKcaGDHmOyyZawOtEFbahGXxhMTHopEtuR-RNURApD2XGJbIu1LqmLC4AuuNJiwsd6BFyt3nIpVrZsrFtk",
+          "width": 8253
+        }
+      ],
+      "place_id": "ChIJ4yUnt9enMRMRMyACzeHUJDQ",
+      "plus_code": {
+        "compound_code": "C7Q2+62 Francavilla al Mare, Province of Chieti",
+        "global_code": "8FJPC7Q2+62"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ4yUnt9enMRMRMyACzeHUJDQ",
+      "types": [
+        "spa",
+        "bar",
+        "beauty_salon",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1852
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Contrada Macchiametola, 4/A, 65020 Roccamorice PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.2013458,
+          "lng": 14.0474045
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.20270142989272,
+            "lng": 14.04871522989272
+          },
+          "southwest": {
+            "lat": 42.20000177010728,
+            "lng": 14.04601557010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Dimore Montane camping • glamping • b&b • ristorante",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117043036192523828758\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRQWtFC0ny7tSo6R0XW6RN4tmF3g3IvlCHxeK7Nr5khAs7pFqqV9ARQgh3U1zcPWNk8kgRFTSlHLGvHTJ8hJMWtsla4goAZMJsAB1KFpWa3mpenYmxli0Hq5RTqQnOptsGR9HTOj65bx_DPvzYc-ZwT4FCSIwaUT4jM2UBekslA7xh9YUTXNpV03sGZka9CSPH_ePs1zzmxyWLPAnT1kezSYkn5v0lhCqJIeE-vZONJTmATNwGzOvMdBaOjYVeihLMjzu2CC5GHIJETGj133E0ZDOF3hCaUk0uWQeSZNcz1L_ZVcwg",
+          "width": 2046
+        }
+      ],
+      "place_id": "ChIJEa0hoVlPMBMRFXCwXqS2rtg",
+      "plus_code": {
+        "compound_code": "622W+GX Roccamorice, Province of Pescara",
+        "global_code": "8FJP622W+GX"
+      },
+      "rating": 4.7,
+      "reference": "ChIJEa0hoVlPMBMRFXCwXqS2rtg",
+      "types": [
+        "campground",
+        "rv_park",
+        "park",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 392
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Calabria, 14/1, 65015 Montesilvano PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.51450519999999,
+          "lng": 14.1620543
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.51579812989272,
+            "lng": 14.16346672989272
+          },
+          "southwest": {
+            "lat": 42.51309847010727,
+            "lng": 14.16076707010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel D'Atri Montesilvano",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1037,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111880292341508552767\">Hotel D&#39;Atri</a>"
+          ],
+          "photo_reference": "AXQCQNS-khMd_Hy8giOzy4eBF62m9pyUUoB-MNXMDlE9QBUro08fHPrIPN9PsbHztiInW5V4YyMzz7S-AlccG58GZ0JsgKgIFj5DthjPo-juqqsEtOAY0ccIJQmcV5zkyKr1w8cqKhT0P2x5L34VHbGtjpObsemg25AO8ueh6KzBtZYiOTQYv4oCdPi9g1JBXwIG0lE6tAjAZSsOoMh_-ti3gd81-ziBChAK5CkTfZ1IqhW7OByl0KmFB4_CRyJoJQ2BVukGh3jJeGcI9sS9TWP0z9iFRFIX9FLMf5_gPkm-pkZ7QvIJD2w",
+          "width": 1382
+        }
+      ],
+      "place_id": "ChIJxRLKPG6kMRMRmX7VHS7jirI",
+      "plus_code": {
+        "compound_code": "G576+RR Montesilvano, Province of Pescara",
+        "global_code": "8FJPG576+RR"
+      },
+      "rating": 4.7,
+      "reference": "ChIJxRLKPG6kMRMRmX7VHS7jirI",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 539
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale B. Croce, 13, 66100 Chieti CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3575607,
+          "lng": 14.1388168
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.35891557989272,
+            "lng": 14.14013652989272
+          },
+          "southwest": {
+            "lat": 42.35621592010727,
+            "lng": 14.13743687010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Nuovo Albergo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109342719357843014482\">Nuovo Albergo Ristorante, Hotel a Chieti,hotel a Chieti tre stelle vicino università G. D&#39;Annunzio</a>"
+          ],
+          "photo_reference": "AXQCQNROVKsafUOIaD-xEwaEVWgNMwH4WaVL1aCz7prHbjq2TtmYt-05aaBvXdZv6qQiSnchbPJVttGbDNk12XwXjI68ojYPcqcWPih0DTu_TXBeERZMIGsRmKvxF6Ki5UboNoH6tPYunqeE3hYdUR2Bvc70jkJNMTzdIErS5iiBTWxuTZRTtqQ7QMLWDa06sCXeCqUuGJDsbGyrmtjyCd2Ti5X9VuJC9ANQ_-EQ42_9ZcI-Z-CEcV9R3nPmv2Sychsdk5bkmSoln-l7rkaYa50x6WUhd-iXKd-1MOY_ht3tW4WKjiBujGA",
+          "width": 1365
+        }
+      ],
+      "place_id": "ChIJOX-YFsmtMRMRzbilb9hpa4U",
+      "plus_code": {
+        "compound_code": "945Q+2H Chieti, Province of Chieti",
+        "global_code": "8FJP945Q+2H"
+      },
+      "rating": 4.1,
+      "reference": "ChIJOX-YFsmtMRMRzbilb9hpa4U",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 384
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "SS 16, 66054 Marina di Vasto CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.08152399999999,
+          "lng": 14.7443196
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.08284147989272,
+            "lng": 14.74572962989272
+          },
+          "southwest": {
+            "lat": 42.08014182010728,
+            "lng": 14.74302997010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Acquario",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115721935190195018261\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNQpe2iCWvLE3ywbMvjGLtLhDsOUXle3gRiMYMmWloaTmi7_Vvh8n5y97SVoLHFiXee3NXl571nQSjbbB0U-aFIOYw4QGhCkGikFUp4XcMC1SI8fvstmfmMJSsCXlmEOR2T2UHImMzNkc0R_C95yVkcT_mxVa_nfBbC2d6IM2LWI5v9khKYEFl0zq9NK4VnkXW9mkV5dg5ghtbUR6VY5WqB3gEYsYGyxsqP9dWuLZJub7zuP8CTdO7CdKVwxTjTzt_a2k7vGaFt7P9WJCBwD82Y-yw7bK7eYLeXdmaUbVirjnFinqI0",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJ88loUKLcMBMRHm9J77U6g9Q",
+      "plus_code": {
+        "compound_code": "3PJV+JP Marina di Vasto, Province of Chieti",
+        "global_code": "8FJP3PJV+JP"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ88loUKLcMBMRHm9J77U6g9Q",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 568
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Giuseppe di Vittorio, Viale Colle delle More, 30, 65013 Città Sant'Angelo PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.5213634,
+          "lng": 14.1026603
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.52265712989272,
+            "lng": 14.10405257989272
+          },
+          "southwest": {
+            "lat": 42.51995747010728,
+            "lng": 14.10135292010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "I Due Leoni",
+      "photos": [
+        {
+          "height": 2260,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106148716744687341233\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRqdMun80VdSsNs-2j5OVLnBQ7qwJD53s1uUHo7bEfRnDe306c_M7wu-8eACPqKVS99kqQwr5mlY86K3BTJ6GnRAqG_VA5NLjCnN7BnFDLQGU8_RcQfKIcGGxXi-Ci1y6VTwsPdEDpdJRX2P47QFbdZWpwV__TdlKpOmKPRaYTLa9HKIMBQvKyOr6kx7cRMCrkChVVyGuze4EgwIGn7DEn4jP0qxGOuhnMLQm8dZCFqU_2etyJ9O3d7Pa-HlXuqoiCKJKo0rfpCUPiHdoMUhPWs4FEnWcw888SjBz2Yo_xQaW3XDLE",
+          "width": 4782
+        }
+      ],
+      "place_id": "ChIJjdaTf7KkMRMRMwQLVD1jEXQ",
+      "plus_code": {
+        "compound_code": "G4C3+G3 Città Sant'Angelo, Province of Pescara",
+        "global_code": "8FJPG4C3+G3"
+      },
+      "rating": 4.2,
+      "reference": "ChIJjdaTf7KkMRMRMwQLVD1jEXQ",
+      "types": [
+        "spa",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 244
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Duca degli Abruzzi, n.173, 67055 Gioia dei Marsi AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 41.9482421,
+          "lng": 13.7030115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 41.94957037989273,
+            "lng": 13.70407702989272
+          },
+          "southwest": {
+            "lat": 41.94687072010728,
+            "lng": 13.70137737010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Ristorante Hotel Filippone",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2169,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105350249656015798900\">Luigi Daga</a>"
+          ],
+          "photo_reference": "AXQCQNSzXEK-Py0tjK9HDLR1D2VzOMDSOBM6v2WEPrAzDXjAD24rN-eStCUSW8M_cJH2CX8WIhexrjiB9TSMetSfP0jfpBvFwvsoK-ZeGMGvcZw4jdn6ui902SV7tLTRM-xWK2GHXRGilh4Q1WyY1-3A2k5dS_MH91tCdirE7E7Zm_0gRx4GxVcbJeXmwBmwhSZDd-Oiko0sSAIYEYZtGxgyHVNHWrt74JmrXja_REbE3KGtkNUQUzzK7nNQmb3DOWorxngUgwq2DCR6-8QLL3OfY1jS4MjVmWY5HOoqfZ4f1MkWtDwzSE5wV5slbUy_bgg4uCz3Yz352262k4GfHDO7Nc39KI6t00nkfazq2iy5dX8A55TC87KiEF5xlbZAHpSUxFqiM3ebKG5OKekSavDHhicTX7OTNZigiysLai36UXfQr5ZJsJHbj1yLM_nvllsCj8uO-VT2JnahuYtHFx7ynt-FGQ29gw9nn4UyF6cqquvoeghRqTYJS8Y3Pw_b8qWjloAJ-J7wOahBsQslGPq045jVajtUFPljaenFA2W0-aZcj_TKlPNjhhBzW7IOpuCu-aWOc2SOmr7Vqw",
+          "width": 3760
+        }
+      ],
+      "place_id": "ChIJtb4PRZwbMBMROJ6OA6zDX1M",
+      "plus_code": {
+        "compound_code": "WPX3+76 Gioia dei Marsi, Province of L'Aquila",
+        "global_code": "8FHMWPX3+76"
+      },
+      "rating": 4.3,
+      "reference": "ChIJtb4PRZwbMBMROJ6OA6zDX1M",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 508
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "via Milano, 32, 65010 Collecorvino PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.4438732,
+          "lng": 14.0412803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.44515947989272,
+            "lng": 14.04258192989272
+          },
+          "southwest": {
+            "lat": 42.44245982010727,
+            "lng": 14.03988227010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Alexander’s Home | B&B",
+      "photos": [
+        {
+          "height": 1265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107000274999163500129\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNRRvBVIDTKaoBV4h95kgZ5KmjfMSMsfixjegVJtWJi_kLdiXw2u8tweOzgJWlWafftjP79YO1HT0sWhF2XYuTvBpfqlQ5aS_YZhqqiLDIKZqlJ72P6byoKpxaJZlsetmxxZ4Af1AMaob7Tgp3G9ZzgcAW-q-glqNG6axmRafmfsCs3DLUaySQuRCsMf3e4zUanZiVhgHH3oLVBhMy5TS_TGE8ot5z_Hpuyc78U7JZ_KdGQy3O6E10mlu7BS1Vkk4I4cNpjLOL7PpXs7uYXv9IC14P4krCQppI7rcr6swenQxQHINU8",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJG1BY-l6xMRMRornoOnIR9oI",
+      "plus_code": {
+        "compound_code": "C2VR+HG Collecorvino, Province of Pescara",
+        "global_code": "8FJPC2VR+HG"
+      },
+      "rating": 4.8,
+      "reference": "ChIJG1BY-l6xMRMRornoOnIR9oI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Danubio, 79, 65015 Montesilvano PE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.50351089999999,
+          "lng": 14.1291272
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.50501962989272,
+            "lng": 14.13058207989272
+          },
+          "southwest": {
+            "lat": 42.50231997010728,
+            "lng": 14.12788242010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "B&B VILLA MARIA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116261084267131958654\">B&amp;B VILLA MARIA</a>"
+          ],
+          "photo_reference": "AXQCQNSbpt0KqinL3PhCXKjfbixXBU9_IEV0QcZ9lQtKFAGduQTcStYVUBZWILR9PpzDhOr_vX9U43HBsENDe__egLslFrhFykgiaqqQEeVRQVrEM1wi5hhoc4kvGOPKkE_fjNEIAXDUIpLR7oYu3RJuaiuedaarIC3hujQqD84bidJUneYCggn_wZetOnIbaHYWM6zIVGb4aUn8iM5m5IpYD-hkVv-HBnkoiJMPaSOg43HMRncHdmRuLni4uuO004NRgabYsuUZY1fEQwUjIzBVYsxUv_jeK3BxyYzKKd3XxV99POWu2SA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ4WE8NemkMRMR6bsi7BBuCi4",
+      "plus_code": {
+        "compound_code": "G43H+CM Montesilvano, Province of Pescara",
+        "global_code": "8FJPG43H+CM"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ4WE8NemkMRMR6bsi7BBuCi4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 196
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Ugo La Malfa, 64010 Civitella del Tronto TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7933254,
+          "lng": 13.6374359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.79467972989273,
+            "lng": 13.63876832989272
+          },
+          "southwest": {
+            "lat": 42.79198007010729,
+            "lng": 13.63606867010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Country House Il Piacere",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107223986995210939537\">Andrea Brunori</a>"
+          ],
+          "photo_reference": "AXQCQNTB4PmCvOz4g2UE8s18bntQUJl1Gw7nU84MmLmNMDuwpebXdXOnHXBgyyLPEHG0suiCQDCaKXdi16LUcfxL31v0Kt5qJp-wvuO9WbGid8P2hvDp3LbqOec9fme5ukUa3lbyKiTJn5j1JEJj7ou1bod1tiar1ddmOJfQcsc3F52rxiCMb7JYtJjyVey_b0feIZHpJwbWPRtgxZq2DA1omc104-UmwxovCziuAe3Tbg4ED5Ia-oXZV-DVhUbIMLCKgSx4VZ2ZIPHxeix639_evkTNs9BUziWUaWFdFJSw2JMGPZtRWbYTjWTpLocHvGPhZzHeseMwt4GmjFzdSNEAh7b3ZdcA5uvl3O_vHDa9cCrN5f260T7_CtvvXkeXhCRyhnvFkh6VaUstNoGYSyCvgXf2Aribz7rXBktVh0O98HDTlW5UVB8uqnuSEga88D5sRZRgW4lsz-tLYjIxM2z0gv7qlpjee3FdodQfaVS6p7CEQpHa9jF9ELfaQuZwx2-uOV8sqhHALcjdLHZmxLXaqobxeybtchhiwU6tszVgp8udPUUfZE4o6tk0VqrpaQtuKe3CiFfkAg-iNA",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJRwp8HprkMRMR7xKrXdrIVMo",
+      "plus_code": {
+        "compound_code": "QJVP+8X Civitella del Tronto, Province of Teramo",
+        "global_code": "8FJMQJVP+8X"
+      },
+      "rating": 4.2,
+      "reference": "ChIJRwp8HprkMRMR7xKrXdrIVMo",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 537
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "64045 Casale San Nicola Province of Teramo, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.4829748,
+          "lng": 13.6018688
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.48428287989272,
+            "lng": 13.60323572989272
+          },
+          "southwest": {
+            "lat": 42.48158322010728,
+            "lng": 13.60053607010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Albergo Casale",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117172517755569171361\">Maurizio T</a>"
+          ],
+          "photo_reference": "AXQCQNR8sssiSMqSuf470dzG5Aklbum2S9Pe6kjydNhyk_5L88KhKSPVHKZSWHI38o8fs7Ex9kefXaUrTuoFvk9fLzUrK0iGSZ_7aZLHpRnD6IgoofVoUUt8-D2H2LIcqDiis15l0W8YLolQ_sH35GnbAWtKUmIBfjrFcOso7hzzw2SspT5kSsWEm9h7BxZ9rhIekGJHGXX0wz2xUPoJYwT5tdyPG5bM2st6ZfWRHT2LBi-JO7OYTgHsGVbemKzj4T-PVIELUHKGNIxZSHby-xY8rw0XojGdZHeLVaBZGW6ZMykZxbC77LYVE8yMCwBonYF6_EBXkfkjAwBC_0nqzhpQBcqdPvciDeQeAJCQC9gmLjz3_t8zVUHPWJOicp9Uc-PFYxPuWSsBJe3cuPzv-TuHvjnVOFwGuUeC0PdoQ0_3SyAGsi60ICMboZhYz1SQfV8jp7Nsl1XLcAdJCK-4U4rTbxI5-75KgD0jR6yvyYC0FdFv58uWPThDfuawgJ220wlfphlwTIiQbefr29csNHhaPrrGUSsqMNclHZ9Qa9E94uuVAI2VYr_9e9sMhuMNTR5WipcFgbUW",
+          "width": 2256
+        }
+      ],
+      "place_id": "ChIJPfZquQTXMRMRIxpT6d2_7yI",
+      "plus_code": {
+        "compound_code": "FJM2+5P Casale San Nicola, Province of Teramo",
+        "global_code": "8FJMFJM2+5P"
+      },
+      "rating": 4.2,
+      "reference": "ChIJPfZquQTXMRMRIxpT6d2_7yI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 263
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Str. Licini, 22, 66100 Chieti CH, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3321133,
+          "lng": 14.1493079
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.33343672989272,
+            "lng": 14.15101662989272
+          },
+          "southwest": {
+            "lat": 42.33073707010728,
+            "lng": 14.14831697010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Farmhouse Il Quadrifoglio",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109176551127201301192\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNSbg50hO9oLINLsJvQ97X7C5J_7Bm2lPWeWf69APuApLMO_DpIEjuyJh4wA_d-cNN4tfjmcTqF2v9K_2JQI6-6waWZACJ6HepXqFP527H8iPMr4nzTJOgl470JA-70hQ075DZ9nsjqYbWnGiwA4cw2XFyV6AdZ25Ac-pGhxmo_XzRb5p8XUD7Q_PFNOtXBGiqc0ACrLVShTQpLxyV6GtsRvvlNuzhgbm5OPWOREF2T1Z4-n-zhJ0IW_0BqzUHpoocb7_dHjQ3HmzK_IpVdzOXX9OS4C8TFv7kG0Mj_vyurs7utTAdU",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJZYyTDP-sMRMRGuVWrDXB4es",
+      "plus_code": {
+        "compound_code": "84JX+RP Chieti, Province of Chieti",
+        "global_code": "8FJP84JX+RP"
+      },
+      "rating": 4,
+      "reference": "ChIJZYyTDP-sMRMRGuVWrDXB4es",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 352
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "V.le dei Pini, 73, 67023 Castel del Monte AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3658046,
+          "lng": 13.7274036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.36712172989273,
+            "lng": 13.72875242989272
+          },
+          "southwest": {
+            "lat": 42.36442207010728,
+            "lng": 13.72605277010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Destasù Bed & Wellness",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105359816678288526739\">A Google User</a>"
+          ],
+          "photo_reference": "AXQCQNTwkjy-RKUpcTm9L2imnZGS8UAY6kG667WoamAF_t2oNYrK6R__iiHQEnzPmj2X0MDnnFOyfLVo765a78NsDiFiywGlCzAlb2Kit0UG1NGF8xrBbHJjGSR7ICMaHXJNQizvf1GJJlSKcKNA1M7Nhn-2ER796LwUjXGViwJa-QA-NeZCzg3tKF7tAn6S2jeAQEiEKm_-URmoRDjEcYnAO4JMgBrlqeSr1oUL_HFWQki_YZkKQpXHn1OmFaFTUYvvenQllarfIt2rfVr4Kd-Qol1gFNHhhv2X5HqCr_foxy_Cb60AECQ1yMU7bGXrlb72I5Y-XbRrcn7kbNcd87ZnbPihBYj-6fbAJT7lzeAo8wU5ix1vd_IN79fSAlSR0AwLOMToUZJDaHVBWwwfGfXsXoUptTWq9OVDToKgNk8LN1y7YaQ4SAQ5z4YGMnCasn213uW0lgyZb505B66evwDYJpPmrfGkaA7VUUr9SI2wfhwlgmuc-Ze7cdRlEpmZwJ3Ebhz5xNcNYWAfjRhXLGT9a3RRyqjLdjQh3T_BiP367QR0ZGGXnILQnPvwL35kULZ3bvyVXxQl",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJjXNk9LrTMRMRMT9M21N8B_8",
+      "plus_code": {
+        "compound_code": "9P8G+8X Castel del Monte, Province of L'Aquila",
+        "global_code": "8FJM9P8G+8X"
+      },
+      "rating": 5,
+      "reference": "ChIJjXNk9LrTMRMRMT9M21N8B_8",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 60
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "SS81, 64100 Villa Vomano TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.6133801,
+          "lng": 13.7627824
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.61489037989271,
+            "lng": 13.76399327989272
+          },
+          "southwest": {
+            "lat": 42.61219072010727,
+            "lng": 13.76129362010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Corte dei Tini Relais & Ristorante",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114298180284125650314\">Hotel Relais Della Corte</a>"
+          ],
+          "photo_reference": "AXQCQNQp1WQ-5kgxK3icTvx_EFiFp2kFHsEPqupQGFFgEKEoaFJw5adJHiYWLOfROnZ_x3ajO21LXe78YvPtNfrlP-uE5J2gaz47ZLFF5uGyKOZErvpc7tu7Dl3friBImYxNZ1wfXQeeWyyf43ib1moKH1yez0kLwWLy6SPY4BG7iNj7YQM83BiSnrlT5RxhBdgBVhOHgN98jkKjQAnyskJkx8rTXBxMDp5f7a3xHB_6D8UvcZYxF1SFSMTQsxXelo9PnHgMOYaeFiCAbul_2-rB2rCe8lF5K5j2YcTeE8CuzKyXDLfhqpI",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJH6C3cB3DMRMRfuUz51bBgSc",
+      "plus_code": {
+        "compound_code": "JQ77+95 Villa Vomano, Province of Teramo",
+        "global_code": "8FJMJQ77+95"
+      },
+      "rating": 4.6,
+      "reference": "ChIJH6C3cB3DMRMRfuUz51bBgSc",
+      "types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 359
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "V. Vallone, 5, 67041 Aielli AQ, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.0826512,
+          "lng": 13.5888642
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.08400552989272,
+            "lng": 13.59022162989272
+          },
+          "southwest": {
+            "lat": 42.08130587010727,
+            "lng": 13.58752197010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "B&b n' gima all' ara",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103949082243642506464\">Lucia Traina</a>"
+          ],
+          "photo_reference": "AXQCQNQ7hgtY9iyoLuhXfmME0UpNkpmAC8bBVmfq56N7e2p1MQc76TFmEZyIU4aG21gjiFxSPR8abxWp5e4VR0ULCEJHl60xslwYRHsFRI0hFXoK0pCd1zKj3KhBJdzl17gv6TQUIWiluJjw--pSByx6eusa6hpt9dlZWpAAwn50lPR34fAYOdyjIhMtOj9Be9YkZ0dTyoMZ13pLUjQKhLtC66TAtmIjOudRf1p92WwL30IafwfDPtIDDuXJ6KnLLYtj8KmJY-CAehqnPaGHPsqbYNSgHQ_pXzsyTDU_o4vEVRrjao5dUYX1wkgU86nQmdefkgB4v7tA-9L_CurKzN1mnA8RcoMwogpk9JTfa0JHdnW61fc_tZqcv4p0M30Zt_7qQ_nzZYVtBVgU5rKn_aEXmKYKB8rLgnzLsT7GERoDYAr9GQuxxWIGhF110PO5nI_KePIp9q8GSwRAkcw3nEYd3mLDODRf0b_uyS6yDbxA0_JVGEC2bt1HdECeb6Ny0AUJ74VbiLyhQP1wq_iVLp1iKCSjhlBXhjHqEc96rgL84UsZPhpfbjnmTc1yblaxBi4MgZeGcg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJdQAYYt0hMBMR-fBXAcaHCzw",
+      "plus_code": {
+        "compound_code": "3HMQ+3H Aielli, Province of L'Aquila",
+        "global_code": "8FJM3HMQ+3H"
+      },
+      "rating": 5,
+      "reference": "ChIJdQAYYt0hMBMR-fBXAcaHCzw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "66026 Ortona, Province of Chieti, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.3755983,
+          "lng": 14.3747923
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.37712887989272,
+            "lng": 14.37629522989272
+          },
+          "southwest": {
+            "lat": 42.37442922010728,
+            "lng": 14.37359557010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Campeggio Torre Mucchia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106624079347794946371\">Roberto Guzzini</a>"
+          ],
+          "photo_reference": "AXQCQNQhH3vB7bUqx1Y9-zW9EwbeDXkqyjE7GtitYE9aynwSZUrL1dygg-CW0KwAzOpHGjhtxmBSQKejSLX7VrndZSmTTMqtEPrO1iYepZvsutCSN2-GsoSckiz4MyI32yULNeqOEXkUWUbBZBl_feXtOq80s3RzFA5TXaM4mpNtJuaweg-Hm0_Vi7KR7pdqBsQ-A3qQ2EvlXB_7Esrbp-w-SHCLvLg_kkgvTVVzx7HwbnE7DPX_hVleQiVLzpGLChEmTgaUAZTLUNFb97fRJ8ncCnwNWC0SFHONQ_IHSb3K2kUss5GiQ0F7xevE5QUazXEolw6B38GDq5dU6b1TNEfEsuRNZI_lWIsK_69H2TY2CHD6UV7GywdUc9KlXbEIuEDDYOSR1KkGy7PqXKNzGK9Ny6sTkhIGYqLYv3geudut5T2vlfvcQR0zuYCy9VOcq5nb5N618T8yBipn1jBA9E2deBxLCLIOWoAdWBHBwRK-Igu-UmopFpuJ7Jyj3swQmQi5lUUdOb7pCRyfCHCzxgzPyP3nTdbDwj51vmXovKYEnPOjmxYINv9VMEdBncDucwdTgOfh6trt",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJC2Xf-4MGMRMRy4JEcdN4Mkg",
+      "plus_code": {
+        "compound_code": "99GF+6W Ortona, Province of Chieti",
+        "global_code": "8FJP99GF+6W"
+      },
+      "rating": 4.1,
+      "reference": "ChIJC2Xf-4MGMRMRy4JEcdN4Mkg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 206
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Lungomare Zara, 103, 64022 Lido, TE, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7655694,
+          "lng": 13.9619689
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.76694422989272,
+            "lng": 13.96339637989272
+          },
+          "southwest": {
+            "lat": 42.76424457010727,
+            "lng": 13.96069672010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Royal Giulianova",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104072740569898047700\">Hotel Royal</a>"
+          ],
+          "photo_reference": "AXQCQNT7GDg5tWkbzGZAOVcOW8hMw6VTO0NedjvpCf2ysCTfY90omy9rCl7_Oxo85ooqsCisMyDUtIpzIbP8f64rzZ4BaYIQozZ_M8c6RIpBOKeWTqqcMySo2Ae-Se6x1NR79GM8UBGEUDV8F2aBogZdAYthMtNyzhSU2xHrrGdn2nzXAoLFstwKiDWYz0EoL0b7HPajGjj3ozHwnJz8MJ6xyaPr5a14Y3oU5iDx1oG7Iw-qxiL6IssQe0_0RApBlZQS1KIc1_OdbpmxT1roU2bOkRsYD55V1j-dr4lOZT8EDi25fkmzL8g",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJfQ_59GGSMRMRLNF-fLYiH8M",
+      "plus_code": {
+        "compound_code": "QX86+6Q Giulianova, Province of Teramo",
+        "global_code": "8FJMQX86+6Q"
+      },
+      "rating": 4.1,
+      "reference": "ChIJfQ_59GGSMRMRLNF-fLYiH8M",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 415
     }
   ],
   "status": "OK"

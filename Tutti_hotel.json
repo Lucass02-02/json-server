@@ -59147,6 +59147,3006 @@
         "establishment"
       ],
       "user_ratings_total": 312
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Str. Vicinale di Pian d'Alma, 58043 Punta Ala GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.8433875,
+          "lng": 10.7795611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.84475017989272,
+            "lng": 10.78096627989272
+          },
+          "southwest": {
+            "lat": 42.84205052010728,
+            "lng": 10.77826662010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "PuntAla Camp & Resort - Glamping | Bungalow | Camping Toscana",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112606386983671534658\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJFQ-3GD6RGN0Cfq8jjylFjUievE2ZzD1r0qQbf6GmjUEJEK7bJLSRkj81YESuRmoq8V1V2NpBrO4fXkaDYX6c_QiC0SUUySgic9V4HBeIZfujkblON29eqN3j3NtMFmRUVz3VTSWrAYiA6oef2-GcbXTZoPBn1Iq0vQ02OZY9g-2YhMvtDCxvDtwR7IsGWKmJf4cYGd_Et0Y6JQ3z7uyWwDU8VkSFtqHGZtwtujzVcR0Kkvp-sTxeFhxxksdEtnUvtFC7GmTIcHjctT7BhHVSM2jv8wGaDT_7HJt9EIvX-S_WZMTY",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJ1_bLxbvaKRMRiBUyoYXsbl4",
+      "plus_code": {
+        "compound_code": "RQVH+9R Punta Ala, Province of Grosseto",
+        "global_code": "8FJGRQVH+9R"
+      },
+      "rating": 4,
+      "reference": "ChIJ1_bLxbvaKRMRiBUyoYXsbl4",
+      "types": [
+        "rv_park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2179
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Loc, Viale dei Golfi, 249, 57031 Lacona LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7604639,
+          "lng": 10.3133934
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.76186892989271,
+            "lng": 10.31476507989272
+          },
+          "southwest": {
+            "lat": 42.75916927010727,
+            "lng": 10.31206542010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+      "name": "Camping Lacona Pineta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108369675653122461737\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJevi_QeDKb8-qEYkXeXBhgU2RZRSOXaegetOzJCm2bYYB4PleeO01yNfjPf5XUDQFUUTx-FiCPpqZcnh_EkHc_r3A6w7SuCDNBAn7sDHIeYWm5TRvbIWce8CBEnX21MdYs1N8fDhQuliBhhL52f_u9Wp_YyclrY0mTEr0QGlTACB3rX6gMlfTJWfg8bT6xCCew1rXsJcAlCMumBB-9H5a59-Q3T--4r7eefB5HGAiA3qpzDsv6t7WV3hT0gloNDd3HXRn2yomtWGBZ6y5bdxyZwbLhb1p0BUIgAkBa8QGinjDYdS4",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJlb68Ak801hIRj9lzvhNrqhQ",
+      "plus_code": {
+        "compound_code": "Q867+59 Lacona, Province of Livorno",
+        "global_code": "8FJGQ867+59"
+      },
+      "rating": 4.4,
+      "reference": "ChIJlb68Ak801hIRj9lzvhNrqhQ",
+      "types": [
+        "campground",
+        "rv_park",
+        "lodging",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1420
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Strada Provinciale delle Rocchette, snc, 58043 Castiglione della Pescaia GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.779747,
+          "lng": 10.8034687
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.78101097989273,
+            "lng": 10.80477962989272
+          },
+          "southwest": {
+            "lat": 42.77831132010728,
+            "lng": 10.80207997010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Camping Village Rocchette",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2872,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107269206342212156554\">Camping Village Rocchette</a>"
+          ],
+          "photo_reference": "AeeoHcJ8Ere2C-IgXg0mpy1RdNcqPSmb9reQ3q9J7bzdruK5rvyt7mAL4EauWClRmaDZnhLsJp8FL-2duX1sdlBZd2u6fSZK9Y8o63Ww2lxy4AwiUsHvarmB2J1XaiaeYwgsBqisI0DCGHk811pGaeUSY5sespFBBJq2-jKYMtA1jv8gCq3G1IiaFV_oVH2cc0_mQNEHnGVORAv6I9M3H2rkpBoRmzT6FnK6QTsJJqYacJVXKGUn1Z77_QX3BATNk7AEwryU-kF3fvZ4V3ee9DifcNx2i2_fvG8ZvX7hUSJTIi3JEeR8hnk",
+          "width": 3883
+        }
+      ],
+      "place_id": "ChIJpYvt-bTPKRMRCPYSja38AYw",
+      "plus_code": {
+        "compound_code": "QRH3+V9 Castiglione della Pescaia, Province of Grosseto",
+        "global_code": "8FJGQRH3+V9"
+      },
+      "rating": 3.8,
+      "reference": "ChIJpYvt-bTPKRMRCPYSja38AYw",
+      "types": [
+        "campground",
+        "lodging",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1366
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Aurelia Nord, 8, 57027 San Vincenzo LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.1063224,
+          "lng": 10.5415319
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.10757937989272,
+            "lng": 10.54268857989272
+          },
+          "southwest": {
+            "lat": 43.10487972010728,
+            "lng": 10.53998892010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Albergo B&b Acquaviva",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108307393895710811356\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcKbDnhSVY0n2sVH_4cItjsKTR-eoohMeiroLsDeywg8Io86nf0SnjT4S_VAzgyqtdA7FYXlAXi8uoH4cSWTX64v2eAi400VSYUtg-2tcpCfTfQHK5AjANhLiUefPx4cWqWh8_pAKnotpSPM4YQ9qLIYuLLbabz5MMCrfv_h0pxqw0aKPgQxmoAtKUDAFmg2AZcguBFT2R79yz9euUBFJxAjY4ItpzaQP-2xhhrlzw9j2HycV-iUIkUf5E2_xL7_73-1l4L0krgElkFWXauVg6BI6YlfW78Vi44nqUlDl79F5T7mtVs",
+          "width": 1680
+        }
+      ],
+      "place_id": "ChIJsSUsNXsc1hIRqmhMsiS9650",
+      "plus_code": {
+        "compound_code": "4G4R+GJ San Vincenzo, Province of Livorno",
+        "global_code": "8FMG4G4R+GJ"
+      },
+      "rating": 4.2,
+      "reference": "ChIJsSUsNXsc1hIRqmhMsiS9650",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 151
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via dei Cavalleggeri Nord, 7, 57020 Marina di Bibbona LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2468991,
+          "lng": 10.5292937
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.24831037989273,
+            "lng": 10.53074267989272
+          },
+          "southwest": {
+            "lat": 43.24561072010728,
+            "lng": 10.52804302010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Riva dei Cavalleggeri",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102069685038344859351\">Riva dei Cavalleggeri</a>"
+          ],
+          "photo_reference": "AeeoHcL_D9c5zHN1e3eWv7kW-HFBe9pKeD0_MJqplvNzdhKQDUBMtF9--4t4lfLoG-nF7FkGpwuIyZEFEvoN8nBFhYghC3QaPHs97M6V6w-duWdBtpQ3WaHYVagqXg7y0rQHK9OXirlW4VlqBAqZXWnzQC8cdJmL74ZkdZ9QWsnkvdjgLRfxcUhd2LIgULhxnbc0FRA-5Hp1F4ru2n0VJwlHhOrx8SA1plP3gOzRJARNiLVFnoNeUntltJyxAhGoS-2KnWUDoMTCve7yHBWGn8Tn3DFNGInfpJVmBvLB_FaedXH8xNXLAnU",
+          "width": 601
+        }
+      ],
+      "place_id": "ChIJM_rdtsoG1hIRHw75e6BWnk0",
+      "plus_code": {
+        "compound_code": "6GWH+QP Marina di Bibbona, Province of Livorno",
+        "global_code": "8FMG6GWH+QP"
+      },
+      "rating": 4.1,
+      "reference": "ChIJM_rdtsoG1hIRHw75e6BWnk0",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 804
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Alessandro Bicchierai, 20, 51016 Montecatini Terme PT, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8816222,
+          "lng": 10.7755778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.88297882989273,
+            "lng": 10.77688937989272
+          },
+          "southwest": {
+            "lat": 43.88027917010728,
+            "lng": 10.77418972010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Boston",
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103016794952060716946\">Hotel Boston</a>"
+          ],
+          "photo_reference": "AeeoHcLom8-n55go33yHjouBMmOnGgDWVTl63hiXoG9MUxT9TTAEDPmGMoXs8U-Fzut1Zeg2ssolEw1l6KEDTnEcSiOJYZBa4nT4R358nPqhz2pfBNiIpJuIPIw16_guODI7ovMFWvtzGBzmcXLBATJJpOXpoP9jv6G8SPM5rzxtGGxRe8Q8UJpSSIkw-sgF5-bVFs_VXOkcJjdMcgOmu8SdLmOGgQiUSRwNOZv8Tnp5ZxFFzS1axZ5Fa2hc7_mQXUMFvSZCVnyWOMWHIxlzSi0YcWhez8YhHK6nGIH_glIjhXT1hkSu",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJWYWGuGd9KhMR9T3AmLN18gc",
+      "plus_code": {
+        "compound_code": "VQJG+J6 Montecatini Terme, Province of Pistoia",
+        "global_code": "8FMGVQJG+J6"
+      },
+      "rating": 4.5,
+      "reference": "ChIJWYWGuGd9KhMR9T3AmLN18gc",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1797
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Ermenegildo Pistelli, 72, 55041 Lido di Camaiore LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.89501130000001,
+          "lng": 10.2245654
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.89634272989272,
+            "lng": 10.22586937989272
+          },
+          "southwest": {
+            "lat": 43.89364307010727,
+            "lng": 10.22316972010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Sun and sea",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112737266498084482741\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcKrPfhbwl657nOBiipRx9c7TrPV3IxWIPMzYC7zc-9QbCvnR59-1K3kCAPLHPzKfOoJPAdNdiqR7UYGyZjFJC4FSHX_xdXccaHksNQx1By4rrmHsK1F0SC-k7rfjRW4OgIYD4V-8hfqZPBfY0b1o1e469eKIuokLqQBrBPSbAxspwny-gXKEdHwtl28vX4aGFEUV7-O-w5Nmz9fdkxCfhDsf0ofr9aMnUQQA74mbUr2UnNXcRoeRFS-KKlZESpdZFKXArZrFqg5Pwb7iBDzXgWfpTN4fYk4kx5GiD2c9MiNch7qdMY",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJB4Sdva-h1RIRgrHJPLswZu0",
+      "plus_code": {
+        "compound_code": "V6WF+2V Lido di Camaiore, Province of Lucca",
+        "global_code": "8FMGV6WF+2V"
+      },
+      "rating": 4.2,
+      "reference": "ChIJB4Sdva-h1RIRgrHJPLswZu0",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 454
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via S. Biagio, 2, 50063 Figline Valdarno FI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.62576929999999,
+          "lng": 11.4628132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62712662989272,
+            "lng": 11.46423042989272
+          },
+          "southwest": {
+            "lat": 43.62442697010728,
+            "lng": 11.46153077010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Toscana",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105237060898615772018\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJ0nG--L_Xycg71ndR_rHYmsbFt4Dn2R8zR0F7V-FF-lBPEY_LyYrMAIXsuHTq5iBJ7Tu970jsb7F-tZrflZ6WTxKcmsbg2TqpjOgOIuxLhgJLQTkSBy6pXqwj_84GAgi5BZegkQSCU7nfbZte4SyMwD0M_yTLCeKTAMSVCvbgMgUMt5Z83U_owFhENmeZGREQtViJ96pYnurNz8ilAZY6xcRl2YYx6uNTXAnC4LEhllSK4z31jSSp5MhWf6OBxP4-6OZwigbzqXBGsdxJifO_fvV156AwIOQSOIz0-mpIMAtoLTfA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJQcaEew6xKxMRF2GCp9rWO6k",
+      "plus_code": {
+        "compound_code": "JFG7+84 Figline Valdarno, Metropolitan City of Florence",
+        "global_code": "8FMHJFG7+84"
+      },
+      "rating": 4.5,
+      "reference": "ChIJQcaEew6xKxMRF2GCp9rWO6k",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 202
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "V.le Roma, 61, 55045 Marina di Pietrasanta LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.9375789,
+          "lng": 10.1896889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.93897042989272,
+            "lng": 10.19091457989272
+          },
+          "southwest": {
+            "lat": 43.93627077010728,
+            "lng": 10.18821492010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Bencista",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106066590320397904615\">Leonardo</a>"
+          ],
+          "photo_reference": "AeeoHcJ4J8QQ4nyksmPniPRnQgOCmrsjLjMg5DJPX4Q8fqrCd2foidayjphTQf6uBLzADvCjKRyI9Vq1vx0mGURDIMqji8DVJDdUq2NWYKK_q0sm0dOZIqq8UitmWqjTOwoW9OfL95HtgGZgMYYjeY1mBraXT21f4aG8l2UDeTp7YF1pFSX3oRn_KbhXkfJiUhFnjJeSiq3hzuEMgQ1moS1y20X18HLA24zEIr3vFMKzqHIPeAu3Y4U2th7SSJVM8TX0T1IsUPaNhUn8KnO75ePuZRLWg8WXMZH28t9Fd2hSbCBUvQrzL0GWfksHYs-wdkpotJehQhsPCAaV1z2_N9m4XNucf2C4asOFoxnkT-GN8SRYFHTIahhV8AdycLN2cJRoIxDZiAGMiObWnWTBY4EwMc0Mce2X3zD6PhmiROdN88VGwl8hQS-558RlagRPnQlyNsaiexferSif_fxmK1-UAz2nEXIbyysqazVA-AstezUytE0oEfoOIH1gFZLj-k_ep5uW5cUP4SSeSD5VYvvXl6UF1S0xPgO3VwIgZoH4meGW24kw8p2u4PpRAwOiMimnyCLt41MT",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJPZaED5Sg1RIR-jgvpU-7TXE",
+      "plus_code": {
+        "compound_code": "W5QQ+2V Marina di Pietrasanta, Province of Lucca",
+        "global_code": "8FMGW5QQ+2V"
+      },
+      "rating": 4.4,
+      "reference": "ChIJPZaED5Sg1RIR-jgvpU-7TXE",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 141
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "via Di Norcenni, 7, 50063 Figline e Incisa Valdarno FI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.612202,
+          "lng": 11.448798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61344662989272,
+            "lng": 11.45016597989272
+          },
+          "southwest": {
+            "lat": 43.61074697010728,
+            "lng": 11.44746632010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "hu Norcenni Girasole village",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 1066,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102917915053418164146\">Norcenni Girasole Club</a>"
+          ],
+          "photo_reference": "AeeoHcJtFuhSCFs5r8EsynYyiqelYipZCPP5ouBF8gTPfZtxyX352gQcZg5BKkJ89sm-cOhkquYwXeiz8QSmdZ5YjJ0Z3CRsp32LVGQRBlB-yxCkfIluOyESL3OgNtMEYhMEFU7XQbPMb_Ps4yRufnYMxHii14p8sIIm1ncKCX4QKMiKP--zBY3mntZ0KeexOl1I9QsEujG-anyPNUpoGzB_-7FEyGv0A5m-tGixsvLcvXarGEW3dBRr5-pFqxbcbb42Tp9Ysd03cAdcZeOTyuM7ohfjaGae_ZueanG3DHG8ZzLjBSFQ",
+          "width": 1598
+        }
+      ],
+      "place_id": "ChIJYUTpB0CxKxMR4GgShkdtjyI",
+      "plus_code": {
+        "compound_code": "JC6X+VG Figline e Incisa Valdarno, Metropolitan City of Florence",
+        "global_code": "8FMHJC6X+VG"
+      },
+      "rating": 4.4,
+      "reference": "ChIJYUTpB0CxKxMR4GgShkdtjyI",
+      "types": [
+        "campground",
+        "rv_park",
+        "lodging",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4303
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Nuova Dei Cavalleggeri, 171, 57016 Vada LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.3353691,
+          "lng": 10.4608889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.33670157989272,
+            "lng": 10.46206832989272
+          },
+          "southwest": {
+            "lat": 43.33400192010728,
+            "lng": 10.45936867010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Residence la Ventola",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 933,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106259874489062661637\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcIv-NhmBTWiekQCesI5T4FsJXjU2BRcK_VKEOy9EV1a0fwUUIaweqzH0iOlqth37CW_YArPIv8mLhxEbSdkTdHSayNRacdmd9-eDdJR_igUq7eyiKv67_aBp7gX6KCJcR8jHgxgsWYuIcrLKY4Ho66QwIbYgCsvxpJuGQnf9s76AoYwQaJKh1mP993xjyUmx9eq2fdtIS9yUzr8w4M3iAvH6JLEGb8cieAg01-pM13MRXtI1mPfbSS42OTp5D61-sNK-nrgiP2da0TJo7-3YBQFlTApSdsQBbrEObKVkxmR4mGXV3g",
+          "width": 1400
+        }
+      ],
+      "place_id": "ChIJc9XfYyf91RIRkE1gihzWauU",
+      "plus_code": {
+        "compound_code": "8FP6+49 Vada, Province of Livorno",
+        "global_code": "8FMG8FP6+49"
+      },
+      "rating": 4.5,
+      "reference": "ChIJc9XfYyf91RIRkE1gihzWauU",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 721
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Località, 58043 Ponti di Badia GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7892189,
+          "lng": 10.945857
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.79053822989273,
+            "lng": 10.94739707989272
+          },
+          "southwest": {
+            "lat": 42.78783857010728,
+            "lng": 10.94469742010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Bed And Breakfast the Acquacotta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105177991458100143516\">Bed and Breakfast L&#39;acquacotta</a>"
+          ],
+          "photo_reference": "AeeoHcJ2QpQpNCE8UN1-9MoRs0oPsD_NJ4NwFPSQUno2EnoqBfqF40TUiJGo2UOjosLvJtPl-m4T0I5ev4sWmJd69dug1d_4oIhYH6YPIi4viZfO9xEc0FFkN172QiQlhhsmBcmJhvS1-rKwzx5j9dY2Kt1loNuefP0qzcBFbQyIINub7BQ7L3X_-vIvru3Nk6fHn8VClbfbeoEU5UX-T7ANJd10cfXPxFGHDve7yn6m9MuSCRPOGJiDxPPctRxQKFXSimGt_EOR3DbMxIRHt4DgE_AYkp12eDN9feTrnfRQTkCFP6GUPz8",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJxcWMPWbIKRMRkK0CGA3jzbs",
+      "plus_code": {
+        "compound_code": "QWQW+M8 Ponti di Badia, Province of Grosseto",
+        "global_code": "8FJGQWQW+M8"
+      },
+      "rating": 4.8,
+      "reference": "ChIJxcWMPWbIKRMRkK0CGA3jzbs",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 80
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Pian di Mezzo, 917, 57034 Marina di Campo LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7570589,
+          "lng": 10.2247799
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.75851497989272,
+            "lng": 10.22625812989272
+          },
+          "southwest": {
+            "lat": 42.75581532010728,
+            "lng": 10.22355847010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Eden Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114150745347737777102\">Hotel Eden Park Di Amedeo Salvi</a>"
+          ],
+          "photo_reference": "AeeoHcLCBVbRWtDrHnUC7E805PpnwQRgJW-4wWz8ZOlCkp9HjZBxeIq-IFFntYCR_XbGZFEO9TN5u7DF6FkhLZ8dWDCL4m037aCon5xBw9I-CeXS30qJdD54Jxvg9uZZ70rmASg9e1R7_J2uXLSjCe4xlJqvi32TLjLk3pkcF-LBqPfjjVt5MdR8DheUQQBPAj9bIr_JIjPR5sfrwqagfwYn_t7rNzI5bawnadjY_y43GkJ4SvfbMaA2KoA2A7t-MM0DHn8IEZZu20wwjMkA_txz-MIFdsgKr-0uSStcd54CUaGwuVwIIqM",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJVbvmAFdK1hIRJsGgddtScrs",
+      "plus_code": {
+        "compound_code": "Q64F+RW Marina di Campo, Province of Livorno",
+        "global_code": "8FJGQ64F+RW"
+      },
+      "rating": 4.2,
+      "reference": "ChIJVbvmAFdK1hIRJsGgddtScrs",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 318
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale del Tirreno, 68B, 56128 Calambrone PI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.605644,
+          "lng": 10.2919923
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.60700872989271,
+            "lng": 10.29357312989272
+          },
+          "southwest": {
+            "lat": 43.60430907010727,
+            "lng": 10.29087347010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Toscana Charme Resort",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1068,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113398705593632050779\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJsobwy6Wkb3no83IEQF9fy4Ltifgyuv2584EdD-I2nan-77PNQPCtG2eeT8Bdz4mDK0TUf0i82BBO3zG_699zUSs7z0cg1zBwVuioq3lQPFVf1PJCoEDQi5CuML3rnUY4fHBxwhMoNdmQF8o7C04su3_obDFigpEb8vHRoG7VmCr-ntROcV90arwtzIcz7zKynzXUhQHHZUTdYTThcZsBqA65SRmNVQdwh-V7Lm0pU2Rmwy_bru6KnskLW3xFKYJMu8qAkY1PrEX83-rFhVZXOb6BFLArX73NMiWRCuHnEyC72XFM",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJ43xH_sLq1RIROeta52-01MU",
+      "plus_code": {
+        "compound_code": "J74R+7Q Calambrone, Province of Pisa",
+        "global_code": "8FMGJ74R+7Q"
+      },
+      "rating": 3.5,
+      "reference": "ChIJ43xH_sLq1RIROeta52-01MU",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 734
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Amerigo Vespucci, 125, 55049 Viareggio LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8741146,
+          "lng": 10.2447173
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.87548797989272,
+            "lng": 10.24605152989272
+          },
+          "southwest": {
+            "lat": 43.87278832010728,
+            "lng": 10.24335187010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Sogno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103557013108152316239\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLBT2cLzFlv-b0uPQwEPd0zVlZri51CMVAFXb_n4u5xakCyuxaF4VwapYWFTAFjEFZtWEEgt99-vptfjwKKBcRgL66m46W91zN0cpfjH4DIKVjwa40c5bsCC1-p-prAIavgoZ_AETmTd4J5qalLOYCU1cQhsfbLpCu2QTt36pF7XrkkZuZOYORvY_hAIwnOBS0n60sGlo5a8UOG0A2tEUETMD_0aKRZwft2Q9trlEAN2rpkqeMe8INsuqTR4-HoTFBijoHWVrHxdBd_riudNF27X1pbl8P7LgQ_YV3HIyutH_Ug-Wo",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJMxFDfe-h1RIRghio6auEcpE",
+      "plus_code": {
+        "compound_code": "V6FV+JV Viareggio, Province of Lucca",
+        "global_code": "8FMGV6FV+JV"
+      },
+      "rating": 4.4,
+      "reference": "ChIJMxFDfe-h1RIRghio6auEcpE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 101
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Peramonda, 1, 50014 Fiesole FI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8063641,
+          "lng": 11.3059011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.80787642989272,
+            "lng": 11.30742732989272
+          },
+          "southwest": {
+            "lat": 43.80517677010727,
+            "lng": 11.30472767010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+      "name": "Camping Village Panoramico Fiesole",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4005,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107009624730708084472\">Camping Village Panoramico Fiesole</a>"
+          ],
+          "photo_reference": "AeeoHcL2p9UKWaBvq30t1KPUaIvk5UNN9AEWxWSbODvuPpsI8HeeheA5FKl2SCcYFCI6Nsosx9NUwLbPSrTiVHIRNlryQuuZwIjh4cldxca7ARoO-ciuasSc6hBIhGkrAauv9ID9FpueWBxf-mkr7wVeT-WALe0wn__SQhdP2Ptk2AblVIfo-WQrgLXxctHpgaKIOgpCqTAvNvkBr5ef3NuOyKBZKDmP778PbpBY6cScveYSm3QlH8FVl4F0i8XEf-cO2JuKJZEZddBndX8fPhdpY-4-TZAJDgQk9r7Uxfk-Tavbj1fXLrs",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJQWfvfQRVKhMRkVA3B8q1qxM",
+      "plus_code": {
+        "compound_code": "R844+G9 Fiesole, Metropolitan City of Florence",
+        "global_code": "8FMHR844+G9"
+      },
+      "rating": 3.8,
+      "reference": "ChIJQWfvfQRVKhMRkVA3B8q1qxM",
+      "types": [
+        "campground",
+        "lodging",
+        "park",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1373
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Località S. Leonino, 23, 53011 Castellina in Chianti SI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.4174063,
+          "lng": 11.2963655
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.41877022989273,
+            "lng": 11.29767062989272
+          },
+          "southwest": {
+            "lat": 43.41607057010729,
+            "lng": 11.29497097010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Belvedere di San Leonino",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1335,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103742768497947168612\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcK-4pTd7sFIYt2moY7FtagbYktxmtZb2KoGDmyOLEoSAtk1eB6UJHxs638N9nJQ-4TzATI2PhWSmUOuoF6SI8LuFk1lDKg4M720oFBqn3989AhNGfOliDI8Oq72E9AogtQrXR7robuhxhpJe3sMhIL3wExrXurV_xfqBSZXxE98Td1gaQ4ybC95a3qWrzpUNIi2fqPe2J4aLp-UvACKKW9fLIJbdfpozoAlBsoEugNLYCpnn0lfJ4cdDWkLcXWDk1PNRVdMcecq4iGN81Vjy4DkT9s8GsEPx18t3rwtxAv4a6BgEUA",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJ_Rffi_8yKhMRzHGnzE9zxwU",
+      "plus_code": {
+        "compound_code": "C78W+XH Castellina in Chianti, Province of Siena",
+        "global_code": "8FMHC78W+XH"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ_Rffi_8yKhMRzHGnzE9zxwU",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 412
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Galliano, 36, 57023 Cecina LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2992474,
+          "lng": 10.4937057
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.30063077989272,
+            "lng": 10.49504542989272
+          },
+          "southwest": {
+            "lat": 43.29793112010728,
+            "lng": 10.49234577010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Vintage Hotel Tornese - Business & Events",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 396,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101133677281487029769\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJ6cjZlHI_yihivyZXed3kOeNruIShiEqMHrgXkDhVhMlHhlIs9NHwXyUc3lzv-OqTID_KioKVAWUvdPBNNdXhlEbQiDku9w8qecY89Fu2dP-WX2dYIAn7e48V5cJ3_KZh6ut7UvTcFIBDSuOabEa512T17F6taBoUb4YD4_1ijqP3NL3cBR15wkjf9x6NZyxE4NUnU1UwbJ0bT47hPtJhw-DR-gvfSjyLU1e2FOVrek3cEz-LSLT3gYMRAVNAHWYukXTMSdvL0RDmEOrs0y0YVumir69VzL3s0dVPgZjJd22PFzPM",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJl_LQf3oH1hIR94qV8tKSeBI",
+      "plus_code": {
+        "compound_code": "7FXV+MC Cecina, Province of Livorno",
+        "global_code": "8FMG7FXV+MC"
+      },
+      "rating": 3.8,
+      "reference": "ChIJl_LQf3oH1hIR94qV8tKSeBI",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 762
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via della Mandola, 57032 Capraia Isola LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.0487565,
+          "lng": 9.8416079
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.05002312989271,
+            "lng": 9.843024379892723
+          },
+          "southwest": {
+            "lat": 43.04732347010727,
+            "lng": 9.84032472010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "La Mandola eco Hostel",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114813603415880116617\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcIE9oOv9j-rqV2bkWcxiH9xAEqWVFiBXUO_clIkgVeUW6FWAIc_fcjtcsNvTdh76t42HBv5GNO_A4CIOYjhPWjy8m6bqOaH2YoTUwPEMWN4fMaRF6A2sShkrzBF-fZPIeL-70omPJw4dntexVWOeLEXlAKs8KW7IJG9L2YdKTlYwnBNSXWzTo5IVqXghyr1GfLX5sJSCX27hfvDIXm70DhDYJ9-T3KBlNDAzX_vGzB51NLRUx2KjmdVmLjD08yZmIuDZpgdhXcxg1c6douFsB8rOjxRpDaOT5OfdAMJb0z3FotdY64",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJD2MYmyH11hIRh7kUfBS4M9Q",
+      "plus_code": {
+        "compound_code": "2RXR+GM Capraia Isola, Province of Livorno",
+        "global_code": "8FMF2RXR+GM"
+      },
+      "rating": 4.3,
+      "reference": "ChIJD2MYmyH11hIRh7kUfBS4M9Q",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 362
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via A. Gramsci, 51, 54038 Cinquale MS, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.9802517,
+          "lng": 10.1444526
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.98153307989272,
+            "lng": 10.14572177989272
+          },
+          "southwest": {
+            "lat": 43.97883342010728,
+            "lng": 10.14302212010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Storyville",
+      "photos": [
+        {
+          "height": 848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114854264862911295506\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJjXsYEDmy8AWXBkDhnkr9cq_Y-PTDj7UJcSmG70-ILTrV-3Sj1hPKbCwpE3TIJfxOuK8ddNMJBhEkkA_VLRRvL0qUaiXskn2UAUb_nNBwmiQ-5DznHgxR6pB1nSnN2JO9PPexM7QCU0yc25rb5y8LB--8VnE2faVI6PbgyGlrccgj_r1gM9K9Q5zPd8mFVHIe-IxHDudfcfJBTaUvhRulv0BHS_-yf7tWXNaxEv3DkfMBDZxwfKYmMw5-2msRBm9QyetDJ7iGy0L8QAkbid8O_ZclaQ_QbaygVG9BC4P92u-0TaMg",
+          "width": 1272
+        }
+      ],
+      "place_id": "ChIJiZzHw6MJ1RIRJlePf7d-jSo",
+      "plus_code": {
+        "compound_code": "X4JV+4Q Cinquale, Province of Massa and Carrara",
+        "global_code": "8FMGX4JV+4Q"
+      },
+      "rating": 4.5,
+      "reference": "ChIJiZzHw6MJ1RIRJlePf7d-jSo",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 198
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Giacomo Matteotti, 74, 58022 Follonica GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.9229673,
+          "lng": 10.7538482
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.92438042989272,
+            "lng": 10.75511482989272
+          },
+          "southwest": {
+            "lat": 42.92168077010728,
+            "lng": 10.75241517010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Ausonia, Ristorante Spiaggia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1388,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103628214172645855961\">Hotel Ristorante Ausonia</a>"
+          ],
+          "photo_reference": "AeeoHcL7JWDtkpoZLQQNAmIUnBzOBcvgrql2IUxKwsKd9YOx42_mpiV3PGf13hO4eMTR1BKdSbyJ3rXnizLUDCbBYi0xnIpu9Otbt05pjqHnr3POwnJgPZ5_UZwiSDCVuOjN3qDxUPlLV4OX4QxC8jyLNZX2PdKBgALMH57IRWPrWUyTl9LjeNbu0AsZE5Ej-KTbYsaQekBLcuWhye63OvlivYfCSz86Q1pX1RLh0Qw-flFanwaN9FoddLleIFKJ1zYY1Tfvh8CyAxJ2SUPDxS-3XaYgrJjh_FNki5WaMS5psaz0_G21-hI",
+          "width": 2200
+        }
+      ],
+      "place_id": "ChIJ_fMyaV_cKRMRb32lxYelJzg",
+      "plus_code": {
+        "compound_code": "WQF3+5G Follonica, Province of Grosseto",
+        "global_code": "8FJGWQF3+5G"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ_fMyaV_cKRMRb32lxYelJzg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 228
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via delle Collacchie, 67, 58022 Follonica GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.9131075,
+          "lng": 10.7711191
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.91443927989272,
+            "lng": 10.77244517989272
+          },
+          "southwest": {
+            "lat": 42.91173962010728,
+            "lng": 10.76974552010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel la Pineta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111941713340437822081\">pellegrini.s</a>"
+          ],
+          "photo_reference": "AeeoHcLwi9MBTgpy4mURPoiqnoxlHNG_VOWdkD3xhBoqJFeHBJZXzj93xR3m5sJrhUNYwEtvHSDxVKYZnSReK3chw1Cx751mZuTyLyzvYNHk_Aa-wrqFxdQc9wARuzyS0slGsmMSJkBqx2RmWob1HHzX0PthCUIgvCVJmqFa1HUT7ZRPBWuXreLEtoZinbsVo8YRQ5wuAv2D_h4oQr8oHtlr3PKPkusTTuZwhqvslfUUYiq3b23sbvJ3XbAEJU7UHMfIhllthDnsFuZTIor2gL1JGd6vT_DoViD0PS3B-GAETFKCunQsiVQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJMxDq4pPcKRMR7a9K7S_nCio",
+      "plus_code": {
+        "compound_code": "WQ7C+6F Follonica, Province of Grosseto",
+        "global_code": "8FJGWQ7C+6F"
+      },
+      "rating": 4.4,
+      "reference": "ChIJMxDq4pPcKRMR7a9K7S_nCio",
+      "types": [
+        "bar",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 746
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Strada Provinciale delle Rocchette, 104, 58043 Roccamare GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.778255,
+          "lng": 10.8132381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.77967052989272,
+            "lng": 10.81405315
+          },
+          "southwest": {
+            "lat": 42.77697087010728,
+            "lng": 10.81079295
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Residence Roccamare",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105263638350448049253\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLDWWxnw5szxQzmb7O6uH1FaC6rHqgkGcAGOy7eTnrihre67xoh30CMix0jxtQRg8GgTypC-_UsiOTI4KKO3BkEldz6-neZrdrufKvX4wAO75wT0NrO1DngW2DC2JzhrAPU-w7fs4ZmCSl5gdA1HCg-DXpfB2lgxCF3Acjqzdd6FubQOrGy5UcKdX9dgRDXYorIh3Pfa76QGLu-J1ZbX9zk1CAgK8bbEc_6vUUhN3hhlg0lwXQVyZXD-Wiyy8g8IvtxwKCIAfGl97DxMghm6RZ7JF2LpNDbe60eoFuZe-me4QO8Nqc",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJj2DKdTLOKRMRSS4VHH6DRMg",
+      "plus_code": {
+        "compound_code": "QRH7+87 Roccamare, Province of Grosseto",
+        "global_code": "8FJGQRH7+87"
+      },
+      "rating": 4.3,
+      "reference": "ChIJj2DKdTLOKRMRSS4VHH6DRMg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 784
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Verona, 1, 54100 Marina di Massa MS, Italy",
+      "geometry": {
+        "location": {
+          "lat": 44.01003830000001,
+          "lng": 10.0960499
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.01140072989272,
+            "lng": 10.09744612989272
+          },
+          "southwest": {
+            "lat": 44.00870107010728,
+            "lng": 10.09474647010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Eco del Mare",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1455,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104745576237472298041\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcL-eNfh0N-zVH1ZLrkAsVbA46UTRdor9e_dokkEz4gUxBhrrtna0GNc_iL5-DUdlYVX9YzaoejCNYWB1GJJCcttMcfAoOV-qXe939Dnq7GuPSTOMG0g6j5QKBf_nNJ10QtUWdjfclhYb42TeOLTQSVCyWfpGwMEENeNTVxRn_leTRS914bpWd0K24WPkwitIA5fWIKd0RCCR9QXBBw1jmvreOGQ3GAGTqNnbEuNtAfqKk0l13lh5XqmTRxIeZqKqa4H7XDxO310svxmkEwgtarTaFafVuLJsEEA6rP32ERgmPQ3lSg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJVVrslL0I1RIRdsk2HdbvFSM",
+      "plus_code": {
+        "compound_code": "236W+29 Marina di Massa, Province of Massa and Carrara",
+        "global_code": "8FPG236W+29"
+      },
+      "rating": 4.5,
+      "reference": "ChIJVVrslL0I1RIRdsk2HdbvFSM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 576
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Belvedere Giacomo Puccini, 24, 55049 Torre del Lago Puccini LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8319444,
+          "lng": 10.3063889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.83356687989271,
+            "lng": 10.30734832989272
+          },
+          "southwest": {
+            "lat": 43.83086722010727,
+            "lng": 10.30464867010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Il Nido D'Amore - Hotel Butterfly",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1115,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113512638028421350371\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLrQGccz76iNjNnMH8-j9X6naX83doLIKiVChiVAWrm0tXFHiA9FRLa0Dc1wIaZIpejxnF0GBiCA4UJMZtbib91Vv4IGMqYYQ26qxMMKbqbcPUXMfaw9QR-0Go1VUTfHzQ-EQlizElW--SmTMqQXSS93U4lStXhR6aYdHpKYKoDV_2CdJmMBKBkqHkzBCkx71b0CdR6SZHuwUZuvJD5h13wDamuqGB5PA6OlGDEs2xGjk_0zm2225aLriEsocRFPglcFD-qnyLE0ND6dqSW-dfW5S7VSQVbk6FAkIAT2qjdTDA6Tng",
+          "width": 1807
+        }
+      ],
+      "place_id": "ChIJ5SXLfPCY1RIRaiRgSw0fHJw",
+      "plus_code": {
+        "compound_code": "R8J4+QH Torre del Lago, Province of Lucca",
+        "global_code": "8FMGR8J4+QH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ5SXLfPCY1RIRaiRgSw0fHJw",
+      "types": [
+        "spa",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 893
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via del Forte, 7, 57020 Marina di Bibbona LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2381445,
+          "lng": 10.5288246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.23951427989272,
+            "lng": 10.53014052989272
+          },
+          "southwest": {
+            "lat": 43.23681462010727,
+            "lng": 10.52744087010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Nina di Maurizio Bicchi",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107448887197885297578\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJnDmCY1IOx9M8I96Oflt9DoeDxzc4gfRJEA_45Ct6wQwGf2jECnkr1DtCWlup-C2ZADmJx4rL_7uv9q610UvZpqF3ybqqdvYYdtk-cC8PVRI34RhgIfinpJxfLBRdKVgUQ3chO6is7STVtA1n9kWfQzuY-VA9HcZxeX7GdCWIj-X3eJ29XuMs2Ojo8TwxFSh1eczViz3-uvGuyPiKjx5oHFgo8XdrB0G5qlxBbRU1GotbVZ1Zb-K5-xYbASYcCAhQ2cUmHwqgcimZg8fqto1iLHRvFGX3tZR1mz-F9x6J54LJ_x5Q",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJW3wGbq0G1hIReXtUtYZmMOY",
+      "plus_code": {
+        "compound_code": "6GQH+6G Marina di Bibbona, Province of Livorno",
+        "global_code": "8FMG6GQH+6G"
+      },
+      "rating": 4.6,
+      "reference": "ChIJW3wGbq0G1hIReXtUtYZmMOY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 251
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Località Giusti, 105, 50066 Reggello FI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.6625632,
+          "lng": 11.5246478
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.66393667989273,
+            "lng": 11.52603597989272
+          },
+          "southwest": {
+            "lat": 43.66123702010728,
+            "lng": 11.52333632010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Podere GIUSTI",
+      "photos": [
+        {
+          "height": 1875,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117683756852879440438\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLviW_mcnl24muPH_THSzKvjdeDcvlW82oo-6tVeke0jrrOKVYLhpnv1pWE_nYevTRMMKyZ2oUbFiy0L3Dn8-w_GKxdc23nS059Gxp47DOp06U2nCgrKNM02sz5-_Es5GBSj30sZkUdVeBeiTeGcnTNSfeMW3k11iOL6kqhJRl8TVeax9rxZAld5yN-_wr0uHRgj8xNEIYew3go2Vg67wgi3SpAagdbUdLAbCLkp4CNpxxwZVjQIeFvXlMefBtJuoFlM68clI2BEqOuWuo9YZvpknXtzOtU4JND9mCHlz6_XxK4uFE",
+          "width": 2500
+        }
+      ],
+      "place_id": "ChIJDd1o5ACwKxMRhGcfLmF7GzE",
+      "plus_code": {
+        "compound_code": "MG7F+2V Reggello, Metropolitan City of Florence",
+        "global_code": "8FMHMG7F+2V"
+      },
+      "rating": 5,
+      "reference": "ChIJDd1o5ACwKxMRhGcfLmF7GzE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 95
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale della Vittoria, 159, 57023 Cecina LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2927894,
+          "lng": 10.4997434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.29432707989272,
+            "lng": 10.50098112989272
+          },
+          "southwest": {
+            "lat": 43.29162742010728,
+            "lng": 10.49828147010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Stella Marina",
+      "photos": [
+        {
+          "height": 336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100039588287096425114\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLY-L5WmASCyxGo2rsxnW2sLGpYVVAU-xKoLUvONj8nKOr-SFGHWKi4sbEwEvINLDPsFC1fHL2z3Db4RSZoxM58CPLY-Xr13LrutbAC4tBrB4ODMLXEBqbfLNBRroykwdkY_jdtKWATpNWVc0RzUfmvpTQh0enVudCZKTtzdY0hxBus_pAwxCZzJO10JutT4W7H1v7ZzCBEQV9cGk3vDbFxVmTLRWdgChx0vsSAXQ_1J6dlSGw74ZWMQuEKXIFh4eEltzI3KwRs4zFLisY5gkYyvA9LYkZPv9SJodfSItNhCTS43xo",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJt4OdL2wH1hIRiFstqLCw5iw",
+      "plus_code": {
+        "compound_code": "7FVX+4V Cecina, Province of Livorno",
+        "global_code": "8FMG7FVX+4V"
+      },
+      "rating": 4.1,
+      "reference": "ChIJt4OdL2wH1hIRiFstqLCw5iw",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 812
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale della Vittoria, 5, 57023 Cecina LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2996391,
+          "lng": 10.491821
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.30076897989272,
+            "lng": 10.49336187989272
+          },
+          "southwest": {
+            "lat": 43.29806932010728,
+            "lng": 10.49066222010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Lungomare Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111549074103997965870\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcL0yr5uTTX4z11zwlDCaB99cdfPenRY4HvvGWoMKaqCj0v2b60cbpxTBzQONyyS4UitOKVgZIUVUooyUZJ-0hIuYCPTHNoXKGrJS-osz_JHr_rbIegag1zmsFo80fp1BVS5mJ68X76yD0OFiRRWUpKx2qmiTsPYekBLJkauFPq1ioOorWLc6FtcskXbZPGiIn1RHcopZCI3yiiVB8mKBzan2YEh1M1u8nn4AYWesGRaEjzzDZjfdYrDTe2MLHHzUSbCohJpXgFQ_u619qlZL-JmYR2tZ4FfCfw2T1BaIOFCksQK1wA",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJFX4qbXoH1hIRq_tpEg5F_KA",
+      "plus_code": {
+        "compound_code": "7FXR+VP Cecina, Province of Livorno",
+        "global_code": "8FMG7FXR+VP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJFX4qbXoH1hIRq_tpEg5F_KA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 129
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Ponte Giorgini, 29, 58043 Castiglione della Pescaia GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.7636064,
+          "lng": 10.883682
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.76493257989273,
+            "lng": 10.88509112989272
+          },
+          "southwest": {
+            "lat": 42.76223292010728,
+            "lng": 10.88239147010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel L'Approdo",
+      "photos": [
+        {
+          "height": 2533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115854717443329316657\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLJ7n1oAWS4sZiGQp_8nrrg9S_CTHoPZrRn1YSIL0Ts_xwzT7y3TjEZ0gN4eIg54zKnwK-RDCsBSEeAZtEK5lROzQmlJPsH5W7Q3doUqAV5VO6c8cjeRijziqOoyuzCHFkDNqdXXcyZmMnYFTRUp4MkHmSD6QA6b8Z8nJB3aUqicswQqKQjOqxwbGEhoXxADqlPjnZDo6q8isiyiKbTET7osMiu8CGdnruuv5huvP4uSoW-zrD9kghURwbgzN0YYlL-ZvI04_TNvKtdd93OqgEMd05WpYWyISrqEhyHkWUByweS2gk",
+          "width": 3800
+        }
+      ],
+      "place_id": "ChIJD3Jw7NHOKRMRwP_AV_VYLn0",
+      "plus_code": {
+        "compound_code": "QV7M+CF Castiglione della Pescaia, Province of Grosseto",
+        "global_code": "8FJGQV7M+CF"
+      },
+      "rating": 4.1,
+      "reference": "ChIJD3Jw7NHOKRMRwP_AV_VYLn0",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 700
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Cristoforo Colombo, 147, 55041 Camaiore LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8946888,
+          "lng": 10.2260159
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.89599282989271,
+            "lng": 10.22726967989272
+          },
+          "southwest": {
+            "lat": 43.89329317010727,
+            "lng": 10.22457002010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Mariotti",
+      "photos": [
+        {
+          "height": 2851,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110506986987662643149\">Hotel Mariotti</a>"
+          ],
+          "photo_reference": "AeeoHcLzQyw5ts_3JHy9LFuWNZbzRPnAxvpYj3pGZXidBW7M2JOjQit41RQ5yu5mZwUSh6eGANrvoqCm6Q4xI6Lb3-zzNoipstGVDix2q3xgupfMFzT5jiGwVCcUYT4wdKM7zdMyAuew6vv0RWbTRMdjJXz23zUKcgjA6xrOWDRgKkUgIgBGen1KhMg441cRJWCiwc7jrlVJSiRo4-cBDbqQQsUM214wjsKRYshvF0GfidlSNi0AV9PmK3KABSlo9tNfZxTAyiL9NhbG9VKPDimWqGK7nqua16Z_9R_-upru8UsIcHYWBZ4",
+          "width": 4408
+        }
+      ],
+      "place_id": "ChIJ6-KM56-h1RIRLo9Fn8dYJno",
+      "plus_code": {
+        "compound_code": "V6VG+VC Camaiore, Province of Lucca",
+        "global_code": "8FMGV6VG+VC"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ6-KM56-h1RIRLo9Fn8dYJno",
+      "types": [
+        "lodging",
+        "park",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 364
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via dei Marinai, 19, 57023 Cecina LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.301139,
+          "lng": 10.4919802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.30249697989272,
+            "lng": 10.49347897989272
+          },
+          "southwest": {
+            "lat": 43.29979732010728,
+            "lng": 10.49077932010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Sileoni",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113877660674399129996\">Ristorante Da Sileoni</a>"
+          ],
+          "photo_reference": "AeeoHcLdyAuVQS2-jZdU6Sk-cJXDQrTZC2lX7F_J0-gWtgXRflUBofmtQYQyu_WmYcOkeLyqgjE8c5-fGPdod7-867dKNS12TlQOXUPk-___mKEN-1UXFdekpux8q6MNX7BoYXsryZCGIROqk_5tM5GE2YVNSItnQMOoxL3zvxnzXSHQvCaQw9-1_OWEHB2flnBoSl8W2egaZzh4ehGT7tJJucGAJZAvUpgRs_B0z3sB9lqCAh1gqzpf0eGJSCPmRu1RYoONSqmaNUT8NsBvG4bqE6NxBFSAvrpQLczbMpqmOQZrFm5yiAM",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJpTIvTXoH1hIR1ylCYp9i9No",
+      "plus_code": {
+        "compound_code": "8F2R+FQ Cecina, Province of Livorno",
+        "global_code": "8FMG8F2R+FQ"
+      },
+      "rating": 4.5,
+      "reference": "ChIJpTIvTXoH1hIR1ylCYp9i9No",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 261
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via delle Pinete, 163, 54100 Marina di Massa MS, Italy",
+      "geometry": {
+        "location": {
+          "lat": 44.0209817,
+          "lng": 10.081256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.02236652989272,
+            "lng": 10.08263287989272
+          },
+          "southwest": {
+            "lat": 44.01966687010728,
+            "lng": 10.07993322010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel La Perla",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110291108408699146033\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJa31GTPv8CE0ageuo3Y2sBNhg6QKa8bx7eFg6e6KNK5mWRs1rFcqDh3oLyCpk8CBkLksPT9v3BRC1SkCxseDg530AprQYRGnYJxhN5Tiay8njuIABtBgg5WQQUg4-UcwDOFRwsfw6lsVZ9lm24bG4yplyszdOu5SIycHEPOnV4tOB8qA1GiY-s00DlylKETy_kLuenbYQ7LxyWr3Oyu4eTARtfY29hcUpQkcr1RSF3C8ZikhJdiOdoAkn5hBzWAAQCBB7vRQCW898zyXiJWpW7ou4r3BVAa6E8mXV_4hhyuHkU5Mo",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJm9-zI6gI1RIRT_9xiONNWNs",
+      "plus_code": {
+        "compound_code": "23CJ+9F Marina di Massa, Province of Massa and Carrara",
+        "global_code": "8FPG23CJ+9F"
+      },
+      "rating": 3.6,
+      "reference": "ChIJm9-zI6gI1RIRT_9xiONNWNs",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 164
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via dei Cavalleggeri Nord, 3, 57020 Marina di Bibbona LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2457237,
+          "lng": 10.5278186
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.24714562989272,
+            "lng": 10.52965112989272
+          },
+          "southwest": {
+            "lat": 43.24444597010728,
+            "lng": 10.52695147010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Park Hotel Marinetta",
+      "photos": [
+        {
+          "height": 2216,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112446729221562954286\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJJovH4sLpQYiQzNSNtFsTyr_GCuHO-6O3HSRdTXCDSRTOB2ziF_QqbR4hO16DsswLW0QToCIN1w-gazidogsHavKC4q8gFNONBMvev-7PuTuYpF_HZrtcMswjfDT_799u92vBL4pwiSTt1C3exFgvJERMLjqXtI4efzx3R7RzAl2NAvY6pbFL5dnIWiEXuzw8B_9oeXUT7OkgLTwB2CBI57_aGpdnY0S6kau-QEyYSYQ9_8WyDyiqc1xfdzjnhC4R0wY4dTSUakd3Zrm4YURnsTDtNN6QinMMrMGXZGa_XPkPGUNo",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJbQnCtUoB1hIR3KY7NKDnD20",
+      "plus_code": {
+        "compound_code": "6GWH+74 Marina di Bibbona, Province of Livorno",
+        "global_code": "8FMG6GWH+74"
+      },
+      "rating": 4.6,
+      "reference": "ChIJbQnCtUoB1hIR3KY7NKDnD20",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1966
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "V. Giovan Battista Giorgini, 1, 55042 Forte dei Marmi LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.9554065,
+          "lng": 10.1710906
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.95675477989272,
+            "lng": 10.17244147989272
+          },
+          "southwest": {
+            "lat": 43.95405512010727,
+            "lng": 10.16974182010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Grand Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109661599395231788417\">Grand Hotel</a>"
+          ],
+          "photo_reference": "AeeoHcKeGmktbCB1xEVis0daKpmCVy_HleJKIY4kpDvo6S5GA0YnRrC0Vkm613TPuHt86oUzjX9vKk8JR-7sJnaJxsBYPv_7kkaC5apweRr1Zf-DoXwJkdj6IBFaznpTe9TCnEhnNnn1Wag8MZ6vXisjeMWBQntHSjGW95v2A7kp1W9ap8qHL3uPqC9WIaZyIPAzPpHXGbbTMtIR6bPDzPbjmXaUJBqz8yKR77a6qO_iX_3xIckcEHfV6yczuzRc04NAnwJ-K5J4keBGwvU4T_J1ty4EHdVzEoEwsTYQF-TNm14bhdsy2dI",
+          "width": 5726
+        }
+      ],
+      "place_id": "ChIJNa7BUh0K1RIRsbMECpN8rFM",
+      "plus_code": {
+        "compound_code": "X54C+5C Forte dei Marmi, Province of Lucca",
+        "global_code": "8FMGX54C+5C"
+      },
+      "rating": 4.2,
+      "reference": "ChIJNa7BUh0K1RIRsbMECpN8rFM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 201
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Bozzone, Braccagni GR IT, SP72, 58100 Loc, GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.8650542,
+          "lng": 11.0600039
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.86638312989272,
+            "lng": 11.06136417989272
+          },
+          "southwest": {
+            "lat": 42.86368347010728,
+            "lng": 11.05866452010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Guadalupe Tuscany Resort",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2003,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104431741559783504579\">Agriturismo Guadalupe Country Resort</a>"
+          ],
+          "photo_reference": "AeeoHcJbJtBJZ1kBCuihX0UmdZL8Q7QZbjcGWNz9UP6FLTJPfWZO3nEHoyzJ1Hf8DskXyUK_ynFWqbll6zmGlQu1BBbCvlx-vDGH5h4bxQkUbWnBMGTy6bluRpRIl6rO4WVc4I65h6mE5Jek-Bj7k29FQvCV894_QttC3uXrcniG7zK1zqcdPPpHLaNPYf3mR_siAXGvcRLH4E9Gr29yVaHLf9Tvw6OpmQk3HL1HP3Lr3rnbw8JxQfvsMOFrK_wlRUPaBT0KRQO_keaEw2j9dbACCht_g8EeAhv8FCJePWdrVsXHtRYGnfs",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJVcy121G5KRMRxO3dBWK4XdA",
+      "plus_code": {
+        "compound_code": "V386+22 Grosseto, Province of Grosseto",
+        "global_code": "8FJHV386+22"
+      },
+      "rating": 4.5,
+      "reference": "ChIJVcy121G5KRMRxO3dBWK4XdA",
+      "types": [
+        "spa",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 722
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Benedetto Zaccaria, 3, 57023 Cecina LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2955522,
+          "lng": 10.5017106
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.29683047989272,
+            "lng": 10.50314742989272
+          },
+          "southwest": {
+            "lat": 43.29413082010728,
+            "lng": 10.50044777010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Massimo",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108389189723030821943\">Hotel Massimo</a>"
+          ],
+          "photo_reference": "AeeoHcLcc41UI7IH87tzTc0o8LgcTQYVENvRPdoc6q5iR1u9gjH7KfsTby-VVjSSQDhUNB8gsYXWHRwHyVq7U8oBjjJvezMvLOqfGoh84OcrGqkrbbZKzMGwz4aJrdUN6DXC6nUr8tRoeTGlWcnzrayl5wwnDKEj-1NZ6hvyw7f9Ie9Xbj0iRyZYnEH6E22D8hhQs63aJCPmLQA_QoU-fg4BzRrzuHbPqk7zK1lLxTxcbGg0VVaJL3yieFriINS_t2COuwBmLm-xn-QT9EFed-NACTRSFC1eoGkL7NLO0OUT0X5Y3pGV",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ-5iaK2kH1hIRMH3Hsp08Bug",
+      "plus_code": {
+        "compound_code": "7GW2+6M Cecina, Province of Livorno",
+        "global_code": "8FMG7GW2+6M"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ-5iaK2kH1hIRMH3Hsp08Bug",
+      "types": [
+        "bar",
+        "beauty_salon",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 703
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Italia, 110, 58022 Follonica GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.927907,
+          "lng": 10.7429678
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.92923657989272,
+            "lng": 10.74430457989272
+          },
+          "southwest": {
+            "lat": 42.92653692010728,
+            "lng": 10.74160492010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Lido",
+      "photos": [
+        {
+          "height": 531,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103145247795620773243\">Hotel Lido</a>"
+          ],
+          "photo_reference": "AeeoHcIQh3yF4BDJTsY5XLwsqJXBPwT9iLUVRcZ7O9VPxM_zXR5ODGj5RsKcLI4_-5xTk0TkteRR-STXOVoOh1NGixuiT9hwAa3uvHwlaqEEjmYrq-0i2POADuVNa-Sa6SgTrVzehOIq3yec7JiukYjsc7bfd3Dedb9brDo3NTnASot5BuYrNNCrmCdsK9vSnX3TqIoW6KQskEE1VdeApxqrsoPI0DI-GI29m__55Q2Fbkl4kKBAJc_f7bR8InPWi3r-8XihgViSQZkAPXjeYu__g6GyHaE_2CWPT9of1ix7PEB9Iowbmug",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJ178i1kTcKRMRnvjqTVLltWI",
+      "plus_code": {
+        "compound_code": "WPHV+55 Follonica, Province of Grosseto",
+        "global_code": "8FJGWPHV+55"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ178i1kTcKRMRnvjqTVLltWI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 363
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Località Poggetti, Strada Provinciale Pedemontana, 58, 58011 Casale Nuovo GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.4244666,
+          "lng": 11.3891011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.42568842989272,
+            "lng": 11.39044862989272
+          },
+          "southwest": {
+            "lat": 42.42298877010727,
+            "lng": 11.38774897010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Capalbio Resort - Hotel, Restaurant and Village",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1068,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100878219253134778416\">Albergo Capalbio</a>"
+          ],
+          "photo_reference": "AeeoHcKbWEgX7DTWWly4xUL1xBARgdJ_AwyK5EUCL-ou2L-SXiEBCti_pfinsuegKtd9LZms6VMm5V_OMSuZwo_RsHrXlUDRLhb41j2oUgJTLc0FjRGWvP7Xig2uVC9aLuEbN9O_nUGzTQaJNNly4pQHrzbxJfMr47m0izGKSc_YQBvVk00uTav5oG8uAxlZiNxToviVC9M0rxd0WfgBEV72mSdXeb8lU1BYi4X6lSG8exZhA5INZf2MpAEzFtd3oGljZwqbJ0uyhbWmXEK2KKkbFbSLzXoifKo8fd8UfkojN_GFRG9_1Rw",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJ00Tysjv3KBMRYxVszoz4dns",
+      "plus_code": {
+        "compound_code": "C9FQ+QJ Capalbio, Province of Grosseto",
+        "global_code": "8FJHC9FQ+QJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ00Tysjv3KBMRYxVszoz4dns",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 534
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Leonardo Da Vinci, 19, 55049 Viareggio LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.872133,
+          "lng": 10.241607
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.87342417989272,
+            "lng": 10.24256887989272
+          },
+          "southwest": {
+            "lat": 43.87072452010728,
+            "lng": 10.23986922010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Dolly",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102552831356986738595\">Hotel Dolly</a>"
+          ],
+          "photo_reference": "AeeoHcJeZQ0_JR5YZr3jzyRK89I1AAJ-mTPEYKomokRgmN3SJTjGWiviWP1HLtzpqCKNYAsdgKCPReS6Z3F3wha2wR7Jb6Lfo9Tlrs_4l7FqTh2BDWVslL2J9i0OPk3-lsRVCB9xQMKO4bdxyzu6syX7VJ8pBSQ-0AQL8xpZ5wUS-US3I94W0wRs1wSQen3guE8qMaGIYNAueVf81t9iTiFWOt7tlZ7Ddjk-rH8r3hV2lEpeQeIQYjuVxM3LR3T-nf27cf5xyLOuykhaUXJ7cTsWe17aR1bt5m4PKNqEOpkLX7_Vvhr-Rek",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJsUKTQvKh1RIRHBDJtVNFEXM",
+      "plus_code": {
+        "compound_code": "V6CR+VJ Viareggio, Province of Lucca",
+        "global_code": "8FMGV6CR+VJ"
+      },
+      "rating": 4.5,
+      "reference": "ChIJsUKTQvKh1RIRHBDJtVNFEXM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 121
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Piazza del Forte, 1, 57020 Marina di Bibbona LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.2380171,
+          "lng": 10.5285724
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.23932172989272,
+            "lng": 10.52985442989272
+          },
+          "southwest": {
+            "lat": 43.23662207010728,
+            "lng": 10.52715477010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Green Paradise Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104339508488963809466\">Hotel Paradiso verde</a>"
+          ],
+          "photo_reference": "AeeoHcI7PY22--QNSrMK2CLjO-TrbWTz7PKPDPZFQlIhaePVyr31cFGdF-UTvNvb4-9HaohwDKOEL5sToMlLtMQgnfohikYEk-RwLDHjxDd6Tf7hm_P9Zh0v9jnzREBbWkXpRv1qIYk2-k-Hsd4fNwhIdBmbUdOP2-YTZO7re_8knMhIfAiEAt-SNj-AICuixAYEX3totFZ0I7Lv64LiXxVzdgFwZl-0QW3JuMlxC-UA1b2Ya7-jTcRKIl6msE-nvEyJ2V5u-xBlwBI1sxuMY-eYr_RlNpszEE7pIVpFvhPDtlcmmO5RY_4",
+          "width": 8064
+        }
+      ],
+      "place_id": "ChIJ0zPTqLIG1hIRR2uu_kYdHWI",
+      "plus_code": {
+        "compound_code": "6GQH+5C Marina di Bibbona, Province of Livorno",
+        "global_code": "8FMG6GQH+5C"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ0zPTqLIG1hIRR2uu_kYdHWI",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 264
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Sotto la Chiesa, 227, 55040 Stiava LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8970734,
+          "lng": 10.3151585
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.89851662989273,
+            "lng": 10.31654687989272
+          },
+          "southwest": {
+            "lat": 43.89581697010728,
+            "lng": 10.31384722010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "La Stagione dell'Arte B&B",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109915863681478776113\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcKzhhJqysua3vYi4wj2i2sdh0sSkIq6rBg_SMnSqLHnkHgyAhf6Yw8E_KrzMy0ny-BumadTtrxlSg-jS7k0o6K_SbXsoTXMjolVfpZHzijQgjgq5bziy_u7qukqDluu5v_N9uWtEhE753TnvQqPIvUQd-Okr8ayxAAAsiJCbuXBPGKcGLmy2bCqXV013kWvtYd8xmQu-sy8x3WDwXK34EMf_Gk2Ffr59HssnzBFOrZed5ABWbEdxeQTUlzAatdm39nPORQUVrXgHrZJr2Ao4O4_w1bOHDf2UIRThGkF8ZP7TrZHqbk",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJB_Kxglee1RIRa7K6VkUxDAA",
+      "plus_code": {
+        "compound_code": "V8W8+R2 Stiava, Province of Lucca",
+        "global_code": "8FMGV8W8+R2"
+      },
+      "rating": 4.8,
+      "reference": "ChIJB_Kxglee1RIRa7K6VkUxDAA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 63
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Pergine Valdarno (Arezzo), Località Poggiauto, 52019 Pergine Valdarno AR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.4948283,
+          "lng": 11.6875213
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.49604677989272,
+            "lng": 11.68897777989272
+          },
+          "southwest": {
+            "lat": 43.49334712010727,
+            "lng": 11.68627812010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Agriturismo Antiche Dimore di Poggianto",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110217794270478114401\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcKjgaOvZr1XBgGJOM6iNgpeB5pepFCIiUtmbXwaIfrxxQAN9C3ET_dPvVAnazTBQ5pTQUQhGijXgXax_GTSJKalVJQLOfMHE9gEJ7RRrTVWwdxy0OiXyUCBn-ieHUJQV-bJN4YNZkr7tYLR-fPuEu3RIB98jlvpbs_TCxP_e-aP1NQ0zdxYSw9WLXPigGDGb0yKWWWYYEHzekvj9SL2efyLSvOP_c_0pGI81_OM84ruJu7oYqJeSLkAvBp1tmn1WdN0VlKU5XMAWpxa_bgBd_35JhJvvzBFwdDocyVv05SgpG2dW_4",
+          "width": 4272
+        }
+      ],
+      "place_id": "ChIJTzIR4DjAKxMRkXKWc_nnEb0",
+      "plus_code": {
+        "compound_code": "FMVP+XX Pergine Valdarno, Province of Arezzo",
+        "global_code": "8FMHFMVP+XX"
+      },
+      "rating": 4.7,
+      "reference": "ChIJTzIR4DjAKxMRkXKWc_nnEb0",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 98
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Michele Rosi, 24, 55041 Camaiore LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.9017866,
+          "lng": 10.2226556
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.90313172989272,
+            "lng": 10.22398897989272
+          },
+          "southwest": {
+            "lat": 43.90043207010728,
+            "lng": 10.22128932010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Bacco",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2907,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110392319477616111308\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLieaPmISTqFJvcekIjqZcK2mgjmcbRgMyk64Q-lD0_RXNRc-uM0aoLC-mjkWy1eruAi1NvaRkUPNN7XvdZWUJj-Ur-Eyly574MrA_k7r9_D1pv036w8Jvju_WBNFJKvnKs1rr9oSt1Bdb5fCw0selxpBmsmE-rcD8SvLDeuHFsUK-cdpPnHffNgER6ZTA-m0PEm6lQV1nIcCaE0i9jtIa1GG7fXgXB2-GLE2wMFWfVh1dqa7zJOZpSWGXnhvNbF2Bg1FYF294Y9ZcxhiF2dqbCaFXBoAlDrcNYj7T-t5622tOpNgM",
+          "width": 3876
+        }
+      ],
+      "place_id": "ChIJIUi7iKyh1RIRYnnKEyMq2zY",
+      "plus_code": {
+        "compound_code": "W62F+P2 Camaiore, Province of Lucca",
+        "global_code": "8FMGW62F+P2"
+      },
+      "rating": 4.3,
+      "reference": "ChIJIUi7iKyh1RIRYnnKEyMq2zY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 135
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "20/23 - Donoratico LI IT, Via del Tirreno, 57022 Marina di Castagneto Carducci, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.1765289,
+          "lng": 10.5386447
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.17792852989272,
+            "lng": 10.54020242989272
+          },
+          "southwest": {
+            "lat": 43.17522887010728,
+            "lng": 10.53750277010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Alta La Vista - Hotel Di Nardo Group",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1288,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100150441572930113370\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLhUASkY9ZmMRIMoDYbIiCU9UIfxICuXQ25geYrUdLtyHK2junKIm_nmskVhXplHgAT1qrK1TKIle5SRW5SWmwSYXWZz6YixcNZC2u4QXx3Ue7SBt8qqSFSos0j7ZSnpfBAkJ0WksedlGsU1KWf2IVVw_LIvYwyOKNERDjdC9n8t9hSAAfhQueyBZg0_o1rDbMJdK5oXCoBmFJ7sp95eZImiJ2YWnw-dCySLQ9lsNofr7alWI5BmAiRV_S7740q9wiSCkg3QH7sHJ-BMTioMZ_lEhXDOovWZHfv_K3j1kPkABS_I6k",
+          "width": 1930
+        }
+      ],
+      "place_id": "ChIJNcgZsWUD1hIRdlgVGxMHgek",
+      "plus_code": {
+        "compound_code": "5GGQ+JF Marina di Castagneto Carducci, Province of Livorno",
+        "global_code": "8FMG5GGQ+JF"
+      },
+      "rating": 3.8,
+      "reference": "ChIJNcgZsWUD1hIRdlgVGxMHgek",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 258
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Stradone del Belvedere, 1, 57016 Rosignano Marittimo LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.3528854,
+          "lng": 10.4814387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.35417642989272,
+            "lng": 10.48281767989272
+          },
+          "southwest": {
+            "lat": 43.35147677010728,
+            "lng": 10.48011802010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Residence Borgo Verde",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100697807604055248970\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcK_9MjB2h81z85hIGr2d_wl9Q--FLe-d_x56mllcm9nkQ5tlyp1nb8TIfva_6EII1abc1B6I_xeGBU28my1uOG143TbozdvaSXNG16HURT1qZ3DdQgGTgJcqnavsDZWxex2oRKw7ThmHzKEzcPnImfUlae_ksnIeXmhbLkFCgFPeAn4vKqFm0pnF_FCyGZ7GbwWwGC66vZARgQ4lEl9tKNNjgkKUhOxRbHt8HROJxm7Zviyx1WVlQMl5dRrXqHqiSbi-vTKGTELQODFsHtiSSGs8MWEh-0I6LgqCR3kUbKD53Y7o-A",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJGzTFuqn91RIRrQOM0ZdPYKM",
+      "plus_code": {
+        "compound_code": "9F3J+5H Rosignano Marittimo, Province of Livorno",
+        "global_code": "8FMG9F3J+5H"
+      },
+      "rating": 4.7,
+      "reference": "ChIJGzTFuqn91RIRrQOM0ZdPYKM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 823
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Strada Provinciale Talamone Ovest, 2, 58015 Talamone GR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 42.565431,
+          "lng": 11.1396307
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 42.56674342989272,
+            "lng": 11.14098537989272
+          },
+          "southwest": {
+            "lat": 42.56404377010727,
+            "lng": 11.13828572010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Talamone Camping Village",
+      "photos": [
+        {
+          "height": 3631,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107170662067947409736\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcIVXbM-5xFuqRH5vwfkZtSfHgn8xV0aWH93QKzBGNdXqfkJ3BW8KD8BMvkcR494kt8Vh0exOCqIcb1LxR9_q3AVdzJm1VR2Ofb47IzQi5pzdqEngoDgsN8xgsDUrlmje2TAWmqvUS9yzgdyJC5pI6lQxA8_ELi0y3g6KUuP8c3KQEl-Do9shT6_ytDevysWkvzrweIeeVzYbXvbb3aCzxA9i91_K5E9jpjepckeOcHxgBTfX_Pc1QAIJ4_BmpYe1o_zGBR6JLTDPWEnVggy8fkPQ8PZ0eTPKIgr1RXJSb9lftond5I",
+          "width": 4844
+        }
+      ],
+      "place_id": "ChIJKU8UEO9NKBMRjRS0nZxnNjA",
+      "plus_code": {
+        "compound_code": "H48Q+5R Talamone, Province of Grosseto",
+        "global_code": "8FJHH48Q+5R"
+      },
+      "rating": 4.1,
+      "reference": "ChIJKU8UEO9NKBMRjRS0nZxnNjA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1766
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale del Tirreno, 217, 56128 Pisa PI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.6194813,
+          "lng": 10.2916719
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62084542989272,
+            "lng": 10.29288127989272
+          },
+          "southwest": {
+            "lat": 43.61814577010728,
+            "lng": 10.29018162010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Euro Hotel",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108870807408945839041\">Teppo Kolistaja</a>"
+          ],
+          "photo_reference": "AeeoHcKKZnMhxrbFgHC09PpdXn4uZljgKLlwejmtouQyojJPCn7I_gbz0tlDHmK2qisgFIS_Xgonr9KvrglD8MVn2ZA0JzmQ4MO1GsI32tUOn0cSZuyh_HeFSifPNROLZrdBw2a5WS7ZyxIL8a_S4CgN5VkfIcHBAp_IJo79UuJGgP2qSd_fHtm-vxjgilNCkETsJ6P1awHz_FQBACLnPZvEL0Ubj_Zxu55_r6kVKuReGNWOF2zbK8RFiTm7gx56IgFfOzveBfly3Btgr6FJzwSHllWKwZIFsZI8ub4hCcoulIV5w3E_xqg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJpa59-8Tq1RIRDVoQW-BLMpE",
+      "plus_code": {
+        "compound_code": "J79R+QM Pisa, Province of Pisa",
+        "global_code": "8FMGJ79R+QM"
+      },
+      "rating": 4.4,
+      "reference": "ChIJpa59-8Tq1RIRDVoQW-BLMpE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 315
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Pilastri, 18, 54035 Fosdinovo MS, Italy",
+      "geometry": {
+        "location": {
+          "lat": 44.1181312,
+          "lng": 9.9982461
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.11951947989272,
+            "lng": 9.999827429892722
+          },
+          "southwest": {
+            "lat": 44.11681982010728,
+            "lng": 9.997127770107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Albergo La Castellana",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105282508175497623495\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLekdZpoLOwvg5cuqZRJzFYEUziO7UHt-9ST0SywdcT6o7bcLgxkybZ4890nxASjTT-9yUkJbkv-u3aLg013CrBVsHZ_eePWb_Q7UsmkhYNWpRRzbBnDYMhIbS76_r4npGav8nHrwHay9tQ77mDvltK221vk-hd3uPu_JpSRkmBGbfvyGPTCBulgqcToRXO6DM7bZmcDVLIgKegrfD26GU_k_audbmsG0FC4PwGC0P30824xrTMxJYFeyrC2zjF6H32blhivjKhKmFtZckxxjaKptoGtiUvLX7QMFKALhTnHSguqAc",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJWeMl-VAb1RIRAwsPY1WLWqM",
+      "plus_code": {
+        "compound_code": "4X9X+77 Fosdinovo, Province of Massa and Carrara",
+        "global_code": "8FPF4X9X+77"
+      },
+      "rating": 4.2,
+      "reference": "ChIJWeMl-VAb1RIRAwsPY1WLWqM",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1022
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Penna, 2, 52020 Laterina Pergine Valdarno AR, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.5080424,
+          "lng": 11.7366594
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.50952057989272,
+            "lng": 11.73807137989272
+          },
+          "southwest": {
+            "lat": 43.50682092010727,
+            "lng": 11.73537172010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Toscana Verde",
+      "photos": [
+        {
+          "height": 693,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113454272178981950891\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcI8UeI7hcO96YepC4IwZ76JBSdMv6IK8sB9tOYWh7gjhtGnIxZUzNfZhnGGztfgWrEP6TS5o8EUDR7MLXjb0hcCn06IcWUKJdmuf9N75EA6VThcfhBA41dp7emyPaShDeikHq9u0a4Le9rGNtrm9uEAQ-kK3VklaX5SekioMWJFyUsaw1VNwJTjRuk1rCmA5ua3W0ilti9fgJXi1LTJ3d5AfkTLQuZYYG3ThyjRQtCmRLUNJ93tsX8Wjm63M4KNWjkb8BydZ-K1GD1z_bIl4uiCAXFomRc6quNPkdoZ1G7mHLrKJOM",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJnw7dYzqVKxMRyLRnN6z8hSw",
+      "plus_code": {
+        "compound_code": "GP5P+6M Laterina Pergine Valdarno, Province of Arezzo",
+        "global_code": "8FMHGP5P+6M"
+      },
+      "rating": 3.8,
+      "reference": "ChIJnw7dYzqVKxMRyLRnN6z8hSw",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1186
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Paolo Manfredi, 15, 55045 Lido di Camaiore LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8980902,
+          "lng": 10.2247868
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.89944317989273,
+            "lng": 10.22613372989272
+          },
+          "southwest": {
+            "lat": 43.89674352010729,
+            "lng": 10.22343407010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Sylvia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115863107667948212821\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcIKQ1cp1A5SDYEe7qHa6waFyuMF5HwRpSQfRUHDEJZKRfdaxwJm_1XIRw703einEFUGVRUekzAEPQLvtsVIcZDrL7mcFuseEpvy0r9odDVmKtuHm_hyW7o34A1xg5sYdpJRfcCdVOSTsU9JbmAnuBDrZRXHaQfR59J9v1_Rcy9N1eFpJTDwkiOxdqUkq4qvPHaCn3xPAmvoQiV3TjZCeOZ-kx_wIKkJ52E7q7d3OR3EbzcGBEtZok_K0KgCqogRT8u19KoyQ7kDh0UZ32e5smSZ2NyKWT-mQlHY_nIjljABobXtKOI",
+          "width": 2500
+        }
+      ],
+      "place_id": "ChIJFazOCq6h1RIRBFXO72RiXsQ",
+      "plus_code": {
+        "compound_code": "V6XF+6W Lido di Camaiore, Province of Lucca",
+        "global_code": "8FMGV6XF+6W"
+      },
+      "rating": 4.3,
+      "reference": "ChIJFazOCq6h1RIRBFXO72RiXsQ",
+      "types": [
+        "cafe",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "store",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 378
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Versilia, 87, 55045 Marina di Pietrasanta LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.9252486,
+          "lng": 10.202292
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.92645467989271,
+            "lng": 10.20353492989272
+          },
+          "southwest": {
+            "lat": 43.92375502010727,
+            "lng": 10.20083527010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel La Locanda Del Geco",
+      "photos": [
+        {
+          "height": 3783,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112413054979745889427\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLSoAlkRJiSyADX-buQF5NbTHPX0tMhi9gsF-xPi0-sSwq0GtcB4mX7OEwyRA19JyX9QXyL9o06k1uSV6EW2EjAj9QXI-DNZh3iLD61zlbDFv0x4z-_ZJUiASrmkKf_h5Hz_bO3A-3li49UDO8G65m0LXmk_iCcRMwXur2srRExEe-qo4rBGUu746r74p7qm83A7LANbsi8PmqVow8KLpfskozhYjlxtHRUe3yCe8YX9-_j1WLwiq4M9Bftcq0qNhl6-SZJg5Kwr29i2xhZ5a8OH0D8lKCyJtS8DcZmT9y3iKITFSY",
+          "width": 5674
+        }
+      ],
+      "place_id": "ChIJB2Z0wpKg1RIRpR1rNY8B_Lw",
+      "plus_code": {
+        "compound_code": "W6G2+3W Marina di Pietrasanta, Province of Lucca",
+        "global_code": "8FMGW6G2+3W"
+      },
+      "rating": 4,
+      "reference": "ChIJB2Z0wpKg1RIRpR1rNY8B_Lw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 82
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via per Montagnana, 83, 51010 Momigno PT, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.9723805,
+          "lng": 10.8154986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.97370437989272,
+            "lng": 10.81690532989272
+          },
+          "southwest": {
+            "lat": 43.97100472010728,
+            "lng": 10.81420567010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Amelia Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107298019691513202597\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcLj_pM-QH3S06-CVa0JtKLVGd9d2u2KkHtnUfuIjKf_eGFNXoLNsq7hRomGLNl0hPcWtlDCfDwY5EtPzx7vp0GK52yonJ5_3nIdH9mDr-vcpJo7lPXGLvCejX8NBX2G5Yh6wt9zrFLfYqx3FqKsj07YamvBRzt-ik8LI92Y8EXwBIo3KC4vysL2vXtwDegxqE3kTl5-viuzSWCSAP5em51sFSn31PUXrpcUzov0n0F9lr7M_UksZjktU86K84njdJ5RdBr-vjrvx0aOkbyfZqSRrXAYuneqLvhCOxoiTd6T_ZSHwvw",
+          "width": 6240
+        }
+      ],
+      "place_id": "ChIJgyuPwEWPKhMR2xS_wmlfjO4",
+      "plus_code": {
+        "compound_code": "XRC8+X6 Momigno, Province of Pistoia",
+        "global_code": "8FMGXRC8+X6"
+      },
+      "rating": 4.3,
+      "reference": "ChIJgyuPwEWPKhMR2xS_wmlfjO4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 284
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Massorondinaio, 39, 50038 Scarperia e San Piero FI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.9610519,
+          "lng": 11.309925
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.96246677989272,
+            "lng": 11.31123252989272
+          },
+          "southwest": {
+            "lat": 43.95976712010727,
+            "lng": 11.30853287010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+      "name": "Camping Village Mugello Verde",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116959651279380845899\">Camping Village Mugello Verde</a>"
+          ],
+          "photo_reference": "AeeoHcLcnBC2L3TZjTD840EHHaDD-eRO_KY5-HuHpQo_qECClBIGq3LkhFFg9RFLY-CbiYBW36L1ckt7p3F1yL9It_GS2h_lMbAv2bBd2JYfBcnzpyNcbQkhruAGsctvP5L-rwMFRceqvl8jaoy0pKvilBnthgmkbm_2A4kK534-EAqEG7H7LwmZh6T14orrLvFXIfMERQ-ZpHR2_kwFmQay-OgiZuzLbSETD8DnbqL1-tzefvjHdDWEKv94o-3JATPDttSUGis5OMqeTSfue5FLHq9k4r5LKrc2khzXxwowTlqA53HQpcQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJz_6ZDRD9KhMROKcHfVP4gj4",
+      "plus_code": {
+        "compound_code": "X865+CX Scarperia e San Piero, Metropolitan City of Florence",
+        "global_code": "8FMHX865+CX"
+      },
+      "rating": 4.3,
+      "reference": "ChIJz_6ZDRD9KhMROKcHfVP4gj4",
+      "types": [
+        "campground",
+        "park",
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 2371
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Belvedere, 26, 56128 Tirrenia PI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.62780559999999,
+          "lng": 10.2898611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62896567989272,
+            "lng": 10.29120397989272
+          },
+          "southwest": {
+            "lat": 43.62626602010728,
+            "lng": 10.28850432010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Grand Hotel Continental",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104985289894534407492\">Grand Hotel Continental</a>"
+          ],
+          "photo_reference": "AeeoHcLnl7tSOv514rgvNLAZHyhIKoeHwn5TKpU1ig-J1_9ZfHbH4l4K5OZHbiHdZW7ni__4mYxP37jo9sT8qVridm9-9l5_Q7elXe-Lx3TxywtTCSVb4DJzSTpg2spCdy5A_I3Deknt3Ssg8LkKHd6FENhq8Y58BfbkKqZ30PUuF_ftDv7djAmfQEFB5WiQ92N6rfLZBrQvXA6uckTQ9vMpVJWXePfilbNcc01puTA0JtYHffo23p1pIdHjhFT4rVe9qHclK0ZBSsX2kayI83zQpvycI0pEnrPFqvBhkqWmrrDitlEqPug",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJJfefz83q1RIRqgan4vvUuCA",
+      "plus_code": {
+        "compound_code": "J7HQ+4W Tirrenia, Province of Pisa",
+        "global_code": "8FMGJ7HQ+4W"
+      },
+      "rating": 4,
+      "reference": "ChIJJfefz83q1RIRqgan4vvUuCA",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1425
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Stradone del Lupo, 13, 57016 Rosignano Marittimo LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.3676128,
+          "lng": 10.4931195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.36892792989271,
+            "lng": 10.49466037989272
+          },
+          "southwest": {
+            "lat": 43.36622827010727,
+            "lng": 10.49196072010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Antico Podere San Francesco",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117811984708612188238\">A Google User</a>"
+          ],
+          "photo_reference": "AeeoHcJpq-qPmIK0xDuUJXDCX6wCAedTu8k-yF9GFJb4t6OcowTf5OEnVzGWhb3E5GrIvK7K9aKKmh-8Yqrgs6zWzIykDcC7d9N19pdnGqL6kV0yGk4lUP8DmQ9-_Wv_Ja-q-eiTi5JigWSZnVfNSv7YEXtuhVDGmLr8guiE_VBGWKz-I9gsqSbWD1T4kxfuA7PcLN_FO1Nc1zFtu1f8r1VzGB0wIwsBtks4Lq7BOcgAQ-b6CxvsUAp145fb2HD3s5Fsv7jAzvvFDLvUe8OPLKvSfpuJQtF6CrbMzSGKbRA6jpVRrwFePqk",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJtV6srWf81RIR3zGV0Fv-L78",
+      "plus_code": {
+        "compound_code": "9F9V+26 Rosignano Marittimo, Province of Livorno",
+        "global_code": "8FMG9F9V+26"
+      },
+      "rating": 4.7,
+      "reference": "ChIJtV6srWf81RIR3zGV0Fv-L78",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1030
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Aurelia, 301, 57016 Rosignano Marittimo LI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.3882292,
+          "lng": 10.4375015
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.38958262989271,
+            "lng": 10.43882507989272
+          },
+          "southwest": {
+            "lat": 43.38688297010727,
+            "lng": 10.43612542010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Elba",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107657536596349209049\">petr tintera</a>"
+          ],
+          "photo_reference": "AeeoHcI2YQBF054PS00nO5sj3wb83uVq0O-A-XnV0Y7xgA4f9u2AB0GPiX4HLAfMHB7Bz9thc4E3vNRGW4xwgQPICqtqLmOWi2vtPt2N18lYiILRQqDLLavqJiiPSDXvUSgc-ctjYxK2h4DN3FiKe_q25DDkFS2X_zjI329-0wS5-gFkcMhLHa6BL2qorJ0zVqF9Ujle6aRWSxk6vEQpEnjiwYisY-d-E_rnhqVJH51R_kD3fZsDZ7Tchci9xLHQK-3P_cXWFAOBjdZlwKv5zhQ4RqskCYR0R_qmHKMAQocxujPSQsf33Qg",
+          "width": 7296
+        }
+      ],
+      "place_id": "ChIJ4axPDFXj1RIRbxMWq6qJooI",
+      "plus_code": {
+        "compound_code": "9CQP+7X Rosignano Marittimo, Province of Livorno",
+        "global_code": "8FMG9CQP+7X"
+      },
+      "rating": 3.6,
+      "reference": "ChIJ4axPDFXj1RIRbxMWq6qJooI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 230
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "SP1, 53037 San Gimignano SI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.491991,
+          "lng": 11.0205213
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.49345597989272,
+            "lng": 11.02195317989272
+          },
+          "southwest": {
+            "lat": 43.49075632010727,
+            "lng": 11.01925352010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Villasanpaolo Resort & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113070913146031863988\">Villa San Paolo</a>"
+          ],
+          "photo_reference": "AeeoHcLzvW7KJhLmFn5h6T1L8dItaVxuBXE_ID7JfZz3fXzROzwDRtffhukry1w7JR1Vij44LUUocYBItlzlEn_TeOzM-vVRnjgpwZANscRusy-ncV7RRGfUp2dufJUj8W1tUfOVz4mypqgsrjJ8ZksFsgG_UTUkmd6cMppFrRRuT-QMORAwyxeE87YzRMX4VH9UTfgzqXc8_UwU_YnwXxGwr4AC0JAD5b3P1JR7tSgspmLbnWka9sTTLdhEmadQYWWuI4g3SHitXAD2-A-IcsWJXiLqnLzhTCAif5PZULYK35c-9blN0gM",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJgQe8Gnw-KhMRXhrmI6qeFPA",
+      "plus_code": {
+        "compound_code": "F2RC+R5 San Gimignano, Province of Siena",
+        "global_code": "8FMHF2RC+R5"
+      },
+      "rating": 4.6,
+      "reference": "ChIJgQe8Gnw-KhMRXhrmI6qeFPA",
+      "types": [
+        "spa",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1217
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Viale Daniele Manin, 27, 55049 Viareggio LU, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.8693756,
+          "lng": 10.2424383
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.87073822989272,
+            "lng": 10.24381762989272
+          },
+          "southwest": {
+            "lat": 43.86803857010728,
+            "lng": 10.24111797010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Eden",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116082914761541618857\">Daniele PRINCI</a>"
+          ],
+          "photo_reference": "AeeoHcK9PkouQLuFdnYXiE3wPGEyl2jKkjytqNFW6fg9F8beTHXKb7K6jmSSce__GT629C9T2820nurwyfArgrYywofqM4ZFUp0ozl2pDotAEQ359EVeZrGoSt78WOjGSOgb1pK6LF02af4vbQQk3TP0_cYuU3eXeh9syIQLDoqZ73NBkxTwsks1ayk-kaTlJbkgLPow6fahC1ukgJ0UuK998_ApLEOhGsd4dL7cH-kqkzFAYguymF8J-A8rD7TswfQJ6fc7nhURD6ivKc7f58LaOozGaMxscc32ITFWsttdCYV2vsW3GJQ",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJEdC56fOh1RIR7TvOlzvRfBo",
+      "plus_code": {
+        "compound_code": "V69V+Q2 Viareggio, Province of Lucca",
+        "global_code": "8FMGV69V+Q2"
+      },
+      "rating": 4.3,
+      "reference": "ChIJEdC56fOh1RIR7TvOlzvRfBo",
+      "types": [
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 416
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Via Giacomo Matteotti, 15, 53037 San Gimignano SI, Italy",
+      "geometry": {
+        "location": {
+          "lat": 43.4616787,
+          "lng": 11.0380547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.46323117989272,
+            "lng": 11.03955392989272
+          },
+          "southwest": {
+            "lat": 43.46053152010728,
+            "lng": 11.03685427010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Relais Santa Chiara Hotel",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116646257517025271309\">Relais Santa Chiara Hotel</a>"
+          ],
+          "photo_reference": "AeeoHcIR7ywKAQ6xIlt27ex2RExUBoLeF4SXFd-J8eDQtSPDS-9ODO4RY6hQaBYPws_SCGz5h9gvoQ-vKSH9RIoOalQyZLrxht-_qBCfHzsvcQRP2YlmQ3yuoPDAxP0fSpDpsC-clghRqRsZ5eW5dkndtLk3SQhCcJS0OZ9g9xJnJvuxqlGCDgdCu-zTnQYvSttFlRNbjeSHUrIqMVMqZsV94H90LuvR8EC9NOnI7wGFAJk1pLyE5SMRJdGKf7QiqxOZi_56g10ErOFEkzxzhzNVSYC7lYKbrAgTXD6ZgkvwzA53M5T9CX0",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJ_TUG4kU8KhMRjeeMlg6zdrk",
+      "plus_code": {
+        "compound_code": "F26Q+M6 San Gimignano, Province of Siena",
+        "global_code": "8FMHF26Q+M6"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ_TUG4kU8KhMRjeeMlg6zdrk",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 315
     }
   ],
   "status": "OK"
